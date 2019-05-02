@@ -416,7 +416,12 @@ http://www.djing.com/tv/i-28658-04.m3u8
 http://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/chunklist_b4500000.m3u8
 
 
-Состоит из видеофайлов:
+#EXTINF:Состоит из видеофайлов:
+
+#EXTINF:0,media_b1596000_1.ts
+#EXTVLCOPT:network-caching=1000
+https://vod-k2310-kbp.1plus1.video/vod/videos/201606/b/ba/bafc177d2a1641f78dde60d21a65ee444e710a61101cd742004ad85976bcf075.smil/media_b1596000_1.ts 
+
 
 #EXTINF:-1,Angel Lima fazendo dupla penetração
 #EXTGRP:Взрослые 18+

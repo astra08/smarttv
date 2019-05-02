@@ -452,9 +452,12 @@ https://webhalpme.ru/intro.mp4
 #EXTINF:-1,video.beeg
 #EXTGRP:Lослые
 https://video.beeg.com/data=pc_UA__1556066620647_/key=Q-owJlATVbpxzh7ymLNnYA%2Cend=1556811073/720p/7020625.mp4
+
 #EXTINF:-1,videoplayback
 #EXTGRP:Lослые
 https://r6---sn-n8v7znse.googlevideo.com/videoplayback?id=4a7e2fe2bce85ea7&itag=22&source=youtube&requiressl=yes&pl=24&ei=M_3KXMq7JIad7ATo2KmAAg&susc=yti&mime=video/mp4&dur=15.905&lmt=1556577904256683&txp=5432432&ip=188.191.20.18&ipbits=0&expire=1556835763&sparams=dur,ei,expire,id,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,nh,pl,requiressl,source,susc&signature=600DE50962912F8D05839BE973FC5FF6EAA86619.1376E75972046A7DEECD1437907E5729B04F2D01&key=cms1&redirect_counter=1&cm2rm=sn-4pvgq-gv8s7e&req_id=30560156103436e2&cms_redirect=yes&mm=29&mn=sn-n8v7znse&ms=rdu&mt=1556806842&mv=m&nh=IgpwcjAxLnN2bzAzKgkxMjcuMC4wLjE
 
-
+#EXTINF:-1,REKLAMA
+#EXTGRP:Lослые
+https://vod-k2310-kbp.1plus1.video/vod/videos/201606/b/ba/bafc177d2a1641f78dde60d21a65ee444e710a61101cd742004ad85976bcf075.smil/media_b1596000_1.ts
 

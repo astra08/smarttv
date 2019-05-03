@@ -4,74 +4,9 @@
 #EXTGRP:HD
 #EXTINF:-1,=== Обновлен 25.06.2018 ===
 #EXTGRP:HD
-#EXTINF:-1,TLC
-#EXTGRP:Другое
-http://164.132.136.176:8000/0079
-#EXTINF:-1,Россия HD
-#EXTGRP:Другое
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Ю
-#EXTGRP:Другое
-http://51.15.194.248:8081/tv/yu/playlist.m3u8
-#EXTINF:-1,Пятница
-#EXTGRP:Другое
-http://193.124.178.71:8081/live-abr/friday/playlist.m3u8
-#EXTINF:-1,Discovery HD Showcase
-#EXTGRP:Другое
-http://cdnworld.magictvbox.eu/Discovery_Showcase_HD/tracks-v2a1/index.m3u8?token=b04f6e1d3917019e1ca2559684a5aad5673f376e
-#EXTINF:-1,Discovery Science HD
-#EXTGRP:Другое
-http://cdnworld.magictvbox.eu/Discovery_Science_HD/tracks-v2a1/index.m3u8?token=b04f6e1d3917019e1ca2559684a5aad5673f376e
-#EXTINF:-1,Discovery Channel
-#EXTGRP:Другое
-http://cdnworld.magictvbox.eu/Discovery_Channel/tracks-v1a1/index.m3u8?token=b04f6e1d3917019e1ca2559684a5aad5673f376e
-#EXTINF:-1,National Geographic HD
-#EXTGRP:Другое
-http://cdnworld.magictvbox.eu/National_Geographic_HD/tracks-v2a1/index.m3u8?token=b04f6e1d3917019e1ca2559684a5aad5673f376e
-#EXTINF:-1,Nat Geo Wild
-#EXTGRP:Другое
-http://164.132.136.176:8000/0054
-#EXTINF:-1,Travel Channel
-#EXTGRP:Другое
-http://94.74.64.1:19123/ott/27:1234
-#EXTINF:-1,Дом кино премиум HD
-#EXTGRP:Другое
-http://195.49.206.243:8000/udp/239.255.1.111:1234
-#EXTINF:-1,TV1000 COMEDY HD
-#EXTGRP:Другое
-http://cdnworld.magictvbox.eu/TV1000_Comedy_HD/tracks-v2a1/index.m3u8?token=b04f6e1d3917019e1ca2559684a5aad5673f376e
-#EXTINF:-1,TV1000 PREMIUM HD
-#EXTGRP:Другое
-http://cdnworld.magictvbox.eu/TV1000_Premium_HD/tracks-v2a1/index.m3u8?token=b04f6e1d3917019e1ca2559684a5aad5673f376e
-#EXTINF:-1,TV1000 MEGAHIT HD
-#EXTGRP:Другое
-http://cdnworld.magictvbox.eu/TV1000_MegaHit_HD/tracks-v2a1/index.m3u8?token=b04f6e1d3917019e1ca2559684a5aad5673f376e
-#EXTINF:-1,Amedia Premium HD
-#EXTGRP:Другое
-http://109.248.236.41:4433/udp/238.1.1.71:1234
-#EXTINF:-1,Amedia Hit HD
-#EXTGRP:Другое
-http://109.248.236.41:4433/udp/238.1.1.96:1234
-#EXTINF:-1,Планета
-#EXTGRP:Другое
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Nickelodeon HD
-#EXTGRP:Другое
-http://195.88.16.15/nickelodeonhd/index.m3u8
-#EXTINF:-1,tvch-id="14051" group-title="��� ��������",PRIVATE TV
-http://31.41.100.0:81/udp/225.0.0.104:1234
-#EXTINF:-1,tvch-id="1272" group-title="��� ��������",BRAZZERS TV 18+
-http://212.19.11.120:999/udp/239.191.254.170:15285
-#EXTINF:-1,tvch-id="15022" group-title="���������������",CBS REALITY
-http://91.193.150.239:1213/udp/239.255.0.161:1234
-#EXTINF:-1,tvch-id="42157" group-title="���������������",CBS REALITY 
-http://46.19.118.12:81/udp/239.195.1.14:1234
-#EXTINF:-1,tvch-id="276" group-title="��� ��������",BRAZZERS TV 18+
-http://109.248.84.30:4022/udp/239.195.2.4:1234
-#EXTINF:-1,tvch-id="2265" group-title="��� ��������",HUSTLER HD
-http://37.8.151.208:4022/udp/224.3.24.127:1234
-#EXTINF:-1,tvch-id="2269" group-title="��� ��������",BLUE HUSTLER 18+
-http://37.8.151.208:4022/udp/224.3.24.134:1234
+
+
+
 #EXTINF:-1,AST TV XXX 1 18+
 https://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:-1,AST TV XXX 2 18+

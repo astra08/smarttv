@@ -2,14 +2,13 @@
 #EXTM3U
 #EXTINF:-1,~~~ Webarmen.com - Самообновляемый плейлист ~~~
 #EXTGRP:HD
-#EXTINF:-1,=== Обновлен 25.06.2018 ===
-#EXTGRP:HD
 
 
 
 #EXTINF:-1,AST TV XXX 1 18+
 https://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:-1,AST TV XXX 2 18+
+
 https://www.ast.tv/stream/2/cellular.m3u8
 #EXTINF:-1,Babes TV HD (18+)
 http://bit.do/bbs_hd
@@ -29,22 +28,26 @@ http://185.3.180.60:8888/udp/239.191.254.173:15285?zona-iptv.ru/
 http://185.3.180.60:8888/udp/239.191.254.114:15285?zona-iptv.ru/
 #EXTINF:-1,Dorcel TV HD
 http://brazilgroup.xyz:25461/live/Geraldo/Geraldo1/3973.ts
+
 #EXTINF:-1,Dorcel TV HD 18+
 http://2ng.ru/2uo
 #EXTINF:-1,Egoist TV
 http://185.3.180.60:8888/udp/239.191.254.249:15285?zona-iptv.ru/
 #EXTINF:-1,EROX
 http://185.3.180.60:8888/udp/239.191.255.6:15285?zona-iptv.ru/
+
 #EXTINF:-1,EXTINF:-1TV Adults 18+
 http://v2.myowntv.org/content/35636/index.m3u8?seg-2422-v1-a1.m3u
 #EXTINF:-1,FrenchLover TV
 http://185.3.180.60:8888/udp/239.191.254.251:15285?zona-iptv.ru/
 #EXTINF:-1,FrenchLover TV 18+
 http://217.107.192.48:9995/play/FRENCHLOVER/index.m3u8
+
 #EXTINF:-1,FrenchLover TV 18+
 http://5.2.51.87:81/udp/239.254.2.50:1234
 #EXTINF:-1,FrenchLover TV 18+
 http://217.107.192.48:9995/play/FRENCHLOVER/tracks-v1a1/index.m3u8
+
 #EXTINF:-1,Hustler 2 HD
 http://46.32.68.167/s/live/705/86.169.51.136/1/0.m3u8
 #EXTINF:-1,Hustler HD 18+
@@ -55,8 +58,8 @@ http://193.238.130.169:4022/udp/239.1.6.35:1234
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1,Jasmin TV (18+)
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1,LTV X Art 2 18+
-http://epsilon-c1.liux.tv/adl-x-art2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+
+
 #EXTINF:-1,Miami TV 18+
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
 #EXTINF:-1,Miami TV Colombia HD (18+)

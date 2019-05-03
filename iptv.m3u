@@ -3,6 +3,8 @@
 http://109.171.66.42:81/udp/239.54.7.1:1224
 #EXTINF:-1,Про Бизнес
 http://109.171.66.42:81/udp/239.54.5.167:1224
+#EXTINF:-1,Мульт
+http://109.171.66.42:81/udp/239.54.6.27:1224
 #EXTINF:-1,AST TV XXX 1 18+
 https://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:-1,AST TV XXX 2 18+

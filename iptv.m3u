@@ -8,6 +8,9 @@ http://109.171.66.42:81/udp/239.54.5.167:1224
 #EXTINF:-1,Кино ТВ
 http://109.171.66.42:81/udp/239.54.6.102:1224
 
+#EXTINF:-1,Первый канал
+http://95.143.18.217:4022/udp/234.5.2.1:1234
+
 #EXTINF:-1,AST TV XXX 1 18+
 https://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:-1,AST TV XXX 2 18+

@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Мужское кино
 http://109.171.66.42:81/udp/239.54.7.1:1224
-#EXTINF:-1,ПроБизнес
+#EXTINF:-1,Про Бизнес
 http://109.171.66.42:81/udp/239.54.5.167:1224
 #EXTINF:-1,AST TV XXX 1 18+
 https://www.ast.tv/stream/1/cellular.m3u8

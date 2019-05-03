@@ -12,6 +12,27 @@ http://109.171.66.42:81/udp/239.54.6.18:1234
 #EXTINF:-1,TV_Sale
 http://109.171.66.42:81/udp/239.54.6.41:1224
 
+
+#EXTINF:-1,[XX] ADULTO 1
+http://tv.factoryiptv.com:80/mai/mai/52276
+#EXTINF:-1,[XX] ADULTO 10
+http://tv.factoryiptv.com:80/mai/mai/52285
+#EXTINF:-1,[XX] ADULTO 2
+http://tv.factoryiptv.com:80/mai/mai/52277
+#EXTINF:-1,[XX] ADULTO 3
+http://tv.factoryiptv.com:80/mai/mai/52278
+#EXTINF:-1,[XX] ADULTO 4
+http://tv.factoryiptv.com:80/mai/mai/52279
+#EXTINF:-1,[XX] ADULTO 5
+http://tv.factoryiptv.com:80/mai/mai/52280
+#EXTINF:-1,[XX] ADULTO 6
+http://tv.factoryiptv.com:80/mai/mai/52281
+#EXTINF:-1,[XX] ADULTO 7
+http://tv.factoryiptv.com:80/mai/mai/52282
+#EXTINF:-1,[XX] ADULTO 8
+http://tv.factoryiptv.com:80/mai/mai/52283
+#EXTINF:-1,[XX] ADULTO 9
+http://tv.factoryiptv.com:80/mai/mai/52284
 #EXTINF:-1,([XX] ADULTO 11
 http://tv.factoryiptv.com:80/mai/mai/57091
 #EXTINF:-1,[XX] ADULTO 12)

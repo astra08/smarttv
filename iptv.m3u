@@ -648,8 +648,8 @@ http://50.7.127.60:8081/candy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE
 http://50.7.136.155:8081/24/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga3c1424fc292009dea07ba7a07f37352bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1,hochu.tv_egoist
 http://50.7.127.60:8081/egoist/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg17456e481afde68951ce62e87518dd63T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-
-
+#EXTINF:-1,evil-angel tv_shalun
+http://50.7.127.60:8081/razvlechenietv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgge0a17fb7c8e1fc6cb6e697f743cb59b4T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 
 
 

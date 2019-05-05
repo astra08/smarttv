@@ -661,5 +661,6 @@ http://50.7.127.60:8081/ox_ax_hd/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8y
 #EXTINF:-1,SCT_erotix-tv
 http://50.7.127.60:8081/sct/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggcd589b8f59fa65739f4c0909c60a816dT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1,egoistTV_all-television
-http://5.196.214.158:9191/stream/Egoist/l_8254_46203083_3152.ts?nimblesessionid=6464309&wmsAuthSign=c2VydmVyX3RpbWU9NS81LzIwMTkgNzo1MDowNiBBTSZoYXNoX3ZhbHVlPVkxTjBwSG1FZklYMVM0cmUyZ3pnMVE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+http://5.196.214.158:9191/stream/Egoist/chunks.m3u8?nimblesessionid=6464469&wmsAuthSign=c2VydmVyX3RpbWU9NS81LzIwMTkgNzo1NjowNyBBTSZoYXNoX3ZhbHVlPWo5YzVvQzJJVFIzWFo2NUNNdDg4UVE9PSZ2YWxpZG1pbnV0ZXM9MjA==
+
 

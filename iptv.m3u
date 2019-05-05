@@ -656,8 +656,8 @@ http://50.7.127.60:8081/sextosenso/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC
 http://50.7.127.60:8081/sextosenso/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga38aa9a3beafe0365953ce3e1f2bd30aT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1,vivid-red tv_shalun
 http://50.7.127.60:8081/vivid_red/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga315010cbad1dc097573fbe50b917a6eT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-
-
+#EXTINF:-1,ox_ax_hdtv_shalun
+http://50.7.127.60:8081/ox_ax_hd/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg1ec195ae3c5d2705a92630aa06af6f63T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 
 
 

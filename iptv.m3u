@@ -650,6 +650,6 @@ http://50.7.136.155:8081/24/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2I
 http://50.7.127.60:8081/egoist/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg17456e481afde68951ce62e87518dd63T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1,evil-angel tv_shalun
 http://50.7.127.60:8081/razvlechenietv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgge0a17fb7c8e1fc6cb6e697f743cb59b4T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-
-
+#EXTINF:-1,sextosenso tv_shalun
+http://50.7.127.60:8081/sextosenso/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga38aa9a3beafe0365953ce3e1f2bd30aT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 

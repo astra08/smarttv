@@ -512,9 +512,60 @@ http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/chunklist_w1507792128.
 http://www.djing.com/tv/i-28658-04.m3u8
 #EXTINF:-1,Canal Tr3ce
 http://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/chunklist_b4500000.m3u8
+#EXTINF:-1,XxX: SEXY HOT HD
+http://lista.digitalgroup.me:80/6004/1234/20825
+#EXTINF:-1,XxX: SEXY HOT HD+
+http://lista.digitalgroup.me:80/6004/1234/37773
+#EXTINF:-1,XxX: SEXY HOT SD 1
+http://lista.digitalgroup.me:80/6004/1234/38734
+#EXTINF:-1,XxX: SEXY HOT SD 2
+http://lista.digitalgroup.me:80/6004/1234/38733
+#EXTINF:-1,XxX: VENUS
+http://lista.digitalgroup.me:80/6004/1234/18088
+#EXTINF:-1,XxX: PLAYBOY TV
+http://lista.digitalgroup.me:80/6004/1234/871
 
+#EXTINF:-1,IDUN_ИДУТ 3
+#EXTINF:-1,hochu.tv_oxax.tv
 
-
+#EXTINF:-1,Vivid Red HD
+http://50.7.136.155:8081/7/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg418043539c424834fd34faa57aa6ab5ebkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,VividRed 18+
+http://50.7.127.60:8081/vivid_red/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga315010cbad1dc097573fbe50b917a6eT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,XXX OX_AX HD
+http://50.7.127.60:8081/ox_ax_hd/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggcb2ff0ad329f193c2e2c28492304bf89T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,PORNO OX-AX HD
+http://50.7.136.155:8081/1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg47c80333098a50cb4027c7f2ac58151ebkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,XXX Redlight HD 18+
+http://50.7.136.155:8081/12/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg741e01894cdb99f2cdcaba9ccf4c9983bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,PORNO Redlight HD
+http://50.7.127.60:8081/redlight/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg17c280bc6585604dd58cb5204bc9d98aT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,PORNO Nuart TV_oxax
+http://50.7.136.155:8081/5/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg0f9f22b55bbeefe9095a099e137ee4e2bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,XXX Nuart TV_hoch 18+
+http://50.7.127.60:8081/nuart/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg53b362c4cfaa891b0c638df40c0be727T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,XXX Candy TVhoch
+http://50.7.127.60:8081/candy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg5045f7442382dc6919ed2b910a0518e9T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,PORNO Candy oxax
+http://50.7.136.155:8081/24/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga3c1424fc292009dea07ba7a07f37352bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,hochu.tv_egoist
+http://50.7.127.60:8081/egoist/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg17456e481afde68951ce62e87518dd63T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,evil-angel tv_shalun
+http://50.7.127.60:8081/razvlechenietv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgge0a17fb7c8e1fc6cb6e697f743cb59b4T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,sextosenso tv_shalun
+http://50.7.127.60:8081/sextosenso/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga38aa9a3beafe0365953ce3e1f2bd30aT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,satisfaction tv_shalun
+http://50.7.127.60:8081/sextosenso/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg0c49b5dd3d57896df06f06392966780cT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,vivid-red tv_shalun
+http://50.7.127.60:8081/vivid_red/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga315010cbad1dc097573fbe50b917a6eT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,ox_ax_hdtv_shalun
+http://50.7.127.60:8081/ox_ax_hd/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg1ec195ae3c5d2705a92630aa06af6f63T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,SCT_erotix-tv
+http://50.7.127.60:8081/sct/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggcd589b8f59fa65739f4c0909c60a816dT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,egoistTV_all-television
+http://5.196.214.158:9191/stream/Egoist/chunks.m3u8?nimblesessionid=6464469&wmsAuthSign=c2VydmVyX3RpbWU9NS81LzIwMTkgNzo1NjowNyBBTSZoYXNoX3ZhbHVlPWo5YzVvQzJJVFIzWFo2NUNNdDg4UVE9PSZ2YWxpZG1pbnV0ZXM9MjA==
+#EXTINF:-1,babestation_tv _ ivan.my1
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/878/index.m3u8
 
 
 #EXTINF:-1,OTKAZ_не желают
@@ -607,56 +658,8 @@ http://46.183.129.1:999/udp/239.191.255.6:15285
 http://lista.digitalgroup.me:80/6004/1234/853
 #EXTINF:-1,XxX: SEXTREME HD
 http://lista.digitalgroup.me:80/6004/1234/20824
-#EXTINF:-1,XxX: SEXY HOT HD
-http://lista.digitalgroup.me:80/6004/1234/20825
-#EXTINF:-1,XxX: SEXY HOT HD+
-http://lista.digitalgroup.me:80/6004/1234/37773
-#EXTINF:-1,XxX: SEXY HOT SD 1
-http://lista.digitalgroup.me:80/6004/1234/38734
-#EXTINF:-1,XxX: SEXY HOT SD 2
-http://lista.digitalgroup.me:80/6004/1234/38733
-#EXTINF:-1,XxX: VENUS
-http://lista.digitalgroup.me:80/6004/1234/18088
-#EXTINF:-1,XxX: PLAYBOY TV
-http://lista.digitalgroup.me:80/6004/1234/871
 
 
-#EXTINF:-1,hochu.tv_oxax.tv
-#EXTINF:-1,Vivid Red HD
-http://50.7.136.155:8081/7/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg418043539c424834fd34faa57aa6ab5ebkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,VividRed 18+
-http://50.7.127.60:8081/vivid_red/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga315010cbad1dc097573fbe50b917a6eT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,XXX OX_AX HD
-http://50.7.127.60:8081/ox_ax_hd/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggcb2ff0ad329f193c2e2c28492304bf89T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,PORNO OX-AX HD
-http://50.7.136.155:8081/1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg47c80333098a50cb4027c7f2ac58151ebkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,XXX Redlight HD 18+
-http://50.7.136.155:8081/12/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg741e01894cdb99f2cdcaba9ccf4c9983bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,PORNO Redlight HD
-http://50.7.127.60:8081/redlight/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg17c280bc6585604dd58cb5204bc9d98aT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,PORNO Nuart TV_oxax
-http://50.7.136.155:8081/5/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg0f9f22b55bbeefe9095a099e137ee4e2bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,XXX Nuart TV_hoch 18+
-http://50.7.127.60:8081/nuart/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg53b362c4cfaa891b0c638df40c0be727T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,XXX Candy TVhoch
-http://50.7.127.60:8081/candy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg5045f7442382dc6919ed2b910a0518e9T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,PORNO Candy oxax
-http://50.7.136.155:8081/24/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga3c1424fc292009dea07ba7a07f37352bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,hochu.tv_egoist
-http://50.7.127.60:8081/egoist/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg17456e481afde68951ce62e87518dd63T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,evil-angel tv_shalun
-http://50.7.127.60:8081/razvlechenietv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgge0a17fb7c8e1fc6cb6e697f743cb59b4T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,sextosenso tv_shalun
-http://50.7.127.60:8081/sextosenso/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga38aa9a3beafe0365953ce3e1f2bd30aT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,satisfaction tv_shalun
-http://50.7.127.60:8081/sextosenso/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg0c49b5dd3d57896df06f06392966780cT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,vivid-red tv_shalun
-http://50.7.127.60:8081/vivid_red/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga315010cbad1dc097573fbe50b917a6eT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,ox_ax_hdtv_shalun
-http://50.7.127.60:8081/ox_ax_hd/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg1ec195ae3c5d2705a92630aa06af6f63T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,SCT_erotix-tv
-http://50.7.127.60:8081/sct/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggcd589b8f59fa65739f4c0909c60a816dT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,egoistTV_all-television
-http://5.196.214.158:9191/stream/Egoist/chunks.m3u8?nimblesessionid=6464469&wmsAuthSign=c2VydmVyX3RpbWU9NS81LzIwMTkgNzo1NjowNyBBTSZoYXNoX3ZhbHVlPWo5YzVvQzJJVFIzWFo2NUNNdDg4UVE9PSZ2YWxpZG1pbnV0ZXM9MjA==
-#EXTINF:-1,babestation_tv _ ivan.my1
-http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/878/index.m3u8
+
+
+

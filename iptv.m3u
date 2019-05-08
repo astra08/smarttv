@@ -17,6 +17,8 @@ http://27.254.149.109:8081/bypass/Thrill/playlist.m3u8
 http://194.28.152.66:81/udp/225.0.55.239:1234
 #EXTINF:-1,HBO&&&
 http://198.255.23.18:25461/1519/1234/113
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA
+http://tv.factoryiptv.com:80/mai/mai/56908
 
 #EXTINF:-1,XxX: SEXTREME
 http://lista.digitalgroup.me:80/15/1234/853
@@ -100,8 +102,6 @@ http://tv.factoryiptv.com:80/mai/mai/57092
 http://tv.factoryiptv.com:80/mai/mai/57093
 #EXTINF:-1,[XX] ADULTO 14
 http://tv.factoryiptv.com:80/mai/mai/57094
-#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA
-http://tv.factoryiptv.com:80/mai/mai/56908
 #EXTINF:-1,XX ADULTO 15
 http://tv.factoryiptv.com:80/mai/mai/57095
 #EXTINF:-1,XX ADULTO 16
@@ -215,7 +215,8 @@ http://79.133.126.136:8888/udp/239.191.254.250:15285
 http://79.133.126.136:8888/udp/239.191.254.251:15285
 #EXTINF:-1,Brazzers 
 http://37.194.184.105:81/udp/239.1.20.64:1234
-
+#EXTINF:-1,Hustler HD Europe
+http://31.41.96.36:81/udp/225.0.56.50:1234
 
 
 #EXTINF:-1,PORNO_RAZBORKU
@@ -275,17 +276,12 @@ http://109.248.93.100:4022/udp/239.195.2.3:1234
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/105.png" tvg-name="Private TV",Private TV
 #EXTGRP:XXX
 http://86.124.131.77:7000/play/a02z
-
-
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/106.png" tvg-name="FrenchLover TV",FrenchLover TV
 #EXTGRP:XXX
 http://185.3.182.83:999/udp/239.191.254.251:15285
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/109.png" tvg-name="Blue Hustler Europe",Blue Hustler Europe
 #EXTGRP:XXX
 http://176.125.92.46:4022/udp/233.12.144.212:5050
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/150.png" tvg-name="Hustler HD Europe",Hustler HD Europe
-#EXTGRP:XXX
-http://31.41.96.36:81/udp/225.0.56.50:1234
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/138.png" tvg-name="Dorcel TV HD",Dorcel TV HD
 #EXTGRP:XXX
 http://ares.dominium.tv:6923/vin/1234/23717
@@ -302,8 +298,7 @@ http://87.117.231.9/iptv/FCU2M3ZSVTTVFR/1073/index.m3u8
 #EXTGRP:XXX
 http://185.3.182.83:999/udp/239.191.254.114:15285
 #EXTINF:-1,� pink 
-http://50.7.127.60:8081/pink/index.m3u8?
-wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggcf79708aae3f27bc6a108f569ce98dfdT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+http://50.7.127.60:8081/pink/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggcf79708aae3f27bc6a108f569ce98dfdT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1,����� pink
 http://50.7.127.60:8081/pink/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg450986a2d33b5a55cbc747042e748db0T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1,����� brazzers_eu
@@ -342,6 +337,8 @@ http://50.7.127.60:8081/candy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE
 http://50.7.136.155:8081/14/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg87dbca1710a63f5c141f6e1691a67da0bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1,����� faptv2
 http://50.7.127.60:8081/faptv2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg37a955406c0aadf9184d47e8cb57f288T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+
+
 #EXTINF:-1,����� faptv3
 http://50.7.127.60:8081/faptv3/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg8d50a0713f49a5a50b5d92732bfc42f1T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1,����� faptv4

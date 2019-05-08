@@ -207,6 +207,15 @@ http://79.133.126.136:8888/udp/239.191.254.249:15285
 http://79.133.126.136:8888/udp/239.191.254.250:15285
 #EXTINF:-1,FrenchLover TV
 http://79.133.126.136:8888/udp/239.191.254.251:15285
+#EXTINF:-1,Thrill
+http://27.254.149.109:8081/bypass/Thrill/playlist.m3u8
+#EXTINF:-1,Brazzers 
+http://37.194.184.105:81/udp/239.1.20.64:1234
+#EXTGRP:XXX HBO
+http://194.28.152.66:81/udp/225.0.55.239:1234
+#EXTGRP:XXXHBO
+http://198.255.23.18:25461/1519/1234/113
+
 
 #EXTINF:-1,PORNO_RAZBORKU
 #EXTINF:-1,Penthouse HD2 (18+)
@@ -251,15 +260,6 @@ http://46.32.68.167/s/live/708/86.169.51.136/0/0.m3u8
 http://178.124.183.5/hls/F7UMYQMCGB/variant.m3u8?version=2
 #EXTINF:-1,������� ���� 18+
 http://217.107.192.48:9995/play/Russkaya_Noch/index.m3u8
-http://27.254.149.109:8081/bypass/Thrill/playlist.m3u8
-http:\\37.194.184.105:81\udp\239.1.20.64:1234
-http:\\176.125.92.46:4022\udp\233.12.144.116:5050
-http://46.19.118.12:81/udp/239.195.1.14:1234
-http://www.freeiptvdaily.net:8000/live/564654657/056848489/1.ts
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42293.m3u8
-http://5.137.85.28:1234/udp/225.54.223.203:5000
-http://fonte.iptvmaishd.com:25461/SANTIAGO/SANTIAGO/141750
-http://fonte.iptvmaishd.com:25461/SANTIAGO/SANTIAGO/168299
 #EXTINF:-1 tvch-id="14051" group-title="��� ��������",PRIVATE TV
 http://31.41.100.0:81/udp/225.0.0.104:1234
 #EXTINF:-1,tnt
@@ -268,37 +268,14 @@ https://s87.glaz.tv:8082/liveg/tnt.stream/chunks.m3u8?nimblesessionid=835989935&
 http://50.7.127.60:8081/pink/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggcf79708aae3f27bc6a108f569ce98dfdT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1,Pink-o-TV
 http://185.31.65.35:80/udp/pinko_tv.m3u8
-#EXTM3U url-tvg="http://api.torrent-tv.ru/ttv.xmltv.xml.gz"
-#EXTINF:-1 group-title="- IPTV webarmen.com/iptv",[������� 29.04.2019 10:22]
-#EXTGRP:- IPTV webarmen.com/iptv
-https://webarmen.com/my/iptv/uploads/files/videoplayback.mp4
-#EXTINF:-1 group-title="- IPTV webarmen.com/iptv",[������ https://vk.com/iptvweb]
-#EXTGRP:- IPTV webarmen.com/iptv
-https://webarmen.com/my/iptv/uploads/files/dog.mp4
-#EXTINF:-1 group-title="- IPTV webarmen.com/iptv",[������������� https://webarmen.com/iptv]
-#EXTGRP:- IPTV webarmen.com/iptv
-https://webarmen.com/my/iptv/uploads/files/videoplayback.mp4
-#EXTINF:-1 group-title="- IPTV webarmen.com/iptv",[���� ��������� �������� ��������� ������ � �������� ��� ��������!]
-#EXTGRP:- IPTV webarmen.com/iptv
-https://webarmen.com/my/iptv/uploads/files/videoplayback.mp4
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/99.png" tvg-name="Hustler TV",Hustler TV
-#EXTGRP:XXX
-http://86.124.131.77:7000/play/a030
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/100.png" tvg-name="Brazzers TV",Brazzers TV
-#EXTGRP:XXX
-http://194.28.152.66:81/udp/225.0.55.239:1234
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/102.png" tvg-name="XXX",XXX
-#EXTGRP:XXX
-http://buyiptv.link:25461/live/LXpLVAsx0Q/TrDtiPNst1/7173.ts
-#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/103.png" tvg-name="PlayBoy TV",PlayBoy TV
-#EXTGRP:XXX
-http://198.255.23.18:25461/1519/1234/113
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/104.png" tvg-name="������� ����",������� ����
 #EXTGRP:XXX
 http://109.248.93.100:4022/udp/239.195.2.3:1234
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/105.png" tvg-name="Private TV",Private TV
 #EXTGRP:XXX
 http://86.124.131.77:7000/play/a02z
+
+
 #EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/106.png" tvg-name="FrenchLover TV",FrenchLover TV
 #EXTGRP:XXX
 http://185.3.182.83:999/udp/239.191.254.251:15285

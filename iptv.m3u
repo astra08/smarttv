@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Про Мульт
 http://109.171.66.42:81/udp/239.54.6.27:1224
-#EXTINF:-1,Прошманды
-http://cdnv.media.hostedtube.com/0/53/53785/NOWATERMARK_240.mp4?validfrom=1557272717&validto=1557279917&ip=188.191.20.18&rate=50k&burst=3mb&hash=bFijpTJk4Gpqyrp81AmFyyD%2Bxmg%3D
 #EXTINF:-1,Мужское кино
 http://109.171.66.42:81/udp/239.54.7.1:1224
 #EXTINF:-1,Мужское кино переделка

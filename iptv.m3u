@@ -31,6 +31,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 http://ott-cdn.ucom.am/s21/index.m3u8
 #EXTINF:0 type=»stream» channelId=»69″, Sony Sci-Fi
 http://109.171.14.66:81/udp/239.54.7.50:1224?zona-iptv.ru
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://194.28.154.60:81/udp/225.0.55.39:1234
 
 
 #EXTINF:-1,Про Мульт

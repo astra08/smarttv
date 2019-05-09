@@ -19,6 +19,20 @@ http://79.133.100.5:999/udp/239.191.254.38:15285
 http://79.133.100.5:999/udp/239.191.254.13:15285
 
 
+#EXTINF:0 type=»stream» channelId=»138″, Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0 type=»stream» channelId=»138″ tvg-shift=»4″, Мир +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:0 type=»stream» channelId=»589″, Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0 type=»stream» channelId=»1727″, Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:0 type=»stream» channelId=»10″, Россия 24
+http://ott-cdn.ucom.am/s21/index.m3u8
+#EXTINF:0 type=»stream» channelId=»69″, Sony Sci-Fi
+http://109.171.14.66:81/udp/239.54.7.50:1224?zona-iptv.ru
+
+
 #EXTINF:-1,Про Мульт
 http://109.171.66.42:81/udp/239.54.6.27:1224
 #EXTINF:-1,Мужское кино

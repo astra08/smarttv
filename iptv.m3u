@@ -874,10 +874,11 @@ http://cdn.videoframe.at/movies/ad1c69e296c5ea4c520aae2afaa587b13e22ac0a/a535593
 http://ip51985491.ahcdn.com/key=dRTQSVheBZ96WT5lxOfRAA,s=,end=1557465671/data=pc_UA__1557243369986_/state=vL8U/buffer=30109235:5432453,1032.0/speed=684301/reftag=20037190/ssd6/23/5/141869475/720p/8330903.mp4
 
 
-#EXTINF:0 ih8yuyf
+
+#EXTINF:0,typ[pk
 https://video.beeg.com/data=pc_UA__1557243369986_/key=bIP8xchXwCmdbL2gjg%2BNaA%2Cend=1557474133/720p/2311863.mp4
 
-#EXTINF:0 yrtdjkmdc
+#EXTINF:0,yrtdjkmdc
 https://ip51985491.ahcdn.com/key=JgfwPayBhziHtdLUzTF4Ow,s=,end=1557474133/data=pc_UA__1557243369986_/state=vL8U/buffer=30140824:6476219,1229.0/speed=685019/reftag=20037190/ssd7/23/8/141867848/720p/2311863.mp4
 
 

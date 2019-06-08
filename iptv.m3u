@@ -601,25 +601,17 @@ http://50.7.127.60:8081/candy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE
 http://50.7.136.155:8081/24/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga3c1424fc292009dea07ba7a07f37352bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1,hochu.tv_egoist
 http://50.7.127.60:8081/egoist/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg17456e481afde68951ce62e87518dd63T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,evil-angel tv_shalun
-http://50.7.127.60:8081/razvlechenietv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgge0a17fb7c8e1fc6cb6e697f743cb59b4T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,sextosenso tv_shalun
-http://50.7.127.60:8081/sextosenso/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga38aa9a3beafe0365953ce3e1f2bd30aT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,satisfaction tv_shalun
-http://50.7.127.60:8081/sextosenso/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg0c49b5dd3d57896df06f06392966780cT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,vivid-red tv_shalun
-http://50.7.127.60:8081/vivid_red/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga315010cbad1dc097573fbe50b917a6eT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,ox_ax_hdtv_shalun
-http://50.7.127.60:8081/ox_ax_hd/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg1ec195ae3c5d2705a92630aa06af6f63T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,SCT_erotix-tv
-http://50.7.127.60:8081/sct/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggcd589b8f59fa65739f4c0909c60a816dT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,egoistTV_all-television
-http://5.196.214.158:9191/stream/Egoist/chunks.m3u8?nimblesessionid=6464469&wmsAuthSign=c2VydmVyX3RpbWU9NS81LzIwMTkgNzo1NjowNyBBTSZoYXNoX3ZhbHVlPWo5YzVvQzJJVFIzWFo2NUNNdDg4UVE9PSZ2YWxpZG1pbnV0ZXM9MjA==
-#EXTINF:-1,babestation_tv _ ivan.my1
-http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/878/index.m3u8
+
 
 
 #EXTINF:-1,OTKAZ_не желают
+
+
+#EXTINF:-1,SCT_erotix-tv
+
+#EXTINF:-1,egoistTV_all-television
+
+#EXTINF:-1,babestation_tv _ ivan.my1
 
 #EXTINF:-1,PORNO XXL 
 
@@ -660,6 +652,19 @@ http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/878/index.m3u8
 #EXTINF:-1,����� ox_ax_hd
 
 #EXTINF:-1,����� erox
+
+#EXTINF:-1,hochu.tv_egoist
+http://50.7.127.60:8081/egoist/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg17456e481afde68951ce62e87518dd63T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,evil-angel tv_shalun
+http://50.7.127.60:8081/razvlechenietv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgge0a17fb7c8e1fc6cb6e697f743cb59b4T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,sextosenso tv_shalun
+http://50.7.127.60:8081/sextosenso/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga38aa9a3beafe0365953ce3e1f2bd30aT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,satisfaction tv_shalun
+http://50.7.127.60:8081/sextosenso/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg0c49b5dd3d57896df06f06392966780cT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,vivid-red tv_shalun
+http://50.7.127.60:8081/vivid_red/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga315010cbad1dc097573fbe50b917a6eT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,ox_ax_hdtv_shalun
+http://50.7.127.60:8081/ox_ax_hd/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg1ec195ae3c5d2705a92630aa06af6f63T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 
 
 #EXTINF:-1,PORNOrazvlechenietv 

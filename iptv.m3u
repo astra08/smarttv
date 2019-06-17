@@ -1,11 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-0 неапапа
+#EXTINF:-0,неапапа
 http://185.38.12.36/sec/1560817229/31343636845dc8b30df5370b7088a66000ae6c5719bfa8a6/ivs/f2/ab/30dce70a240b.mp4/hls/tracks-3,4/index.m3u8
 
 
-#EXTINF:0,ьмлдомльа
+#EXTINF:0, ьмлдомльа
 http://185.38.12.36/sec/1560817229/38353830e5bbd7e2bcc3ea821189ff7afc99171b11e043b1/ivs/f2/ab/30dce70a240b.mp4/hls/tracks-2,4/index.m3u8
 
 

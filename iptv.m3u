@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:0,Отпетые мошенницы
+http://185.38.12.48/sec/1560852580/39303735ddf59a53e5d45e774e2ec82258b4cb70a90c0fe4/ivs/59/28/db82408cf8c4/hls/tracks-1,4/index.m3u8
+
 #EXTINF:0,Валентинка
 http://185.38.12.55/sec/1560850310/35323231c80d054c8bfe0f3b64fc6c7161d571a46bd3e73d/ivs/d5/1a/750d694be363.mp4/hls/tracks-1,4/index.m3u8
 

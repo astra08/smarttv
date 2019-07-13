@@ -68,10 +68,6 @@ http://tv.factoryiptv.com:80/mai/mai/52284
 http://tv.factoryiptv.com:80/mai/mai/52285 
 
 
-#EXTINF:0 Alektra Blue and Tori Black
-https://ip174104920.ahcdn.com/key=p1dgJAYAkB78+42pjFKedg,s=,end=1562952480,limit=3/state=vL8U/referer=none,.txxx.com,.gstatic.com/reftag=063878343/media=hls/ssd6/121/2/124149972.mp4/index.m3u8 
-#EXTINF:-1,Tori Black and Alektra Blue 
-https://ip174104920.ahcdn.com/key=p1dgJAYAkB78+42pjFKedg,s=,end=1562952480,limit=3/state=vL8U/referer=none,.txxx.com,.gstatic.com/reftag=063878343/media=hls/ssd6/121/2/124149972.mp4/index.m3u8 
 
 #EXTINF:0 type=»stream» channelId=»138″, Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8

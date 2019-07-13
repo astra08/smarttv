@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,КИНОКОМЕДИЯ55
+http://194.28.152.46.base-net.ru
+
 #EXTINF:-1,HUSTLER egoist-tv
 http://37.8.151.208:4022/udp/224.3.24.127:1234
 #EXTINF:-1,BLUE HUSTLER egoist-tv

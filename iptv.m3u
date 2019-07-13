@@ -4,7 +4,11 @@
 http://37.8.151.208:4022/udp/224.3.24.127:1234
 #EXTINF:-1,BLUE HUSTLER egoist-tv
 http://37.8.151.208:4022/udp/224.3.24.134:1234
-#EXTINF:-1,AST egoist-tv
+#EXTINF:-1,AST1 18+
+https://www.ast.tv/stream/1/cellular.m3u8
+#EXTINF:-1,AST2 18+
+https://www.ast.tv/stream/2/cellular.m3u8
+#EXTINF:-1,AST3 egoist-tv
 https://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:-1,BraZZers TV Europe egoist-tv
 http://185.167.208.157/master_320.m3u8

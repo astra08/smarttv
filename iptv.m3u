@@ -1,20 +1,125 @@
 #EXTM3U
+#EXTINF:-1,PEH
+http://31.41.100.253:81/udp/225.0.56.99:1234
+#EXTINF:-1,HTB
+http://31.41.100.253:81/udp/225.0.56.98:1234
+#EXTINF:-1,РОССИЯ 1
+http://31.41.100.253:81/udp/225.0.56.2:1234
+#EXTINF:-1,ПЕРВЫЙ
+http://31.41.100.253:81/udp/225.0.56.1:1234
+#EXTINF:-1,DISNEY KANAL
+http://194.28.152.64:81/udp/225.0.55.55:1234
+#EXTINF:-1,КИНОСЕМЬЯ
+http://31.41.100.253:81/udp/225.0.56.102:1234
+#EXTINF:-1,КИНОСВИДАНИЕ
+http://31.41.100.253:81/udp/225.0.56.103:1234
+#EXTINF:-1,КИНОСЕРИЯ
+http://194.28.152.64:81/udp/225.0.55.77:1234
+#EXTINF:-1,NASHE NOVOE KINO
+http://194.28.152.64:81/udp/225.0.55.69:1234
+#EXTINF:-1,КИНОМИКС
+http://31.41.100.253:81/udp/225.0.56.95:1234
+#EXTINF:-1,КИНОХИТ
+http://31.41.100.253:81/udp/225.0.56.97:1234
+#EXTINF:-1,КИНОКОМЕДИЯ1
+http://31.41.99.190:81/udp/225.0.55.39:1234
+#EXTINF:-1,КИНОКОМЕДИЯ2
+http://194.28.152.64:81/udp/225.0.55.39:1234
+#EXTINF:-1,CTCLOVE
+http://31.41.99.190:81/udp/225.0.55.5:1234
+#EXTINF:-1,Загорадная Жизнь
+http://194.28.152.64:81/udp/225.0.55.17:1234
+#EXTINF:-1,ТВОЙ ДОМ TV
+http://31.41.100.253:81/udp/225.0.56.83:1234
+#EXTINF:-1,Ностальгия
+http://194.28.152.64:81/udp/225.0.55.22:1234
+#EXTINF:-1,ДОМ КИНО
+http://194.28.152.64:81/udp/225.0.55.23:1234
+#EXTINF:-1,ZEE TV
+http://194.28.152.64:81/udp/225.0.55.25:1234
+#EXTINF:-1,A1
+http://31.41.100.253:81/udp/225.0.56.9:1234
+#EXTINF:-1,A2
+http://194.28.152.64:81/udp/225.0.55.38:1234
+#EXTINF:-1,2X2
+http://194.28.152.64:81/udp/225.0.55.51:1234
+#EXTINF:-1,БЕЛАРУСЬ 24
+http://194.28.152.64:81/udp/225.0.55.40:1234
+#EXTINF:-1,ИНТЕР +
+http://194.28.152.64:81/udp/225.0.55.109:1234
+#EXTINF:-1,Про Мульт
+http://109.171.66.42:81/udp/239.54.6.27:1224
+#EXTINF:-1,Мужское кино
+http://109.171.66.42:81/udp/239.54.7.1:1224
+#EXTINF:-1,CINEMA
+http://194.28.152.64:81/udp/225.0.55.115:1234
+#EXTINF:-1,Про Бизнес
+http://109.171.66.42:81/udp/239.54.5.167:1224
+#EXTINF:-1,Кино ТВ
+http://109.171.66.42:81/udp/239.54.6.102:1224
+#EXTINF:-1,Кино ТВ
+http://31.41.100.253:81/udp/225.0.56.4:1234
+#EXTINF:-1,мир
+http://109.171.66.42:81/udp/239.54.6.18:1234
+#EXTINF:0 type=»stream» channelId=»138″, Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0 type=»stream» channelId=»138″ tvg-shift=»4″, Мир +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:0 type=»stream» channelId=»589″, Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0 type=»stream» channelId=»1727″, Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:0 type=»stream» channelId=»10″, Россия 24
+http://ott-cdn.ucom.am/s21/index.m3u8
+#EXTINF:0 type=»stream» channelId=»69″, Sony Sci-Fi
+http://109.171.14.66:81/udp/239.54.7.50:1224?zona-iptv.ru
+#EXTINF:-1,TV SONY SAFE
+http://109.171.66.42:81/udp/239.54.6.41:1224
+#EXTINF:-1,SONY SAFE
+http://194.28.152.64:81/udp/225.0.55.73:1234
+#EXTINF:-1,SONY TURBO
+http://194.28.152.64:81/udp/225.0.55.151:1234
+#EXTINF:-1,SONY CHANNEL
+http://31.41.100.253:81/udp/225.0.56.7:1234
+#EXTINF:-1,НТВ ХИТ
+http://194.28.152.64:81/udp/225.0.55.110:1234
+#EXTINF:-1,IZRU
+http://31.41.100.253:81/udp/225.0.56.48:1234
+#EXTINF:-1,FOX
+http://31.41.100.253:81/udp/225.0.56.5:1234
+#EXTINF:-1,FOXLIFE
+http://31.41.100.253:81/udp/225.0.56.6:1234
+#EXTINF:-1,A HBO
+http://31.41.100.253:81/udp/225.0.56.10:1234
+#EXTINF:-1,HOLLYWOOD
+http://31.41.100.253:81/udp/225.0.56.12:1234
+#EXTINF:-1,VIP COMEDY
+http://31.41.100.253:81/udp/225.0.56.14:1234
+#EXTINF:-1,BOLT
+http://31.41.100.253:81/udp/225.0.56.22:1234
+#EXTINF:-1,PICHERS CHANNEL
+http://31.41.100.253:81/udp/225.0.56.55:1234
+#EXTINF:-1,ACTION TV 1000
+http://31.41.100.253:81/udp/225.0.56.76:1234
+#EXTINF:-1,РУССКОЕ КИНО TV 1000
+http://31.41.100.253:81/udp/225.0.56.77:1234
+#EXTINF:-1,TV 1000
+http://31.41.100.253:81/udp/225.0.56.78:1234
+#EXTINF:-1,THT
+http://31.41.100.253:81/udp/225.0.56.92:1234
+#EXTINF:-1,SPIKE
+http://31.41.100.253:81/udp/225.0.56.105:1234
+#EXTINF:-1,Thrill
+http://27.254.149.109:8081/bypass/Thrill/playlist.m3u8
+
 #EXTINF:-1,FRENCH LOVER 18+
-http://37.235.254.189:81/udp/225.50.70.7:1234 
-#EXTINF:-1,HUSTLER egoist-tv
-http://37.8.151.208:4022/udp/224.3.24.127:1234
-#EXTINF:-1,BLUE HUSTLER egoist-tv
-http://37.8.151.208:4022/udp/224.3.24.134:1234
+http://37.235.254.189:81/udp/225.50.70.7:1234
 #EXTINF:-1,AST1 18+
 https://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:-1,AST2 18+
 https://www.ast.tv/stream/2/cellular.m3u8
-#EXTINF:-1,AST3 egoist-tv
-https://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:-1,BraZZers TV Europe egoist-tv
 http://185.167.208.157/master_320.m3u8
-#EXTINF:-1,Dorcel egoist-tv
-http://brazilgroup.xyz:25461/live/Geraldo/Geraldo1/3973.ts
 #EXTINF:-1,DorcelTV egoist-tv
 http://2ng.ru/2uo
 #EXTINF:-1,Hustler egoist-tv
@@ -39,74 +144,54 @@ http://37.205.94.97:81/udp/239.54.6.159:1234
 http://08139e2f.ottv.info/iptv/S9824PT3RW2E72/877/index.m3u8
 #EXTINF:-1,jasmin
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
-
-
-
-
-#EXTINF:-1,PENTACK [XX] ADULTO 012
-http://tv.factoryiptv.com:80/mai/mai/52274 
-#EXTINF:-1,[XX] ADULTO 001
-http://tv.factoryiptv.com:80/mai/mai/52275 
+#EXTINF:-1,PRIVATE TV
+http://31.41.99.190:81/udp/225.0.55.230:1234
+#EXTINF:-1,PRIVATE TV
+http://31.41.100.253:81/udp/225.0.55.230:1234
+#EXTINF:-1,FRENCHLOVER
+http://31.41.99.190:81/udp/225.0.55.232:1234
+#EXTINF:-1,FRENCHLOVER
+http://31.41.100.253:81/udp/225.0.55.232:1234
+#EXTINF:-1,FRENCHLOVER
+http://194.28.154.153:81/udp/225.0.55.232:1234
+#EXTINF:-1,O-LA-LA
+http://31.41.99.190:81/udp/225.0.55.234:1234
+#EXTINF:-1,O-LA-LA
+http://31.41.100.253:81/udp/225.0.55.234:1234
+#EXTINF:-1,Barely legal
+http://31.41.99.190:81/udp/225.0.55.235:1234
+#EXTINF:-1,Barely legal
+http://31.41.100.253:81/udp/225.0.55.235:1234
+#EXTINF:-1,BRAZZERS TV
+http://31.41.99.190:81/udp/225.0.55.239:1234
+#EXTINF:-1,BRAZZERS TV
+http://31.41.100.253:81/udp/225.0.55.239:1234
+#EXTINF:-1,BRAZZERS TV
+http://194.28.155.10:81/udp/225.0.55.239:1234
+#EXTINF:-1,Hustler HD Europe
+http://31.41.99.190:81/udp/225.0.56.50:1234
+#EXTINF:-1,Hustler HD Europe
+http://31.41.100.253:81/udp/225.0.56.50:1234
 #EXTINF:-1,BLUE HUSTLER [XX] ADULTO 002
-http://tv.factoryiptv.com:80/mai/mai/52276 
+http://tv.factoryiptv.com:80/mai/mai/52276
 #EXTINF:-1,BRAZZERS_eu [XX] ADULTO 003
-http://tv.factoryiptv.com:80/mai/mai/52277 
+http://tv.factoryiptv.com:80/mai/mai/52277
 #EXTINF:-1,TEAMSKEET [XX] ADULTO 004
-http://tv.factoryiptv.com:80/mai/mai/52278  
-#EXTINF:-1,PRIVATE [XX] ADULTO 005                         
+http://tv.factoryiptv.com:80/mai/mai/52278
+#EXTINF:-1,PRIVATE [XX] ADULTO 005
 http://tv.factoryiptv.com:80/mai/mai/52279
 #EXTINF:-1,REDLIGHT [XX] ADULTO 006
-http://tv.factoryiptv.com:80/mai/mai/52280 
+http://tv.factoryiptv.com:80/mai/mai/52280
 #EXTINF:-1,DORCEL [XX] ADULTO 007
-http://tv.factoryiptv.com:80/mai/mai/52281 
+http://tv.factoryiptv.com:80/mai/mai/52281
 #EXTINF:-1,SEXTREME [XX] ADULTO 008
-http://tv.factoryiptv.com:80/mai/mai/52282 
+http://tv.factoryiptv.com:80/mai/mai/52282
 #EXTINF:-1,FAPLESBIAN [XX] ADULTO 009
-http://tv.factoryiptv.com:80/mai/mai/52283 
+http://tv.factoryiptv.com:80/mai/mai/52283
 #EXTINF:-1,CANDY [XX] ADULTO 010
 http://tv.factoryiptv.com:80/mai/mai/52284
 #EXTINF:-1,PENTHOUSE BLACK [XX] ADULTO 011
-http://tv.factoryiptv.com:80/mai/mai/52285 
-
-
-
-#EXTINF:0 type=»stream» channelId=»138″, Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:0 type=»stream» channelId=»138″ tvg-shift=»4″, Мир +4
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:0 type=»stream» channelId=»589″, Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:0 type=»stream» channelId=»1727″, Мир HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:0 type=»stream» channelId=»10″, Россия 24
-http://ott-cdn.ucom.am/s21/index.m3u8
-#EXTINF:0 type=»stream» channelId=»69″, Sony Sci-Fi
-http://109.171.14.66:81/udp/239.54.7.50:1224?zona-iptv.ru
-#EXTINF:-1,КИНОКОМЕДИЯ
-http://31.41.99.190:81/udp/225.0.55.39:1234
-#EXTINF:-1,RBK
-http://37.192.0.97:81/udp/239.1.1.2:1234
-#EXTINF:-1,Про Мульт
-http://109.171.66.42:81/udp/239.54.6.27:1224
-#EXTINF:-1,Мужское кино
-http://109.171.66.42:81/udp/239.54.7.1:1224
-#EXTINF:-1,Про Бизнес
-http://109.171.66.42:81/udp/239.54.5.167:1224
-#EXTINF:-1,Кино ТВ
-http://109.171.66.42:81/udp/239.54.6.102:1224
-#EXTINF:-1,мир
-http://109.171.66.42:81/udp/239.54.6.18:1234
-#EXTINF:-1,TV_Sale
-http://109.171.66.42:81/udp/239.54.6.41:1224
-#EXTINF:-1,Thrill
-http://27.254.149.109:8081/bypass/Thrill/playlist.m3u8
-#EXTINF:-1,HBO
-http://194.28.152.66:81/udp/225.0.55.239:1234
-#EXTINF:-1,HBO&&&
-http://198.255.23.18:25461/1519/1234/113
-#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA
-http://tv.factoryiptv.com:80/mai/mai/56908
-
+http://tv.factoryiptv.com:80/mai/mai/52285
 #EXTINF:-1,XXX: PLAYBOY HD (BR1)
 http://51.15.15.119:8080/117067/117067/58359
 #EXTINF:-1,XXX: SEXTREME SD (BR1)
@@ -119,6 +204,8 @@ http://51.15.15.119:8080/117067/117067/58355
 http://51.15.15.119:8080/117067/117067/62485
 #EXTINF:-1,XXX: 24HS: LESBIAN (BR2)
 http://51.15.15.119:8080/117067/117067/62484
+#EXTINF:-1,XXX: RD WTF PASS (BR2)
+http://51.15.15.119:8080/117067/117067/63388
 #EXTINF:-1,XXX: RD Big Ass (BR2)
 http://51.15.15.119:8080/117067/117067/63387
 #EXTINF:-1,XXX: RD Big Dick (BR2)
@@ -151,50 +238,77 @@ http://51.15.15.119:8080/117067/117067/63374
 http://51.15.15.119:8080/117067/117067/63373
 #EXTINF:-1,XXX: RD Threesome (BR2)
 http://51.15.15.119:8080/117067/117067/63372
-#EXTINF:-1,XXX: Tiny4K
+#EXTINF:-1,XXX: RD Tiny4K (BR2)
 http://51.15.15.119:8080/117067/117067/63371
-#EXTINF:-1,XXX: WTF
-http://51.15.15.119:8080/117067/117067/63388
-#EXTINF:-1,[XX] ADULTO 4
-http://tv.factoryiptv.com:80/mai/mai/52279
-#EXTINF:-1,[XX] ADULTO 5
+#EXTINF:-1,HUSTLER egoist-tv
+http://37.8.151.208:4022/udp/224.3.24.127:1234
+#EXTINF:-1,BLUE HUSTLER egoist-tv
+http://37.8.151.208:4022/udp/224.3.24.134:1234
+#EXTINF:-1,RUSSKAY NOCH
+http://37.8.151.208:4022/udp/224.3.24.38:1234
+#EXTINF:-1,BLUE HUSTLER [XX] ADULTO 
+http://tv.factoryiptv.com:80/mai/mai/52276
+#EXTINF:-1,BRAZZERS_eu [XX] ADULTO 
+http://tv.factoryiptv.com:80/mai/mai/52277
+#EXTINF:-1,TEAMSKEET [XX] ADULTO 
+http://tv.factoryiptv.com:80/mai/mai/52278
+#EXTINF:-1,REDLIGHT [XX] ADULTO 
 http://tv.factoryiptv.com:80/mai/mai/52280
-#EXTINF:-1,[XX] ADULTO 6
+#EXTINF:-1,DORCEL [XX] ADULTO 
 http://tv.factoryiptv.com:80/mai/mai/52281
-#EXTINF:-1,[XX] ADULTO 7
+#EXTINF:-1,SEXTREME [XX] ADULTO 
 http://tv.factoryiptv.com:80/mai/mai/52282
-#EXTINF:-1,[XX] ADULTO 8
+#EXTINF:-1,FAPLESBIAN [XX] ADULTO 
 http://tv.factoryiptv.com:80/mai/mai/52283
-#EXTINF:-1,[XX] ADULTO 9
-http://tv.factoryiptv.com:80/mai/mai/52284
+#EXTINF:-1,PENTHOUSE BLACK [XX] ADULTO 
+http://tv.factoryiptv.com:80/mai/mai/52285
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA
+http://tv.factoryiptv.com:80/mai/mai/56908
 #EXTINF:-1,O-la-la
 http://109.171.66.42:81/udp/239.54.6.71:1234
 #EXTINF:-1,Русская ночь
 http://109.171.66.42:81/udp/239.54.6.159:1234
-#EXTINF:-1,AST TV XXX 1 18+
-https://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1,AST TV XXX 2 18+
-https://www.ast.tv/stream/2/cellular.m3u8
-#EXTINF:-1,Dorcel TV HD
-http://brazilgroup.xyz:25461/live/Geraldo/Geraldo1/3973.ts
 #EXTINF:-1,Jasmin HD 18+
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1,Jasmin TV (18+)
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1,O-la-la (UDP) (18+)
-http://37.205.94.97:81/udp/239.54.6.71:1234
-
-#EXTINF:-1,XxX: VENUS
-http://lista.digitalgroup.me:80/6004/1234/18088
-#EXTINF:-1,XxX: VENUS HD
-http://lista.digitalgroup.me:80/6004/1234/18089
-
-
 #EXTINF:-1,Русская ночь 18+
 http://46.32.68.167/s/live/708/86.169.51.136/0/0.m3u8
+#EXTINF:-1,jasmin 18+
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
+#EXTINF:-1,Brazzers
+http://37.194.184.105:81/udp/239.1.20.64:1234
+#EXTINF:-1,miamitv
+http://usaserver.miamitvchannel.com/mexicotv/smil:miamitvmexicoROKU/chunklist_w575305977_b1896000.m3u8
+#EXTINF:-1,Playboy TV (18+)
+http://46.32.68.167/s/live/707/86.169.51.136/1/0.m3u8
+#EXTINF:-1,Visit-X TV (18+)
+http://194.116.150.47:1935/vxtv/live_360p/playlist.m3u8
+#EXTINF:-1,Русская ночь(18+)
+http://46.32.68.167/s/live/708/86.169.51.136/1/0.m3u8
+#EXTINF:-1,Bikini Hotties Live
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+#EXTINF:-1,DJing Animation Live
+http://www.djing.com/tv/a-28658-04.m3u8
+#EXTINF:-1,DJing Live
+http://www.djing.com/tv/28658-03.m3u8
+#EXTINF:-1,DJing Classics Live
+https://www.djing.com/tv/i-28658-03.m3u8
+#EXTINF:-1,DJing Underground Live
+https://www.djing.com/tv/u-28658-04.m3u8
+#EXTINF:-1,PowerHD Live
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/chunklist_w1507792128.m3u8
+#EXTINF:-1,DJing Classics Live
+http://www.djing.com/tv/i-28658-04.m3u8
+#EXTINF:-1,World Live
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Canal Tr3ce
+http://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/chunklist_b4500000.m3u8
+
+#EXTINF:-1,ПРОВЕРКА:
+#EXTINF:-1,PRIVATE TV
+http://194.28.154.131:81/udp/225.0.55.230:1234
 #EXTINF:-1,Pink-oV
-http://50.7.127.60:8081/pink/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggcf79708aae3f27bc6a108f569ce98dfdT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,pink 18+
 http://50.7.127.60:8081/pink/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggcf79708aae3f27bc6a108f569ce98dfdT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1,pink
 http://50.7.127.60:8081/pink/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg450986a2d33b5a55cbc747042e748db0T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
@@ -210,430 +324,64 @@ http://50.7.127.60:8081/dorcel/tracks-1,2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 http://50.7.127.60:8081/hustlerhd/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgge1479c60e0c06c9f9f4f622b8acb0da9T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1,bluehustler
 http://50.7.127.60:8081/bluehustler/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggd277da2e3fd6da2b23fa09481000ad8dT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,jasmin
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
-#EXTINF:-1,jasmin 18+
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
-#EXTINF:-1,miamitv
-http://usaserver.miamitvchannel.com/mexicotv/smil:miamitvmexicoROKU/chunklist_w575305977_b1896000.m3u8
-
-
-
-
-
-#EXTINF:-1 tvch-id="275" group-title="ДЛЯ ВЗРОСЛЫХ",РУССКАЯ НОЧЬ 18+
-http://109.248.68.91:3371/udp/239.195.2.3:1234
-#EXTINF:-1 tvch-id="276" group-title="ДЛЯ ВЗРОСЛЫХ",BRAZZERS TV 18+
-http://109.248.79.19:4022/udp/239.195.2.4:1234
-#EXTINF:-1 tvch-id="1268" group-title="ДЛЯ ВЗРОСЛЫХ",РУССКАЯ НОЧЬ 18+
-http://79.133.122.200:999/udp/239.191.254.13:15285
-#EXTINF:-1 tvch-id="1272" group-title="ДЛЯ ВЗРОСЛЫХ",BRAZZERS TV 18+
-http://95.85.76.131:999/udp/239.191.254.170:15285
-#EXTINF:-1 tvch-id="2204" group-title="ДЛЯ ВЗРОСЛЫХ",РУССКАЯ НОЧЬ 18+
-http://37.8.151.208:4022/udp/224.3.24.38:1234
-#EXTINF:-1 tvch-id="2266" group-title="ДЛЯ ВЗРОСЛЫХ",BRAZZERS TV 18+
-http://37.8.151.208:4022/udp/224.3.24.130:1234
-#EXTINF:-1 tvch-id="2269" group-title="ДЛЯ ВЗРОСЛЫХ",BLUE HUSTLER 18+
-http://37.8.151.208:4022/udp/224.3.24.134:1234
-#EXTINF:-1 tvch-id="3015" group-title="ДЛЯ ВЗРОСЛЫХ",BLUE HUSTLER 18+
-http://178.49.232.205:81/udp/239.1.6.36:1234
-#EXTINF:-1 tvch-id="14051" group-title="ДЛЯ ВЗРОСЛЫХ",PRIVATE TV
-http://194.28.152.209:81/udp/225.0.0.104:1234
-#EXTINF:-1 tvch-id="24006" group-title="ДЛЯ ВЗРОСЛЫХ",FRENCH LOVER 18+
-http://37.235.193.151:81/udp/225.50.70.7:1234
-#EXTINF:-1 tvch-id="24012" group-title="ДЛЯ ВЗРОСЛЫХ",PLAYBOY TV 18+
-http://37.235.194.6:81/udp/225.50.70.2:1234
-#EXTINF:-1 tvch-id="32224" group-title="ДЛЯ ВЗРОСЛЫХ",BLUE HUSTLER 18+
-http://46.23.144.57:1234/udp/239.1.6.36:1234
-#EXTINF:-1 group-title="ProxyTV.ru",221-FRENCH LOVER 18+
-http://194.28.152.209:81/udp/225.0.0.105:1234
-
-
-#EXTINF:-1,PRIVATE TV
-http://31.41.99.83:81/udp/225.0.55.230:1234
-#EXTINF:-1,FRENCHLOVER
-http://31.41.99.83:81/udp/225.0.55.232:1234
-#EXTINF:-1,O-LA-LA
-http://31.41.99.83:81/udp/225.0.55.234:1234
-#EXTINF:-1,Barely legal
-http://31.41.99.83:81/udp/225.0.55.235:1234
-#EXTINF:-1,BRAZZERS TV
-http://31.41.99.83:81/udp/225.0.55.239:1234
-#EXTINF:-1,Русская Ночь
-http://79.133.126.136:8888/udp/239.191.254.13:15285
-#EXTINF:-1,FREE-X-TV
-http://79.133.126.136:8888/udp/239.191.254.38:15285
-#EXTINF:-1,Candyman
-http://79.133.126.136:8888/udp/239.191.254.114:15285
-#EXTINF:-1,O-la-la
-http://79.133.126.136:8888/udp/239.191.254.161:15285
-#EXTINF:-1,Brazzers TV Europe
-http://79.133.126.136:8888/udp/239.191.254.170:15285
-#EXTINF:-1,Candy TV
-http://79.133.126.136:8888/udp/239.191.254.173:15285
-#EXTINF:-1,Bridge Dance TV
-http://79.133.126.136:8888/udp/239.191.254.240:15285
-#EXTINF:-1,SHOT TV
-http://79.133.126.136:8888/udp/239.191.254.249:15285
-#EXTINF:-1,NUART TV HD
-http://79.133.126.136:8888/udp/239.191.254.250:15285
-#EXTINF:-1,FrenchLover TV
-http://79.133.126.136:8888/udp/239.191.254.251:15285
-#EXTINF:-1,Brazzers 
-http://37.194.184.105:81/udp/239.1.20.64:1234
-#EXTINF:-1,Hustler HD Europe
-http://31.41.96.36:81/udp/225.0.56.50:1234
-#EXTINF:-1,jasmin
-http://50.7.127.60:8081/razvlechenietv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg0f39ef520d34d4acc872b9d3ddf0ab09T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,jasminHD
-http://50.7.136.155:8081/29/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga23ba91608b3e4be87a3a8fbb3cf1812bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,miami tv +
-http://50.7.136.155:8081/25/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg946bc5789861377bfc0c4b738ae376e7bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-
-EXTINF:-1,Провайдер: OVH Хостинг — Монреаль 97 каналов
-EXTINF:-1,XXX CENTOXCENTO TV
-http://149.56.25.205:25461/6303/6303/26363
-#EXTINF:-1,XXX DORCEL TV HD
-http://149.56.25.205:25461/6303/6303/26366
-#EXTINF:-1,XXX HOT HD
-http://149.56.25.205:25461/6303/6303/26369
-#EXTINF:-1,XXX PENTHOUSE 1 HD
-http://149.56.25.205:25461/6303/6303/26367
-#EXTINF:-1,XXX PINK O TV
-http://149.56.25.205:25461/6303/6303/26362
-#EXTINF:-1,XXX PLAYBOY TV HD
-http://149.56.25.205:25461/6303/6303/26370
-#EXTINF:-1,XXX REDLIGHT HD
-http://149.56.25.205:25461/6303/6303/26368
-#EXTINF:-1,XXX SCT
-http://149.56.25.205:25461/6303/6303/26361
-#EXTINF:-1,XXX SESTO SENSO TV
-http://149.56.25.205:25461/6303/6303/26364
-#EXTINF:-1,XXX VENUS*
-http://149.56.25.205:25461/6303/6303/26365
-#EXTINF:-1,XXX HOT CLUB 03
-http://149.56.25.205:25461/6303/6303/26358
-#EXTINF:-1,XXX: EROTIC 1
-http://149.56.25.205:25461/6303/6303/26357
-#EXTINF:-1,XXX: EROTIC 5
-http://149.56.25.205:25461/6303/6303/26356
-#EXTINF:-1,XXX: EROTIC 6
-http://149.56.25.205:25461/6303/6303/26355
-#EXTINF:-1,XXX: PASSIEXXX
-http://149.56.25.205:25461/6303/6303/26359
-#EXTINF:-1,XXX: PINK O
-http://149.56.25.205:25461/6303/6303/26360
-
-
-
-#EXTINF:-1,XXX: Balkan Erotic
-http://149.56.25.205:25461/6303/6303/26565
-#EXTINF:-1,XXX: Barely Legal
-http://149.56.25.205:25461/6303/6303/26566
-#EXTINF:-1,XXX: Blue Hustler
-http://149.56.25.205:25461/6303/6303/26567
-#EXTINF:-1,XXX: Dorcel HD
-http://149.56.25.205:25461/6303/6303/26562
-#EXTINF:-1,XXX: Dorcel XXX HD
-http://149.56.25.205:25461/6303/6303/26563
-#EXTINF:-1,XXX: Dream Porn HD
-http://149.56.25.205:25461/6303/6303/26564
-#EXTINF:-1,XXX: Lesbian Affair HD
-http://149.56.25.205:25461/6303/6303/26583
-#EXTINF:-1,XXX: Brazzers TV
-http://149.56.25.205:25461/6303/6303/26568
-#EXTINF:-1,XXX: Brazzers TV Europe
-http://149.56.25.205:25461/6303/6303/26569
-#EXTINF:-1,XXX: DUSK!
-http://149.56.25.205:25461/6303/6303/26570
-#EXTINF:-1,XXX: Emanuelle HD
-http://149.56.25.205:25461/6303/6303/26571
-#EXTINF:-1,XXX: Erox HD
-http://149.56.25.205:25461/6303/6303/26572
-#EXTINF:-1,XXX: Evil Angel HD
-http://149.56.25.205:25461/6303/6303/26573
-#EXTINF:-1,XXX: Extasy HD
-http://149.56.25.205:25461/6303/6303/26575
-#EXTINF:-1,XXX: Extrem
-http://149.56.25.205:25461/6303/6303/26576
-#EXTINF:-1,XXX: French Lover
-http://149.56.25.205:25461/6303/6303/26577
-#EXTINF:-1,XXX: Hot TV
-http://149.56.25.205:25461/6303/6303/26578
-#EXTINF:-1,XXX: Hustler HD
-http://149.56.25.205:25461/6303/6303/26579
-#EXTINF:-1,XXX: Hustler TV
-http://149.56.25.205:25461/6303/6303/26580
-#EXTINF:-1,XXX: Jasmin TV
-http://149.56.25.205:25461/6303/6303/26581
-#EXTINF:-1,XXX: Leo TV
-http://149.56.25.205:25461/6303/6303/26582
-#EXTINF:-1,XXX: Meiden Van Holland Hard
-http://149.56.25.205:25461/6303/6303/26584
-#EXTINF:-1,XXX: Nuart TV
-http://149.56.25.205:25461/6303/6303/26585
-#EXTINF:-1,XXX: O la la TV
-http://149.56.25.205:25461/6303/6303/26586
-#EXTINF:-1,XXX: Passie XXX
-http://149.56.25.205:25461/6303/6303/26587
-#EXTINF:-1,XXX: Passion
-http://149.56.25.205:25461/6303/6303/26589
-#EXTINF:-1,XXX: Passion XXX
-http://149.56.25.205:25461/6303/6303/26588
-#EXTINF:-1,XXX: Penthouse 1 HD
-http://149.56.25.205:25461/6303/6303/26591
-#EXTINF:-1,XXX: Penthouse 2 HD
-http://149.56.25.205:25461/6303/6303/26593
-#EXTINF:-1,XXX: Pink Erotic
-http://149.56.25.205:25461/6303/6303/26590
-#EXTINF:-1,XXX: Pink Erotic 2
-http://149.56.25.205:25461/6303/6303/26592
-#EXTINF:-1,XXX: Pink Erotic 3
-http://149.56.25.205:25461/6303/6303/26594
-#EXTINF:-1,XXX: Pink Erotic 4
-http://149.56.25.205:25461/6303/6303/26595
-#EXTINF:-1,XXX: Pink Erotic 5
-http://149.56.25.205:25461/6303/6303/26596
-#EXTINF:-1,XXX: Pink Erotic 6
-http://149.56.25.205:25461/6303/6303/26597
-#EXTINF:-1,XXX: Pink Erotic 7
-http://149.56.25.205:25461/6303/6303/26598
-#EXTINF:-1,XXX: Pink Erotic 8
-http://149.56.25.205:25461/6303/6303/26599
-#EXTINF:-1,XXX: Pink O TV
-http://149.56.25.205:25461/6303/6303/26600
-#EXTINF:-1,XXX: Playboy
-http://149.56.25.205:25461/6303/6303/26601
-#EXTINF:-1,XXX: Playboy Europe
-http://149.56.25.205:25461/6303/6303/26602
-#EXTINF:-1,XXX: Private TV HD
-http://149.56.25.205:25461/6303/6303/26603
-#EXTINF:-1,XXX: Prive TV
-http://149.56.25.205:25461/6303/6303/26604
-#EXTINF:-1,XXX: Reality Kings
-http://149.56.25.205:25461/6303/6303/26605
-#EXTINF:-1,XXX: Redlight HD
-http://149.56.25.205:25461/6303/6303/26606
-#EXTINF:-1,XXX: Russian Night
-http://149.56.25.205:25461/6303/6303/26607
-#EXTINF:-1,XXX: Sct
-http://149.56.25.205:25461/6303/6303/26608
-#EXTINF:-1,XXX: Secret Circle
-http://149.56.25.205:25461/6303/6303/26609
-#EXTINF:-1,XXX: Sext &amp; Senso
-http://149.56.25.205:25461/6303/6303/26610
-#EXTINF:-1,XXX: Sextreme
-http://149.56.25.205:25461/6303/6303/26611
-#EXTINF:-1,XXX: Sexy HOT
-http://149.56.25.205:25461/6303/6303/26612
-#EXTINF:-1,XXX: Stars XXX HD
-http://149.56.25.205:25461/6303/6303/26613
-#EXTINF:-1,XXX: Super One HD
-http://149.56.25.205:25461/6303/6303/26614
-#EXTINF:-1,XXX: Venus TV
-http://149.56.25.205:25461/6303/6303/26616
-#EXTINF:-1,XXX: VISIT X TV
-http://149.56.25.205:25461/6303/6303/26615
-#EXTINF:-1,XXX: Vivid Red HD
-http://149.56.25.205:25461/6303/6303/26617
-#EXTINF:-1,XXX: Vivid TV Europe
-http://149.56.25.205:25461/6303/6303/26618
-#EXTINF:-1,XXX: X Bizarre
-http://149.56.25.205:25461/6303/6303/26619
-#EXTINF:-1,XXX: X Bunga Bunga
-http://149.56.25.205:25461/6303/6303/26620
-#EXTINF:-1,XXX: X Desire
-http://149.56.25.205:25461/6303/6303/26621
-#EXTINF:-1,XXX: X Muvi
-http://149.56.25.205:25461/6303/6303/26622
-#EXTINF:-1,XXX: X-MO
-http://149.56.25.205:25461/6303/6303/26623
-#EXTINF:-1,XXX: XXXL
-http://149.56.25.205:25461/6303/6303/26624
-#EXTINF:-1,XXX: XY Max HD
-http://149.56.25.205:25461/6303/6303/26625
-#EXTINF:-1,XXX: XY Mix HD
-http://149.56.25.205:25461/6303/6303/26626
-#EXTINF:-1,XXX: XY Plus HD
-http://149.56.25.205:25461/6303/6303/26627
-#EXTINF:-1,XXX: Zest TV
-http://149.56.25.205:25461/6303/6303/26628
-#EXTINF:-1,XXX:Exotica Plus
-http://149.56.25.205:25461/6303/6303/26574
-#EXTINF:-1,XXX Passione TV
-http://149.56.25.205:25461/6303/6303/30155
-#EXTINF:-1,XXX Penthouse HD
-http://149.56.25.205:25461/6303/6303/30156
-#EXTINF:-1,XXX Playboy TV
-http://149.56.25.205:25461/6303/6303/30157
-
-
-
-
-#EXTINF:-1,IDUN_ИДУТ 1
-
-#EXTINF:-1,PORNO razvlechenie tv 
-http://50.7.127.60:8081/razvlechenie tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg476fdd48bd1d7d20a4341c4bafd32e29T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,PORNO Private TV
-http://50.7.136.155:8081/11/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg43bcbe0e5f5770d603586625a949022bbkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,PORNO XXL
-http://50.7.136.155:8081/30/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg6363b3b8880a81626cac5a049caf14ccbkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,PORNO PassionXXX
-http://50.7.136.155:8081/4/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggb0d20a6334b10973834a5461579fbd80bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,PORNO Passion XXX
-http://50.7.127.60:8081/passion/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg733527e3bdaca9c7dc77206d90614826T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,PORNO BabesTV
-http://50.7.136.155:8081/14/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg87dbca1710a63f5c141f6e1691a67da0bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,PORNO shalun
-http://50.7.127.60:8081/shalun/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggcb1dd0a90fb4e8fbab0cdb14cf1b02f1T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,PORNO sextosenso
-http://50.7.127.60:8081/sextosenso/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg54e5d64c353a93ba3dd9ecc37789a893T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,PORNO ExtasyHD
-http://50.7.136.155:8081/29/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga23ba91608b3e4be87a3a8fbb3cf1812bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,PORNO PenthouseBlack
-http://50.7.136.155:8081/25/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg946bc5789861377bfc0c4b738ae376e7bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,PORNO EroxHD
-http://50.7.136.155:8081/9/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggb117c4bf2853726d9686fcf6a4bec104bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,XxX: SEXY HOT SD 3
-http://lista.digitalgroup.me:80/6004/1234/38732
-#EXTINF:-1,XxX: SEXY HOT SD 4
-http://lista.digitalgroup.me:80/6004/1234/1205
-#EXTINF:-1,XxX: SEXY HOT SD+
-http://lista.digitalgroup.me:80/6004/1234/37772
-#EXTINF:-1,XxX: PLAYBOY TV HD
-http://lista.digitalgroup.me:80/6004/1234/20820
-#EXTINF:-1,XxX: VENUS HD
-http://lista.digitalgroup.me:80/6004/1234/18089
-
-#EXTINF:-1,IDUN_ИДУТ 2
-
-#EXTINF:-1,jasmin channel +
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
-#EXTINF:-1,miami tv +
-http://usaserver.miamitvchannel.com/mexicotv/smil:miamitvmexicoROKU/chunklist_w575305977_b1896000.m3u8
-#EXTINF:-1,World Live
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1,Bikini Hotties Live
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-#EXTINF:-1,DJing Animation Live
-http://www.djing.com/tv/a-28658-04.m3u8
-#EXTINF:-1,DJing Live
-http://www.djing.com/tv/28658-03.m3u8
-#EXTINF:-1,DJing Classics Live
-https://www.djing.com/tv/i-28658-03.m3u8
-#EXTINF:-1,DJing Underground Live
-https://www.djing.com/tv/u-28658-04.m3u8
-#EXTINF:-1,PowerHD Live
-http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/chunklist_w1507792128.m3u8
-#EXTINF:-1,DJing Classics Live
-http://www.djing.com/tv/i-28658-04.m3u8
-#EXTINF:-1,Canal Tr3ce
-http://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/chunklist_b4500000.m3u8
-#EXTINF:-1,XxX: SEXY HOT HD
-http://lista.digitalgroup.me:80/6004/1234/20825
-#EXTINF:-1,XxX: SEXY HOT HD+
-http://lista.digitalgroup.me:80/6004/1234/37773
-#EXTINF:-1,XxX: SEXY HOT SD 1
-http://lista.digitalgroup.me:80/6004/1234/38734
-#EXTINF:-1,XxX: SEXY HOT SD 2
-http://lista.digitalgroup.me:80/6004/1234/38733
-#EXTINF:-1,XxX: VENUS
-http://lista.digitalgroup.me:80/6004/1234/18088
-#EXTINF:-1,XxX: PLAYBOY TV
-http://lista.digitalgroup.me:80/6004/1234/871
+#EXTINF:-1,PORNOrazvlechenietv
+http://50.7.127.60:8081/razvlechenietv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg476fdd48bd1d7d20a4341c4bafd32e29T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1,Vivid Red HD
 http://50.7.136.155:8081/7/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg418043539c424834fd34faa57aa6ab5ebkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,PORNO OX-AX HD
-http://50.7.136.155:8081/1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg47c80333098a50cb4027c7f2ac58151ebkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,PORNO Canoxax
-http://50.7.136.155:8081/5/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg0f9f22b55bbeefe9095a099e137ee4e2bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,PORNO Candy oxax
-http://50.7.136.155:8081/24/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga3c1424fc292009dea07ba7a07f37352bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-
-
-
-
-
-
-#EXTINF:-1,evil-angel tv_shalun
-http://50.7.127.60:8081/razvlechenietv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgge0a17fb7c8e1fc6cb6e697f743cb59b4T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,sextosenso tv_shalun
-http://50.7.127.60:8081/sextosenso/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga38aa9a3beafe0365953ce3e1f2bd30aT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,satisfaction tv_shalun
-http://50.7.127.60:8081/sextosenso/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg0c49b5dd3d57896df06f06392966780cT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,vivid-red tv_shalun
-http://50.7.127.60:8081/vivid_red/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga315010cbad1dc097573fbe50b917a6eT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,ox_ax_hdtv_shalun
-http://50.7.127.60:8081/ox_ax_hd/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg1ec195ae3c5d2705a92630aa06af6f63T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-
-
-#EXTINF:-1,PORNOrazvlechenietv 
-http://50.7.127.60:8081/razvlechenietv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg476fdd48bd1d7d20a4341c4bafd32e29T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,Playboy TV (18+)
-http://46.32.68.167/s/live/707/86.169.51.136/0/0.m3u8
-#EXTINF:-1,Playboy TV (18+)
-http://46.32.68.167/s/live/707/86.169.51.136/1/0.m3u8
-#EXTINF:-1,Visit-X TV (18+)
-http://194.116.150.47:1935/vxtv/live_360p/playlist.m3u8
-#EXTINF:-1,Русская ночь(18+)
-http://46.32.68.167/s/live/708/86.169.51.136/1/0.m3u8
-#EXTINF:-1,Русская ночь (UDP) (18+)
-http://37.205.94.97:81/udp/239.54.6.159:1234
-
-
-
-
-#EXTINF:-1,OTKAZ_не желают
-
-#EXTINF:-1,XXX Nuart TV_hoch 18+
-
-#EXTINF:-1,SCT_erotix-tv
-
-#EXTINF:-1,egoistTV_all-television
-
-#EXTINF:-1,babestation_tv _ ivan.my1
-
-#EXTINF:-1,PORNO XXL 
-
-#EXTINF:-1,NUART TV HD
-
-#EXTINF:-1,FrenchLover TV
-
-#EXTINF:-1,EROX
-
-#EXTINF:-1,Candyman
-
-#EXTINF:-1,Free X TV
-
-#EXTINF:-1,Candy TV
-
-#EXTINF:-1,NUART TV HD
-
-#EXTINF:-1,Playboy TV Europe 18+
-
-#EXTINF:-1,Private TV HD (18+)
-
-#EXTINF:-1,Redlight HD
-
-#EXTINF:-1,Vivid Red HD (18+)
-
-#EXTINF:-1,Pink-o-TV
-
-#EXTINF:-1,����� sextosenso
-
-#EXTINF:-1,����� passion
-
-#EXTINF:-1,����� sct
-
-#EXTINF:-1,����� centoxcento
-
-#EXTINF:-1,����� redlight
-
-#EXTINF:-1,����� ox_ax_hd
-
-#EXTINF:-1,����� erox
-
-#EXTINF:-1,hochu.tv_egoist
-#EXTINF:-1,hhu.tv_egoist
-
+#EXTINF:-1,XxX: SEXY HOT HD+
+http://lista.digitalgroup.me:80/6004/1234/37773
+#EXTINF:-1,XxX: VENUS
+http://lista.digitalgroup.me:80/6004/1234/18088
+#EXTINF:-1,XxX: VENUS HD
+http://lista.digitalgroup.me:80/6004/1234/18089
+#EXTINF:-1,XxX: PLAYBOY TV HD
+http://lista.digitalgroup.me:80/6004/1234/20820
+#EXTINF:-1,XXX: Hot TV
+http://149.56.25.205:25461/6303/6303/26578
+#EXTINF:-1,XXX: DUSK!
+http://149.56.25.205:25461/6303/6303/26570
+#EXTINF:-1,XXX: Evil Angel HD
+http://149.56.25.205:25461/6303/6303/26573
+#EXTINF:-1,BRAZZERS TV 
+http://37.8.151.208:4022/udp/224.3.24.130:1234
+#EXTINF:-1,FRENCH LOVER 18
+http://37.235.193.151:81/udp/225.50.70.7:1234
+#EXTINF:-1,PLAYBOY TV 18+
+http://37.235.194.6:81/udp/225.50.70.2:1234
+#EXTINF:-1,PENTACK [XX] ADULTO 
+http://tv.factoryiptv.com:80/mai/mai/52274
+#EXTINF:-1,[XX] ADULTO 
+http://tv.factoryiptv.com:80/mai/mai/52275
+#EXTINF:-1,PRIVATE [XX] ADULTO 
+http://tv.factoryiptv.com:80/mai/mai/52279
+#EXTINF:-1,CANDY [XX] ADULTO 
+http://tv.factoryiptv.com:80/mai/mai/52284
+#EXTINF:-1 tvch-id="275" group-title="ДЛЯ ВЗРОСЛЫХ",РУССКАЯ НОЧЬ 18+
+http://109.248.68.91:3371/udp/239.195.2.3:1234
+#EXTINF:-1 tvch-id="1268" group-title="ДЛЯ ВЗРОСЛЫХ",РУССКАЯ НОЧЬ 18+
+http://79.133.122.200:999/udp/239.191.254.13:15285
+#EXTINF:-1 tvch-id="32224" group-title="ДЛЯ ВЗРОСЛЫХ",BLUE HUSTLER 18+
+http://46.23.144.57:1234/udp/239.1.6.36:1234
+#EXTINF:-1 tvch-id="3015" group-title="ДЛЯ ВЗРОСЛЫХ",BLUE HUSTLER 18+
+http://178.49.232.205:81/udp/239.1.6.36:1234
+#EXTINF:-1 tvch-id="276" group-title="ДЛЯ ВЗРОСЛЫХ",BRAZZERS TV 18+
+http://109.248.79.19:4022/udp/239.195.2.4:1234
+#EXTINF:-1 tvch-id="1272" group-title="ДЛЯ ВЗРОСЛЫХ",BRAZZERS TV 18+
+http://95.85.76.131:999/udp/239.191.254.170:15285
+#EXTINF:-1 tvch-id="14051" group-title="ДЛЯ ВЗРОСЛЫХ",PRIVATE TV 18+
+http://194.28.152.209:81/udp/225.0.0.104:1234
+#EXTINF:-1 group-title="ProxyTV.ru",221="ДЛЯ ВЗРОСЛЫХ",FRENCH LOVER TV 18+
+http://194.28.152.209:81/udp/225.0.0.105:1234
+#EXTINF:-1,РОДНОЕ КИНО
+http://194.28.154.131:81/udp/225.0.55.192:1234
+#EXTINF:-1,ЕВРОКИНО
+http://194.28.154.131:81/udp/225.0.55.189:1234
+#EXTINF:-1,P
+http://194.28.152.46:81/udp/225.0.56.47:1234
+#EXTINF:-1,D
+http://194.28.154.131:81/udp/225.0.55.179:1234
+#EXTINF:-1,Б
+http://194.28.154.131:81/udp/225.0.55.180:1234
+#EXTINF:-1,И
+http://194.28.154.131:81/udp/225.0.55.188:1234
 

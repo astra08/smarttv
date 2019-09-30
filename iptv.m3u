@@ -1055,10 +1055,20 @@ http://31.41.100.50:81/udp/225.0.55.213:1234
 http://31.41.100.50:81/udp/225.0.55.215:1234
 #EXTINF:-1,Bridge_TV
 http://31.41.100.50:81/udp/225.0.55.216:1234
-#EXTINF:-1,
-http://31.41.100.50:81/udp/225.0.55.217:1234
-#EXTINF:-1,01bcb8c05f3234
+#EXTINF:-1,Мир 24
 http://31.41.100.50:81/udp/225.0.55.218:1234
+
+#EXTINF:0 type=»stream» channelId=»138″, Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0 type=»stream» channelId=»138″ tvg-shift=»4″, Мир +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:0 type=»stream» channelId=»589″, Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0 type=»stream» channelId=»1727″, Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:0 type=»stream» channelId=»10″, Россия 24
+http://ott-cdn.ucom.am/s21/index.m3u8
+
 
 #EXTINF:-1,PRIVATE_TV_HD
 http://31.41.100.50:81/udp/225.0.55.230:1234
@@ -1082,31 +1092,6 @@ http://37.235.254.189:81/udp/225.50.70.7:1234
 http://109.171.7.31:81/udp/239.54.6.71:1234
 #EXTINF:-1,РУССКАЯ НОЧЬ egoist-tv
 http://109.171.7.31:81/udp/239.54.6.159:1234
-
-
-239.54.5.250:1224
-239.54.6.200:1224
-239.54.7.174:1224
-225.0.55.39:1234
-225.0.56.99:1234
-
-
-
-
-
-
-109.171.7.31:81
-
-#EXTINF:0 type=»stream» channelId=»138″, Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:0 type=»stream» channelId=»138″ tvg-shift=»4″, Мир +4
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:0 type=»stream» channelId=»589″, Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:0 type=»stream» channelId=»1727″, Мир HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:0 type=»stream» channelId=»10″, Россия 24
-http://ott-cdn.ucom.am/s21/index.m3u8
 #EXTINF:0,RedTraffic Big Ass (18+)
 #EXTVLCOPT:network-caching=1000
 http://live.redtraffic.xyz/bigass.m3u8
@@ -1201,29 +1186,10 @@ http://live.redtraffic.xyz/threesome.m3u8
 https://www.ast.tv/stream/1/high.m3u8
 #EXTINF:-1,Shemale Tube TV 2 (18+)
 https://www.ast.tv/stream/2/high.m3u8
-
-#EXTINF:-1,Cam1
-http://5b33420f79f5f.streamlock.net:1935/freecamssecure/102/playlist.m3u8
-#EXTINF:-1,Cam2
-http://5b33420f79f5f.streamlock.net:1935/freecamssecure/101/playlist.m3u8
-#EXTINF:-1,Cam3
-http://5b33420f79f5f.streamlock.net:1935/voyeurfree/96/chunklist.m3u8
-#EXTINF:-1,Cam4
-http://5b33420f79f5f.streamlock.net:1935/voyeurfree/97/chunklist.m3u8
-
-
-
-
 #EXTINF:-1,AST1 18+
 https://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:-1,AST2 18+
 https://www.ast.tv/stream/2/cellular.m3u8
-#EXTINF:-1,BraZZers TV Europe egoist-tv
-http://185.167.208.157/master_320.m3u8
-#EXTINF:-1,DorcelTV egoist-tv
-http://2ng.ru/2uo
-#EXTINF:-1,Hustler egoist-tv
-http://46.32.68.167/s/live/705/86.169.51.136/1/0.m3u8
 #EXTINF:-1,HustlerHD egoist-tv
 http://46.32.68.167/s/live/705/86.169.51.136/0/0.m3u8
 #EXTINF:-1,Nuar egoist-tv
@@ -1236,6 +1202,27 @@ http://46.32.68.167/s/live/707/86.169.51.136/0/0.m3u8
 http://08139e2f.ottv.info/iptv/S9824PT3RW2E72/877/index.m3u8
 #EXTINF:-1,jasmin
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
+
+#EXTINF:-1,Cam1
+http://5b33420f79f5f.streamlock.net:1935/freecamssecure/102/playlist.m3u8
+#EXTINF:-1,Cam2
+http://5b33420f79f5f.streamlock.net:1935/freecamssecure/101/playlist.m3u8
+#EXTINF:-1,Cam3
+http://5b33420f79f5f.streamlock.net:1935/voyeurfree/96/chunklist.m3u8
+#EXTINF:-1,Cam4
+http://5b33420f79f5f.streamlock.net:1935/voyeurfree/97/chunklist.m3u8
+
+239.54.5.250:1224
+239.54.6.200:1224
+239.54.7.174:1224
+225.0.55.39:1234
+225.0.56.99:1234
+109.171.7.31:81
+
+
+
+
+
 
 #EXTINF:-1,PRIVATE TV
 http://31.41.99.190:81/udp/225.0.55.230:1234

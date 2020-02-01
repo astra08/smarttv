@@ -499,6 +499,42 @@ http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800
 #EXTINF:-1,Fashion One HD
 http://178.163.16.8:4022/udp/234.0.0.212:2000
 
+
+
+#EXTINF:-1,FAP TV Compilation
+http://50.7.220.130:8081/fap_compilation/index.m3u8?wmsAuthSign=ceec05abaf868b2fff8c1c415ac0e461-1580487127-81i02i191i881
+#EXTINF:-1,FAP TV 2
+http://50.7.220.130:8081/faptv2/index.m3u8?wmsAuthSign=76427b1720a5e8af23029ded05cc30f3-1580487232-81i02i191i881
+#EXTINF:-1,FAP TV 3
+http://50.7.220.130:8081/faptv3/index.m3u8?wmsAuthSign=bac872600d4d615cc2b3f172b3d0fedb-1580489052-81i02i191i881
+#EXTINF:-1,FAP TV 4
+http://50.7.220.130:8081/faptv4/index.m3u8?wmsAuthSign=9df339f95d36554811d44bfb2d65ca3a-1580489230-81i02i191i881
+#EXTINF:-1,FAP TV Teens
+http://50.7.220.130:8081/fap_teens/index.m3u8?wmsAuthSign=b254716f3e46f3977f32d6fbeee291eb-1580487945-81i02i191i881
+#EXTINF:-1,FAP TV Parody
+http://50.7.220.130:8081/fap_parody/index.m3u8?wmsAuthSign=eb023ad7b3bfccde5b2dbe0906a79b7f-1580488080-81i02i191i881
+#EXTINF:-1,FAP TV Anal
+http://50.7.220.130:8081/fap_an/index.m3u8?wmsAuthSign=1d5db42eb7ef9a7b8c991f114ea3c9fd-1580488229-81i02i191i881
+#EXTINF:-1,FAP TV Lesbian 
+http://50.7.220.130:8081/fap_lesb/index.m3u8?wmsAuthSign=380ae6b05379091e8f8f3dfa36394f77-1580488721-81i02i191i881
+#EXTINF:-1,Private TV
+http://50.7.220.130:8081/private_hd/index.m3u8?wmsAuthSign=2f40075ebeb70c8419cf51ce0596c1eb-1580489437-81i02i191i881
+#EXTINF:-1,Hustler HD 
+http://50.7.220.130:8081/hustlerhd/index.m3u8?wmsAuthSign=af74ee324156c173ef7d706a89913afe-1580489672-81i02i191i881
+#EXTINF:-1,Hustler TV 
+http://50.7.220.130:8081/bluehustler/index.m3u8?wmsAuthSign=35f00f62a1ccb1f07a92718b40dd0a4f-1580489875-81i02i191i881
+#EXTINF:-1,Blue Hustler
+http://50.7.220.130:8081/bluehustler/index.m3u8?wmsAuthSign=69d6444ea6cdb9d997b0877b94a7e057-1580490135-81i02i191i881
+#EXTINF:-1,Dorcel TV
+http://50.7.220.130:8081/dorcel/tracks-1,2/index.m3u8?wmsAuthSign=3159fc2a986e29bb1f17592b54990de0-1580490032-81i02i191i881
+#EXTINF:-1,Redlight HD 
+http://50.7.220.130:8081/redlight/index.m3u8?wmsAuthSign=a89a29f85773996fe94f9415fc4d420d-1580490430-81i02i191i881
+#EXTINF:-1,PENTHOUSE HD 1
+http://50.7.220.130:8081/penthouse1/index.m3u8?wmsAuthSign=cee9266a4149434b73687b4dd24fb59e-1580490570-81i02i191i881
+#EXTINF:-1,PENTHOUSE HD 2
+http://50.7.220.130:8081/penthouse2/index.m3u8?wmsAuthSign=d5f4eb74b8017418c5264d7743ad7624-1580490708-81i02i191i881
+
+
 #EXTINF:-1,Frenchlover_TV_XXX
 http://217.12.74.23:81/udp/235.10.10.253:1234
 #EXTINF:-1,O-La-La 

@@ -1,538 +1,76 @@
 #EXTM3U
 
-#EXTINF:-1,КИНОСВИДАНИЕ
-http://217.25.216.4:8085/udp/238.2.18.14:1234
-#EXTINF:-1, КИНОСЕМЬЯ
-http://217.25.216.4:8085/udp/238.2.18.16:1234
-#EXTINF:-1, КИНОСЕМЬЯ
-http://217.12.74.23:81/udp/235.10.10.87:1234
-#EXTINF:-1,КИНОХИТ
-http://217.25.216.4:8085/udp/238.2.18.22:1234
-#EXTINF:-1,А НВО
-http://217.25.216.4:8085/udp/238.2.18.120:1234
-#EXTINF:-1,24 Беларусь
-http://persik.by/stream/2102/351000/10200.m3u8
-#EXTINF:-1,ЗВЕЗДА
-http://persik.by/stream/2102/351000/10220.m3u8
-#EXTINF:-1,ЕВРОКИНО
-http://persik.by/stream/2102/351000/10222.m3u8
-#EXTINF:-1,ДОМКИНО
-http://persik.by/stream/2102/351000/10228.m3u8
-#EXTINF:-1,FOX
-http://persik.by/stream/2102/351000/10234.m3u8
-#EXTINF:-1,TV1000 РУССКОЕ КИНО
-http://persik.by/stream/2102/351000/10236.m3u8
-#EXTINF:-1,TV1000 ACTION
-http://persik.by/stream/2102/351000/10238.m3u8
-#EXTINF:-1,КИНОПРЕМЬЕРА
-http://persik.by/stream/2102/351000/10240.m3u8
-#EXTINF:-1,1 Беларусь
-http://persik.by/stream/2102/351000/10251.m3u8
-#EXTINF:-1,3 Беларусь
-http://persik.by/stream/2102/351000/10253.m3u8
-#EXTINF:-1,НТВ Беларусь
-http://persik.by/stream/2102/351000/10255.m3u8
-#EXTINF:-1,РОССИЯ РТР
-http://persik.by/stream/2102/351000/10256.m3u8
-#EXTINF:-1,Н
-http://persik.by/stream/2102/351000/10258.m3u8
-#EXTINF:-1,ВТВ ПРЕМЬЕРА
-http://persik.by/stream/2102/351000/10263.m3u8
-#EXTINF:-1,ВТВ ПЕРЕЦ
-http://persik.by/stream/2102/351000/10273.m3u8
-#EXTINF:-1,МИР ПРЕМИУМ
-http://persik.by/stream/2102/351000/10283.m3u8
-#EXTINF:-1,ББК
-http://persik.by/stream/2102/351000/10284.m3u8
-#EXTINF:-1,ЖАРА TV
-http://persik.by/stream/2102/351000/10286.m3u8
-#EXTINF:-1,365
-http://persik.by/stream/2102/351000/10288.m3u8
-#EXTINF:-1,H
-http://persik.by/stream/2102/351000/10296.m3u8
-#EXTINF:-1,РЕН
-http://persik.by/stream/2102/351000/10304.m3u8
-#EXTINF:-1,МИР
-http://persik.by/stream/2102/351000/10305.m3u8
-#EXTINF:-1,ЧЕ
-http://persik.by/stream/2102/351000/10310.m3u8
-#EXTINF:-1,РОДНОЕ КИНО
-http://persik.by/stream/2102/351000/10311.m3u8
-#EXTINF:-1,КИНОСЕРИЯ
-http://persik.by/stream/2102/351000/10312.m3u8
-#EXTINF:-1,Nuart TV 18+
-http://persik.by/stream/2102/351000/10325.m3u8
-#EXTINF:-1,КИНОХИТ
-http://persik.by/stream/2102/351000/10327.m3u8
-#EXTINF:-1,КИНОПРЕМЬЕРА
-http://persik.by/stream/2102/351000/10328.m3u8
-#EXTINF:-1,КИНОСЕМЬЯ
-http://persik.by/stream/2102/351000/10330.m3u8
-#EXTINF:-1,КИНОСВИДАНИЕ
-http://persik.by/stream/2102/351000/10331.m3u8
-#EXTINF:-1,КИНОМИКС
-http://persik.by/stream/2102/351000/10332.m3u8
-#EXTINF:-1,КИНОКОМЕДИЯ
-http://persik.by/stream/2102/351000/10333.m3u8
-#EXTINF:-1,НАШЕ НОВОЕ КИНО
-http://persik.by/stream/2102/351000/10334.m3u8
-#EXTINF:-1,Mugskoe kino
-http://persik.by/stream/2102/351000/10368.m3u8
-#EXTINF:-1,CNL
-http://persik.by/stream/2102/351000/10373.m3u8
-#EXTINF:-1,BBK
-http://persik.by/stream/2102/351000/10376.m3u8
-#EXTINF:-1,MIR
-http://persik.by/stream/2102/351000/10404.m3u8
-#EXTINF:-1,1 Беларусь
-http://persik.by/stream/2102/351000/10405.m3u8
-#EXTINF:-1,2 Беларусь
-http://persik.by/stream/2102/351000/10406.m3u8
-#EXTINF:-1,3 Беларусь
-http://persik.by/stream/2102/351000/10407.m3u8
-#EXTINF:-1,5 Беларусь
-http://persik.by/stream/2102/351000/10408.m3u8
-#EXTINF:-1,1Н
-http://persik.by/stream/2102/351000/10409.m3u8
-#EXTINF:-1,С
-http://persik.by/stream/2102/351000/10410.m3u8
-#EXTINF:-1,ДИСНЕЙ
-http://persik.by/stream/2102/351000/10422.m3u8
-#EXTINF:-1,СКИФ
-http://persik.by/stream/2102/351000/10430.m3u8
-#EXTINF:-1,СТАРТ НА ПЕРСИК
-http://persik.by/stream/2102/351000/10432.m3u8
-#EXTINF:-1,SONYA
-http://persik.by/stream/2102/351000/10449.m3u8
-#EXTINF:-1,SONYT
-http://persik.by/stream/2102/351000/10450.m3u8
-#EXTINF:-1,МИР СЕРИАЛА
-http://persik.by/stream/2102/351000/10451.m3u8
-#EXTINF:-1,НАШЕ ЛЮБИМОЕ КИНО
-http://persik.by/stream/2102/351000/10452.m3u8
-#EXTINF:-1,КТО
-http://persik.by/stream/2102/351000/10453.m3u8
-#EXTINF:-1,SHOT TV
-http://persik.by/stream/2102/351000/10454.m3u8
-#EXTINF:-1,FOX L
-http://persik.by/stream/2102/351000/10455.m3u8
-#EXTINF:-1,TV POLAND
-http://persik.by/stream/2102/351000/10467.m3u8
-#EXTINF:-1,TV MODA
-http://persik.by/stream/2102/351000/10470.m3u8
-#EXTINF:-1,КРОЙКА И ШИТЬЕ
-http://persik.by/stream/2102/351000/10495.m3u8
-#EXTINF:-1,ШАХМАТЫ
-http://persik.by/stream/2102/351000/10523.m3u8
-#EXTINF:-1,ЭЛЕКТРОСХЕМЫ
-http://persik.by/stream/2102/351000/10534.m3u8
-#EXTINF:-1,СТРОЙКА
-http://persik.by/stream/2102/351000/10536.m3u8
-#EXTINF:-1,КИНОАФИША
-http://persik.by/stream/2102/351000/10539.m3u8
-#EXTINF:-1,АНИМАШКИ ютуб
-http://persik.by/stream/2102/351000/10583.m3u8
-#EXTINF:-1,persik.by приглашает к сотрудничеству
-http://persik.by/stream/2102/351000/10681.m3u8
-#EXTINF:-1,МИР 24
-http://persik.by/stream/2102/351000/10682.m3u8
-#EXTINF:-1,4 Беларусь
-http://persik.by/stream/2102/351000/10683.m3u8
-#EXTINF:-1,24 Беларусь
-http://persik.by/stream/2102/351000/10712.m3u8
-#EXTGRP:Кино и Сериалы
-http://stream1.cybergame.tv:8080/live/akudjio.m3u8
-#EXTGRP:Кино и Сериалы
-http://178.163.16.8:4022/udp/234.0.0.169:2000
-#EXTINF:-1,ПЕРВЫЙ
-http://217.12.74.23:81/udp/235.10.10.1:1234
-#EXTINF:-1,CTC love
-http://217.12.74.23:81/udp/235.10.10.2:1234
-#EXTINF:-1,Disney
-http://217.12.74.23:81/udp/235.10.10.4:1234
-#EXTINF:-1,ПЯТНИЦА
-http://217.12.74.23:81/udp/235.10.10.5:1234
-#EXTINF:-1,Д
-http://217.12.74.23:81/udp/235.10.10.6:1234
-#EXTINF:-1,ЧЕ
-http://217.12.74.23:81/udp/235.10.10.7:1234
-#EXTINF:-1,РОССИЯ К
-http://217.12.74.23:81/udp/235.10.10.9:1234
-#EXTINF:-1,РОССИЯ-24
-http://217.12.74.23:81/udp/235.10.10.8:1234
-#EXTINF:-1,НТВ
-http://217.12.74.23:81/udp/235.10.10.11:1234
-#EXTINF:-1,5 КАНАЛ
-http://217.12.74.23:81/udp/235.10.10.12:1234
-#EXTINF:-1,ТНТ
-http://217.12.74.23:81/udp/235.10.10.13:1234
-#EXTINF:-1,Russia 1
-http://217.12.74.23:81/udp/235.10.10.14:1234
-#EXTINF:-1,САНКТ ПЕТЕРБЕРГ
-http://217.12.74.23:81/udp/235.10.10.17:1234
-#EXTINF:-1,ТВЦ
-http://217.12.74.23:81/udp/235.10.10.18:1234
-#EXTINF:-1,СТС
-http://217.12.74.23:81/udp/235.10.10.16:1234
-#EXTINF:-1,ТНТ
-http://217.12.74.23:81/udp/235.10.10.19:1234
-#EXTINF:-1,2x2
-http://217.12.74.23:81/udp/235.10.10.20:1234
-#EXTINF:-1,МУЗ
-http://217.12.74.23:81/udp/235.10.10.22:1234
-#EXTINF:-1,РУССКИЙ ИЛЛЮЗИОН
-http://217.12.74.23:81/udp/235.10.10.26:1234
-#EXTINF:-1,ЕВРОКИНО
-http://217.12.74.23:81/udp/235.10.10.28:1234
-#EXTINF:-1,ИЛЛЮЗИОН+
-http://217.12.74.23:81/udp/235.10.10.29:1234
-#EXTINF:-1,Amedia_Hit_HD
-http://217.12.74.23:81/udp/235.10.10.30:1234
-#EXTINF:-1,БОБЕР
-http://217.12.74.23:81/udp/235.10.10.38:1234
-#EXTINF:-1,ЗЖ
-http://217.12.74.23:81/udp/235.10.10.41:1234
-#EXTINF:-1,National_Geographic_Channel
-http://217.12.74.23:81/udp/235.10.10.43:1234
-#EXTINF:-1,Russkiy_roman_HD
-http://217.12.74.23:81/udp/235.10.10.44:1234
-#EXTINF:-1,Russia_Today_HD
-http://217.12.74.23:81/udp/235.10.10.49:1234
-#EXTINF:-1,RBK-UNIQ
-http://217.12.74.23:81/udp/235.10.10.50:1234
-#EXTINF:-1,ДЕТСКИЙ
-http://217.12.74.23:81/udp/235.10.10.52:1234
-#EXTINF:-1,Д
-http://217.12.74.23:81/udp/235.10.10.55:1234
-#EXTINF:-1,РЫЖИЙ
-http://217.12.74.23:81/udp/235.10.10.65:1234
-#EXTINF:-1,Spike_HD
-http://217.12.74.23:81/udp/235.10.10.66:1234
-#EXTINF:-1,Hollywood_HD
-http://217.12.74.23:81/udp/235.10.10.67:1234
-#EXTINF:-1,Sony_Sci_Fi
-http://217.12.74.23:81/udp/235.10.10.69:1234
-#EXTINF:-1,КИНОКОМЕДИЯ
-http://217.12.74.23:81/udp/235.10.10.68:1234
-#EXTINF:-1,Kino_TV_HD
-http://217.12.74.23:81/udp/235.10.10.71:1234
-#EXTINF:-1,ZEE_TV
-http://217.12.74.23:81/udp/235.10.10.73:1234
-#EXTINF:-1,ДОМКИНО
-http://217.12.74.23:81/udp/235.10.10.74:1234
-#EXTINF:-1,КВН
-http://217.12.74.23:81/udp/235.10.10.78:1234
-#EXTINF:-1,ЛЕН ТВ
-http://217.12.74.23:81/udp/235.10.10.80:1234
-#EXTINF:-1,sony_turbo
-http://217.12.74.23:81/udp/235.10.10.81:1234
-#EXTINF:-1,Priklyucheniya_HD
-http://217.12.74.23:81/udp/235.10.10.84:1234
-#EXTINF:-1,РОДНОЕ КИНО
-http://217.12.74.23:81/udp/235.10.10.91:1234
-#EXTINF:-1,TV_1000 РУССКОЕ КИНО
-http://217.12.74.23:81/udp/235.10.10.94:1234
-#EXTINF:-1,TV_1000_HD
-http://217.12.74.23:81/udp/235.10.10.98:1234
-#EXTINF:-1,TV_1000_Action_HD
-http://217.12.74.23:81/udp/235.10.10.99:1234
-#EXTINF:-1,Fox_HD
-http://217.12.74.23:81/udp/235.10.10.103:1234
-#EXTINF:-1,Fox_Life_HD
-http://217.12.74.23:81/udp/235.10.10.104:1234
-#EXTINF:-1,Sony_TV_HD
-http://217.12.74.23:81/udp/235.10.10.108:1234
-#EXTINF:-1,РОССИЯ 1HD
-http://217.12.74.23:81/udp/235.10.10.117:1234
-#EXTINF:-1,media_premium_HD
-http://217.12.74.23:81/udp/235.10.10.124:1234
-#EXTINF:-1,A1_HD
-http://217.12.74.23:81/udp/235.10.10.123:1234
-#EXTINF:-1,Amedia_2
-http://217.12.74.23:81/udp/235.10.10.125:1234
-#EXTINF:-1,KТО
-http://217.12.74.23:81/udp/235.10.10.128:1234
-#EXTINF:-1,Super
-http://217.12.74.23:81/udp/235.10.10.131:1234
-#EXTINF:-1,VIP Premiеra
-http://217.12.74.23:81/udp/235.10.10.136:1234
-#EXTINF:-1,VIP Megahit_HD
-http://217.12.74.23:81/udp/235.10.10.135:1234
-#EXTINF:-1,TLC_HD
-http://217.12.74.23:81/udp/235.10.10.139:1234
-#EXTINF:-1,ДОМ КИНО
-http://217.12.74.23:81/udp/235.10.10.148:1234
-#EXTINF:-1,МУЖСКОЕ КИНО
-http://217.12.74.23:81/udp/235.10.10.150:1234
-#EXTINF:-1,Evrika_HD
-http://217.12.74.23:81/udp/235.10.10.151:1234
-#EXTINF:-1,ТВ 3
-http://217.12.74.23:81/udp/235.10.10.156:1234
-#EXTINF:-1,Moia_Planeta HD
-http://217.12.74.23:81/udp/235.10.10.155:1234
-#EXTINF:-1,РЕН
-http://217.12.74.23:81/udp/235.10.10.158:1234
-#EXTINF:-1,RTRS_REN_TV-0
-http://217.12.74.23:81/udp/235.10.10.163:1234
-#EXTINF:-1,Paramount_Comedy_HD
-http://217.12.74.23:81/udp/235.10.10.160:1234
-#EXTINF:-1,ПОБЕДА
-http://217.12.74.23:81/udp/235.10.10.168:1234
-#EXTINF:-1,Kinosvidanie_HD
-http://217.12.74.23:81/udp/235.10.10.177:1234
-#EXTINF:-1,ЗВЕЗДА
-http://217.12.74.23:81/udp/235.10.10.178:1234
-#EXTINF:-1,К
-http://217.12.74.23:81/udp/235.10.10.180:1234
-#EXTINF:-1,КИНОХИТ
-http://217.12.74.23:81/udp/235.10.10.181:1234
-#EXTINF:-1,НОСТАЛЬГИЯ
-http://217.12.74.23:81/udp/235.10.10.195:1234
-#EXTINF:-1,НТВ ХИТ
-http://217.12.74.23:81/udp/235.10.10.202:1234
-#EXTINF:-1,БСТ
-http://217.12.74.23:81/udp/235.10.10.208:1234
-#EXTINF:-1,ИНТЕР+
-http://217.12.74.23:81/udp/235.10.10.211:1234
-#EXTINF:-1,8_
-http://217.12.74.23:81/udp/235.10.10.216:1234
-#EXTINF:-1,NST
-http://217.12.74.23:81/udp/235.10.10.218:1234
-#EXTINF:-1,КИНОПРЕМЬЕРА
-http://217.12.74.23:81/udp/235.10.10.217:1234
-#EXTINF:-1,НАШЕ НОВОЕ КИНО
-http://217.12.74.23:81/udp/235.10.10.221:1234
-#EXTINF:-1,Cinema
-http://217.12.74.23:81/udp/235.10.10.222:1234
-#EXTINF:-1,Т24_
-http://217.12.74.23:81/udp/235.10.10.226:1234
-#EXTINF:-1,HD REX
-http://217.12.74.23:81/udp/235.10.10.235:1234
-#EXTINF:-1,A HBO
-http://217.12.74.23:81/udp/235.10.10.241:1234
-#EXTINF:-1,МИР 24
-http://217.12.74.23:81/udp/235.10.10.245:1234
-#EXTINF:-1,Russia 1
-http://217.12.74.23:81/udp/235.10.10.248:1234
-#EXTINF:-1,RTRS_NTV-0
-http://217.12.74.23:81/udp/235.10.10.249:1234
-#EXTINF:-1,STAR_FAMILY_HD
-http://217.12.74.23:81/udp/235.10.10.251:1234
-#EXTINF:-1,7_KANAL
-http://217.12.74.23:81/udp/235.10.10.252:1234
-#EXTINF:-1,1
-http://217.25.226.215:4022/udp/235.1.10.1:10000
-#EXTINF:-1,РОССИЯ 1
-http://217.25.226.215:4022/udp/235.1.10.2:10000
-#EXTINF:-1,НТВ
-http://217.25.226.215:4022/udp/235.1.10.4:10000
-#EXTINF:-1,РОССИЯ К
-http://217.25.226.215:4022/udp/235.1.10.6:10000
-#EXTINF:-1,5КАН
-http://217.25.226.215:4022/udp/235.1.10.5:10000
-#EXTINF:-1,РОССИЯ 24
-http://217.25.226.215:4022/udp/235.1.10.7:10000
-#EXTINF:-1,ЧЕ
-http://217.25.226.215:4022/udp/235.1.10.9:10000
-#EXTINF:-1,ТВЦ
-http://217.25.226.215:4022/udp/235.1.10.10:10000
-#EXTINF:-1,1_канал
-http://217.25.226.215:4022/udp/235.1.10.11:10000
-#EXTINF:-1,РОССИЯ 1
-http://217.25.226.215:4022/udp/235.1.10.12:10000
-#EXTINF:-1,5_канал
-http://217.25.226.215:4022/udp/235.1.10.19:10000
-#EXTINF:-1,Kanal Disney
-http://217.25.226.215:4022/udp/235.1.10.22:10000
-#EXTINF:-1,MIR PREMIUM HD
-http://217.25.226.215:4022/udp/235.1.10.23:10000
-#EXTINF:-1,ТВ 3
-http://217.25.226.215:4022/udp/235.1.10.27:10000
-#EXTINF:-1,Ю
-http://217.25.226.215:4022/udp/235.1.10.36:10000
-#EXTINF:-1,Kanal Disney
-http://217.25.226.215:4022/udp/235.1.10.60:10000
-#EXTINF:-1,ПЯТНИЦА
-http://217.25.226.215:4022/udp/235.1.10.90:10000
-#EXTINF:-1,Первый канал
-http://217.25.226.215:4022/udp/235.1.10.101:10000
-#EXTINF:-1,Первый канал
-http://217.25.226.215:4022/udp/235.1.10.102:10000
-#EXTINF:-1,НТВ
-http://217.25.226.215:4022/udp/235.1.10.104:10000
-#EXTINF:-1,Пятый канал
-http://217.25.226.215:4022/udp/235.1.10.105:10000
-#EXTINF:-1,Россия 24
-http://217.25.226.215:4022/udp/235.1.10.107:10000
-#EXTINF:-1,CHE+0
-http://217.25.226.215:4022/udp/235.1.10.109:10000
-#EXTINF:-1,ТВЦ
-http://217.25.226.215:4022/udp/235.1.10.110:10000
-#EXTINF:-1,СТС
-http://217.25.226.215:4022/udp/235.1.10.111:10000
-#EXTINF:-1,РЕН
-http://217.25.226.215:4022/udp/235.1.10.114:10000
-#EXTINF:-1,Д
-http://217.25.226.215:4022/udp/235.1.10.115:10000
-#EXTINF:-1,Первый Канал HD
-http://217.25.226.215:4022/udp/235.1.10.123:10000
-#EXTINF:-1,ОТР
-http://217.25.226.215:4022/udp/235.1.10.147:10000
-#EXTINF:-1,Россия 1 HD
-http://217.25.226.215:4022/udp/235.1.10.150:10000
-#EXTINF:-1,CTC-LOVE+0
-http://217.25.226.215:4022/udp/235.1.10.187:10000
-#EXTINF:-1,МИР
-http://217.25.226.215:4022/udp/235.1.10.192:10000
-#EXTINF:-1,КРАСНАЯ ЛИНИЯ
-http://217.25.226.215:4022/udp/235.1.10.193:10000
-#EXTINF:-1,Muj Kino
-http://178.163.16.8:4022/udp/234.0.0.213:2000
-#EXTINF:-1,Vremya
-http://178.163.16.8:4022/udp/234.0.0.225:2000
-#EXTINF:-1,КИНОПОКАЗ
-http://89.249.133.183:4022/udp/239.254.2.11:1234
-#EXTINF:-1,РОДНОЕКИНО
-http://89.249.133.183:4022/udp/239.254.2.26:1234
-#EXTINF:-1,1 ВРЕМЯ
-http://89.249.133.183:4022/udp/239.254.2.36:1234
-#EXTINF:-1,Sony_Sci_Fi
-http://89.249.133.183:4022/udp/239.254.2.48:1234
-#EXTINF:-1,Sony А
-http://89.249.133.183:4022/udp/239.254.2.51:1234
-#EXTINF:-1,Sony ТУРБО
-http://89.249.133.183:4022/udp/239.254.2.239:1234
-#EXTINF:-1,ПЛАНЕТА
-http://89.249.133.183:4022/udp/239.254.2.61:1234
-#EXTINF:-1,НСТ
-http://89.249.133.183:4022/udp/239.254.2.67:1234
-#EXTINF:-1,МУЖСКОЙ
-http://89.249.133.183:4022/udp/239.254.2.75:1234
-#EXTINF:-1,ЗДОРОВОЕ ТВ
-http://89.249.133.183:4022/udp/239.254.2.76:1234
-#EXTINF:-1,УСАДЬБА
-http://89.249.133.183:4022/udp/239.254.2.79:1234
-#EXTINF:-1,HOLLYWOOD
-http://89.249.133.183:4022/udp/239.254.2.99:1234
-#EXTINF:-1,КИНОСЕРИЯ
-http://89.249.133.183:4022/udp/239.254.2.109:1234
-#EXTINF:-1,360 ГРАДУСОВ
-http://89.249.133.183:4022/udp/239.254.2.166:1234
-#EXTINF:-1,А НВО
-http://89.249.133.183:4022/udp/239.254.2.170:1234
-#EXTINF:-1,Р
-http://89.249.133.183:4022/udp/239.254.2.197:1234
-#EXTINF:-1,А2
-http://89.249.133.183:4022/udp/239.254.2.199:1234
-#EXTINF:-1,Б
-http://89.249.133.183:4022/udp/239.254.2.229:1234
-#EXTINF:-1,КИНО ТВ
-http://89.249.133.183:4022/udp/239.254.2.230:1234
-#EXTINF:-1,ИНТЕР+
-http://89.249.133.183:4022/udp/239.254.2.233:1234
-#EXTINF:-1,КИНОСВИДАНИЕ
-http://217.25.216.4:8085/udp/238.2.18.14:1234
-#EXTINF:-1,КИНОСЕМЬЯ
-http://217.25.216.4:8085/udp/238.2.18.16:1234
-#EXTINF:-1,+О
-http://217.12.74.23:81/udp/235.10.10.10:1234
-#EXTINF:-1,МИР 1
-http://217.12.74.23:81/udp/235.10.10.34:1234
-#EXTINF:-1,МИР 2
-http://217.12.74.23:81/udp/235.10.10.36:1234
-#EXTINF:-1,Д
-http://217.12.74.23:81/udp/235.10.10.55:1234
-#EXTINF:-1,КИНОКОМЕДИЯ
-http://217.12.74.23:81/udp/235.10.10.68:1234
-#EXTINF:-1,Sony_Sci
-http://217.12.74.23:81/udp/235.10.10.69:1234
-#EXTINF:-1,Sony ТУРБО
-http://217.12.74.23:81/udp/235.10.10.81:1234
-#EXTINF:-1,Sony CHANNEL
-http://217.12.74.23:81/udp/235.10.10.108:1234
-#EXTINF:-1,TV 1000
-http://217.12.74.23:81/udp/235.10.10.98:1234
-#EXTINF:-1,TV 1000 Action
-http://217.12.74.23:81/udp/235.10.10.99:1234
-#EXTINF:-1,FOX
-http://217.12.74.23:81/udp/235.10.10.103:1234
-#EXTINF:-1,Fox_Life_HD
-http://217.12.74.23:81/udp/235.10.10.104:1234
-#EXTINF:-1,BOLT
-http://217.12.74.23:81/udp/235.10.10.107:1234
-#EXTINF:-1,A1_HD
-http://217.12.74.23:81/udp/235.10.10.123:1234
-#EXTINF:-1,A HBO
-http://217.12.74.23:81/udp/235.10.10.124:1234
-#EXTINF:-1,A HBO номе
-http://217.12.74.23:81/udp/235.10.10.241:1234
-#EXTINF:-1,A2_HD
-http://217.12.74.23:81/udp/235.10.10.125:1234
-#EXTINF:-1,Super
-http://217.12.74.23:81/udp/235.10.10.131:1234
-#EXTINF:-1,VIP Comedy
-http://217.12.74.23:81/udp/235.10.10.132:1234
-#EXTINF:-1,VIP MEGAHIT
-http://217.12.74.23:81/udp/235.10.10.135:1234
-#EXTINF:-1,VIP Premium
-http://217.12.74.23:81/udp/235.10.10.136:1234
-#EXTINF:-1,ДОМ_КИНО
-http://217.12.74.23:81/udp/235.10.10.148:1234
-#EXTINF:-1,МУЖСКОЕ_КИНО
-#EXTINF:-1,HARAMONPICHER
-http://217.12.74.23:81/udp/235.10.10.151:1234
-#EXTINF:-1,TRAVEL+
-http://217.12.74.23:81/udp/235.10.10.157:1234
-#EXTINF:-1,STAR CINEMA
-http://217.12.74.23:81/udp/235.10.10.159:1234
-#EXTINF:-1,K
-http://217.12.74.23:81/udp/235.10.10.180:1234
-#EXTINF:-1,HTB ХИТ
-http://217.12.74.23:81/udp/235.10.10.202:1234
-#EXTINF:-1,1_HD
-http://217.12.74.23:81/udp/235.10.10.210:1234
-#EXTINF:-1,НСТ
-http://217.12.74.23:81/udp/235.10.10.218:1234
-
-#EXTINF:-1,24 УКРАИНА
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
-#EXTINF:-1,Fashion One HD
-http://178.163.16.8:4022/udp/234.0.0.212:2000
-
-
-
+#EXTINF:-1,Vivid Red
+http://50.7.220.130:8081/vivid_red/index.m3u8?wmsAuthSign=eb2327a6403316e4d081887b42e94cff-1588143693-532i02i191i881
 #EXTINF:-1,FAP TV Compilation
-http://50.7.220.130:8081/fap_compilation/index.m3u8?wmsAuthSign=ceec05abaf868b2fff8c1c415ac0e461-1580487127-81i02i191i881
+http://50.7.220.130:8081/fap_compilation/index.m3u8?wmsAuthSign=5b90dc61c6d9eae26568f271cf62aed6-1588143824-532i02i191i881
 #EXTINF:-1,FAP TV 2
-http://50.7.220.130:8081/faptv2/index.m3u8?wmsAuthSign=76427b1720a5e8af23029ded05cc30f3-1580487232-81i02i191i881
+http://50.7.220.130:8081/faptv2/index.m3u8?wmsAuthSign=ad70f3fec4e89bacd8525abd1bf95b75-1588106427-532i02i191i881
 #EXTINF:-1,FAP TV 3
-http://50.7.220.130:8081/faptv3/index.m3u8?wmsAuthSign=bac872600d4d615cc2b3f172b3d0fedb-1580489052-81i02i191i881
-#EXTINF:-1,FAP TV 4
-http://50.7.220.130:8081/faptv4/index.m3u8?wmsAuthSign=9df339f95d36554811d44bfb2d65ca3a-1580489230-81i02i191i881
+http://50.7.220.130:8081/faptv3/index.m3u8?wmsAuthSign=d012558f2fe274a9c15041c373210739-1588106704-532i02i191i881#EXTINF:-1,FAP TV 4
+http://50.7.220.130:8081/faptv4/index.m3u8?wmsAuthSign=a5a639bdbba21082308d12ed79b33751-1588106988-532i02i191i881
 #EXTINF:-1,FAP TV Teens
-http://50.7.220.130:8081/fap_teens/index.m3u8?wmsAuthSign=b254716f3e46f3977f32d6fbeee291eb-1580487945-81i02i191i881
+http://50.7.220.130:8081/fap_teens/index.m3u8?wmsAuthSign=a3769cc97f516438cad9252a5b4095fc-1588107253-532i02i191i881
 #EXTINF:-1,FAP TV Parody
-http://50.7.220.130:8081/fap_parody/index.m3u8?wmsAuthSign=eb023ad7b3bfccde5b2dbe0906a79b7f-1580488080-81i02i191i881
+http://50.7.220.130:8081/fap_parody/index.m3u8?wmsAuthSign=be53fd30d76c8f27cbbfd2b5579cef52-1588107562-532i02i191i881
 #EXTINF:-1,FAP TV Anal
-http://50.7.220.130:8081/fap_an/index.m3u8?wmsAuthSign=1d5db42eb7ef9a7b8c991f114ea3c9fd-1580488229-81i02i191i881
+http://50.7.220.130:8081/fap_an/index.m3u8?wmsAuthSign=5d949bf4648199deec43a2af90950172-1588107721-532i02i191i881
 #EXTINF:-1,FAP TV Lesbian 
-http://50.7.220.130:8081/fap_lesb/index.m3u8?wmsAuthSign=380ae6b05379091e8f8f3dfa36394f77-1580488721-81i02i191i881
+http://50.7.220.130:8081/fap_lesb/index.m3u8?wmsAuthSign=4928cdc626e66d9fb5c4d0cb53f3f2d0-1588107877-532i02i191i881
 #EXTINF:-1,Private TV
-http://50.7.220.130:8081/private_hd/index.m3u8?wmsAuthSign=2f40075ebeb70c8419cf51ce0596c1eb-1580489437-81i02i191i881
+http://50.7.220.130:8081/private_hd/index.m3u8?wmsAuthSign=a22abe3e65d3d5b6511f06d5303e7d75-1588111102-532i02i191i881
 #EXTINF:-1,Hustler HD 
-http://50.7.220.130:8081/hustlerhd/index.m3u8?wmsAuthSign=af74ee324156c173ef7d706a89913afe-1580489672-81i02i191i881
+http://50.7.220.130:8081/hustlerhd/index.m3u8?wmsAuthSign=9c33ae766e1f57227bce2b090a2c59b4-1588109658-532i02i191i881
 #EXTINF:-1,Hustler TV 
-http://50.7.220.130:8081/bluehustler/index.m3u8?wmsAuthSign=35f00f62a1ccb1f07a92718b40dd0a4f-1580489875-81i02i191i881
+http://50.7.220.130:8081/bluehustler/index.m3u8?wmsAuthSign=477f8873327e299fe7df8b13cf5ec49b-1588120133-532i02i191i881 
 #EXTINF:-1,Blue Hustler
-http://50.7.220.130:8081/bluehustler/index.m3u8?wmsAuthSign=69d6444ea6cdb9d997b0877b94a7e057-1580490135-81i02i191i881
+http://50.7.220.130:8081/bluehustler/index.m3u8?wmsAuthSign=29c469e2eea9da17bfeaf62b4f859838-1588119758-532i02i191i881
 #EXTINF:-1,Dorcel TV
-http://50.7.220.130:8081/dorcel/tracks-1,2/index.m3u8?wmsAuthSign=3159fc2a986e29bb1f17592b54990de0-1580490032-81i02i191i881
+http://50.7.220.130:8081/dorcel/tracks-1,2/index.m3u8?wmsAuthSign=d887f612eea2f298818e60ace28a35b0-1588114653-532i02i191i881
 #EXTINF:-1,Redlight HD 
-http://50.7.220.130:8081/redlight/index.m3u8?wmsAuthSign=a89a29f85773996fe94f9415fc4d420d-1580490430-81i02i191i881
+http://50.7.220.130:8081/redlight/index.m3u8?wmsAuthSign=ed56b51ce4663a8dd280557a7b5f31da-1588114871-532i02i191i881
 #EXTINF:-1,PENTHOUSE HD 1
-http://50.7.220.130:8081/penthouse1/index.m3u8?wmsAuthSign=cee9266a4149434b73687b4dd24fb59e-1580490570-81i02i191i881
+http://50.7.220.130:8081/penthouse1/index.m3u8?wmsAuthSign=6e931399bf803a82909bb75a5f332305-1588115164-532i02i191i881
 #EXTINF:-1,PENTHOUSE HD 2
-http://50.7.220.130:8081/penthouse2/index.m3u8?wmsAuthSign=d5f4eb74b8017418c5264d7743ad7624-1580490708-81i02i191i881
+http://50.7.220.130:8081/penthouse2/index.m3u8?wmsAuthSign=a89a2e9d5796ee2026d7c483ba4c6c3c-1588120583-532i02i191i881
+#EXTINF:-1,pink-o-tv
+http://50.7.220.130:8081/pink/index.m3u8?wmsAuthSign=c1bdc66244aa60204d16543eb25e8254-1588120803-532i02i191i881
+#EXTINF:-1,brazzers-tv
+http://50.7.220.130:8081/brazzers_eu/index.m3u8?wmsAuthSign=26c06d330019faace7ffe2ae5449fcaa-1588121076-532i02i191i881
+#EXTINF:-1,sextosenso
+http://50.7.220.130:8081/sextosenso/index.m3u8?wmsAuthSign=bec3a72d3c47d3a582bd25fd6977772d-1588121262-532i02i191i881
+#EXTINF:-1,cento-x-cento
+http://50.7.220.130:8081/centoxcento/index.m3u8?wmsAuthSign=c6ce21d222fe8a6501af108622ed4e92-1588121506-532i02i191i881
+#EXTINF:-1,passionxxx
+http://50.7.220.130:8081/passion/index.m3u8?wmsAuthSign=1b4cd5f135f8e35b38cd22652bb6cbf2-1588121668-532i02i191i881
+#EXTINF:-1,sct
+http://50.7.220.130:8081/sct/index.m3u8?wmsAuthSign=4b52683e042bcb3b2758928b0e2d20fd-1588121819-532i02i191i881
+#EXTINF:-1,dusk-tv
+http://50.7.220.130:8081/dusk/index.m3u8?wmsAuthSign=7bcca24435e763fe666756a008a78c6f-1588122127-532i02i191i881
+#EXTINF:-1,babes-tv
+http://50.7.220.130:8081/babes/index.m3u8?wmsAuthSign=23c92af325080da98889aa59da58f26b-1588122285-532i02i191i881
+#EXTINF:-1,candy
+http://50.7.220.130:8081/candy/index.m3u8?wmsAuthSign=84b61afc7871519a9fc6fb30e9924d9a-1588122567-532i02i191i881
+#EXTINF:-1,oh-ah-hd
+http://50.7.220.130:8081/ox_ax_hd/index.m3u8?wmsAuthSign=cfd2ba3e1a5aa00ededbfe7241949d01-1588122880-532i02i191i881
+#EXTINF:-1,erox-hd
+http://50.7.220.130:8081/erox/index.m3u8?wmsAuthSign=616f4ad41902604768a01d3f239c4850-1588133414-532i02i191i881 
+#EXTINF:-1,shalun-tv
+http://50.7.220.130:8081/shalun/index.m3u8?wmsAuthSign=490725a7729f3c04d6c8fd1abd64cbe6-1588141286-532i02i191i881 
+#EXTINF:-1,nuart-tv
+http://50.7.220.130:8081/nuart/index.m3u8?wmsAuthSign=3920f745e85429fb8ef351d3aa5a8aef-1588142490-532i02i191i881
+#EXTINF:-1,o-la-la
+http://50.7.220.130:8081/olala/index.m3u8?wmsAuthSign=df8c3280f65df22c400daa2e7b718831-1588142629-532i02i191i881
+#EXTINF:-1,jasmin-tv
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8 
+#EXTINF:-1,playboy-tv
+http://50.7.220.130:8081/playboy/index.m3u8?wmsAuthSign=b98f0150deeb62ffe421eecaa8f42416-1588143044-532i02i191i881 
+#EXTINF:-1,russkaya-noch
+http://50.7.220.130:8081/rusnoch/index.m3u8?wmsAuthSign=3f4a05a04c573aec0b5e7492dac619d9-1588143148-532i02i191i881 
+#EXTINF:-1,egoist-tv
+http://50.7.220.130:8081/egoist/index.m3u8?wmsAuthSign=f4d8a069ca19e5a0850e25c1f04e9bb3-1588143286-532i02i191i881
+#EXTINF:-1,hochu.tv
+http://hochu.tv/ 
 
 
 #EXTINF:-1,Frenchlover_TV_XXX

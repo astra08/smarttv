@@ -1020,6 +1020,8 @@ http://live.redtraffic.xyz/bangbros.m3u8
 
 #EXTINF:-1,Телевидение России Без смены IP
 http://tv-fresh.org/
+#EXTINF:-1,Россия 1
+http://50.7.220.130:8081/ros_1/index.m3u8?wmsAuthSign=6b1acf61e9fac41e442f34345c23b266-1589139859-532i02i191i881
 #EXTINF:-1,Первый
 http://50.7.220.130:8081/perkanal/index.m3u8?wmsAuthSign=beaaed4fc7930488626a07d5430c07ca-1589137424-532i02i191i881
 #EXTINF:-1,1+1 Украина
@@ -1074,7 +1076,7 @@ http://178.248.80.165/239.211.211.144/stream.m3u8
 https://nsk9.peers.tv/streaming/kinoklub/16/gvh1w/playlist.m3u8
 
 
-#EXTINF:-1,Телевидение России шадо смена IP
+#EXTINF:-1,Телевидение России надо смена IP
 http://ok-tv.org/
 #EXTINF:-1,ТВ1000 Русское кино
 https://sr1.24tv.org:30443/hls/tv1000rus/chunks.m3u8?nimblesessionid=653522&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjAgNjoxMzowMyBQTSZoYXNoX3ZhbHVlPVdoamVjMVNQTXUrc1orbmYvMXJreFE9PSZ2YWxpZG1pbnV0ZXM9NjA=

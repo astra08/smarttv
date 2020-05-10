@@ -1018,12 +1018,12 @@ https://dl.dropbox.com/s/2jlgreugitfn7q3/iptv6.mp4
 #EXTINF:-1,ban HD
 http://live.redtraffic.xyz/bangbros.m3u8
 
-#EXTINF:-1,Телевидение России без смены IP
+#EXTINF:-1,Телевидение России Без смены IP
 http://tv-fresh.org/
+#EXTINF:-1,Первый
+http://50.7.220.130:8081/perkanal/index.m3u8?wmsAuthSign=beaaed4fc7930488626a07d5430c07ca-1589137424-532i02i191i881
 #EXTINF:-1,1+1 Украина
 http://50.7.220.130:8081/1pl1/index.m3u8?wmsAuthSign=35555afdfb6a89cba33717d810259899-1589087401-532i02i191i881
-#EXTINF:-1,НТВ
-http://50.7.220.130:8081/ntv/index.m3u8?wmsAuthSign=10088a05b6386ac751eee28b963bee2c-1589087569-532i02i191i881
 #EXTINF:-1,Канал A1
 http://50.7.220.130:8081/amedia_1/tracks-1,2/index.m3u8?wmsAuthSign=cf3026c517ff9777917f8a2b581a514c-1589087640-532i02i191i881
 #EXTINF:-1,Канал A2
@@ -1034,6 +1034,8 @@ http://50.7.220.130:8081/set/tracks-1,2/index.m3u8?wmsAuthSign=86cb7285d4e7ca56b
 http://50.7.220.130:8081/sony_sci_fi/index.m3u8?wmsAuthSign=69e5510af94cf1fe596c4a10783a50eb-1589088122-532i02i191i881
 #EXTINF:-1,Sony Turbo
 http://50.7.220.130:8081/sony_turbo/tracks-1,2/index.m3u8?wmsAuthSign=7fb9dc4da85ad17929552601bb2f2022-1589088188-532i02i191i881
+#EXTINF:-1,НТВ
+http://50.7.220.130:8081/ntv/index.m3u8?wmsAuthSign=10088a05b6386ac751eee28b963bee2c-1589087569-532i02i191i881
 #EXTINF:-1,НТВ Мир
 http://50.7.220.130:8081/ntv_mir/index.m3u8?wmsAuthSign=75d657c2e45edcfa9a5fd483c16e3f00-1589088357-532i02i191i881
 #EXTINF:-1,НТВ Хит
@@ -1072,7 +1074,7 @@ http://178.248.80.165/239.211.211.144/stream.m3u8
 https://nsk9.peers.tv/streaming/kinoklub/16/gvh1w/playlist.m3u8
 
 
-#EXTINF:-1,Телевидение России смена IP
+#EXTINF:-1,Телевидение России шадо смена IP
 http://ok-tv.org/
 #EXTINF:-1,ТВ1000 Русское кино
 https://sr1.24tv.org:30443/hls/tv1000rus/chunks.m3u8?nimblesessionid=653522&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjAgNjoxMzowMyBQTSZoYXNoX3ZhbHVlPVdoamVjMVNQTXUrc1orbmYvMXJreFE9PSZ2YWxpZG1pbnV0ZXM9NjA=

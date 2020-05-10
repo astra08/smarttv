@@ -1017,3 +1017,120 @@ http://live.redtraffic.xyz/teen.m3u8
 https://dl.dropbox.com/s/2jlgreugitfn7q3/iptv6.mp4
 #EXTINF:-1,ban HD
 http://live.redtraffic.xyz/bangbros.m3u8
+
+#EXTINF:-1,Телевидение России без смены IP
+http://tv-fresh.org/
+#EXTINF:-1,1+1 Украина
+http://50.7.220.130:8081/1pl1/index.m3u8?wmsAuthSign=35555afdfb6a89cba33717d810259899-1589087401-532i02i191i881
+#EXTINF:-1,НТВ
+http://50.7.220.130:8081/ntv/index.m3u8?wmsAuthSign=10088a05b6386ac751eee28b963bee2c-1589087569-532i02i191i881
+#EXTINF:-1,Канал A1
+http://50.7.220.130:8081/amedia_1/tracks-1,2/index.m3u8?wmsAuthSign=cf3026c517ff9777917f8a2b581a514c-1589087640-532i02i191i881
+#EXTINF:-1,Канал A2
+http://50.7.220.130:8081/amedia_2/index.m3u8?wmsAuthSign=7ad780bfc1f0f473fed7476a787d1872-1589087840-532i02i191i881
+#EXTINF:-1,Sony TV
+http://50.7.220.130:8081/set/tracks-1,2/index.m3u8?wmsAuthSign=86cb7285d4e7ca56b49a6dfb120e6b60-1589087913-532i02i191i881
+#EXTINF:-1,SONY SCI-FI
+http://50.7.220.130:8081/sony_sci_fi/index.m3u8?wmsAuthSign=69e5510af94cf1fe596c4a10783a50eb-1589088122-532i02i191i881
+#EXTINF:-1,Sony Turbo
+http://50.7.220.130:8081/sony_turbo/tracks-1,2/index.m3u8?wmsAuthSign=7fb9dc4da85ad17929552601bb2f2022-1589088188-532i02i191i881
+#EXTINF:-1,НТВ Мир
+http://50.7.220.130:8081/ntv_mir/index.m3u8?wmsAuthSign=75d657c2e45edcfa9a5fd483c16e3f00-1589088357-532i02i191i881
+#EXTINF:-1,НТВ Хит
+http://50.7.220.130:8081/ntv_xit/index.m3u8?wmsAuthSign=b51ec8791077ab66cc48205742f687a4-1589088392-532i02i191i881
+#EXTINF:-1,НТВ Сериал
+http://50.7.220.130:8081/ntv_serial/index.m3u8?wmsAuthSign=e421b9b105c786731792dd188447f7ec-1589088439-532i02i191i881
+#EXTINF:-1,FOX
+http://50.7.220.130:8081/fox/tracks-1,2/index.m3u8?wmsAuthSign=a581ebf5d9d58703695f7f3ece1912a9-1589088635-532i02i191i881
+#EXTINF:-1,Fox Life
+http://50.7.220.130:8081/fox_l/tracks-1,2/index.m3u8?wmsAuthSign=20d10f4c03e05ca358a7e9c7cab53dff-1589088707-532i02i191i881
+#EXTINF:-1,Иллюзион Плюс
+http://50.7.220.130:8081/illyuzion_pl/index.m3u8?wmsAuthSign=b90c516cd48853f988898594a001cf9c-1589088766-532i02i191i881
+#EXTINF:-1,Русский Иллюзион
+http://50.7.220.130:8081/illuzion_rus/index.m3u8?wmsAuthSign=a98f294f13deea140d6acfd977d3eced-1589088832-532i02i191i881
+#EXTINF:-1,Совершенно секретно
+http://50.7.220.130:8081/sov_sekretno/index.m3u8?wmsAuthSign=c2caed39c685d14f2e274ef891659138-1589088984-532i02i191i881
+#EXTINF:-1,Русский бестселлер
+http://50.7.220.130:8081/rys_bes/index.m3u8?wmsAuthSign=2b7d1ac31583359dcc052c8ff69fc30b-1589089164-532i02i191i881
+#EXTINF:-1,Еврокино
+http://50.7.220.130:8081/eurokino/index.m3u8?wmsAuthSign=f661678ba0119721ccb3cccbc8ef6ecb-1589089275-532i02i191i881
+#EXTINF:-1,Кино ТВ
+http://50.7.220.130:8081/tv_kino/index.m3u8?wmsAuthSign=239b43edce988609d5ab05178d29125f-1589089323-532i02i191i881
+#EXTINF:-1,Канал Ю
+http://50.7.220.130:8081/yu/index.m3u8?wmsAuthSign=8d58eb082dbf2ee00aad59cd4153c193-1589089391-532i02i191i881
+#EXTINF:-1,Hollywood ТВ
+http://50.7.220.130:8081/mgm/index.m3u8?wmsAuthSign=910f0041a0be2d4c1406263a2c2fe7ad-1589089606-532i02i191i881
+#EXTINF:-1,Русский детектив
+http://50.7.220.130:8081/rys_dete/index.m3u8?wmsAuthSign=f136e7d6c22f370e880f3540acfc1c00-1589089675-532i02i191i881
+#EXTINF:-1,Русский роман
+http://50.7.220.130:8081/rys_roman/index.m3u8?wmsAuthSign=c949f2fc66675c0acd03e52b79be98aa-1589089716-532i02i191i881
+#EXTINF:-1,Домашний
+http://50.7.220.130:8081/domashni/index.m3u8?wmsAuthSign=c606231429ac78018c0a0461adcfd5b0-1589089873-532i02i191i881
+#EXTINF:-1,Родное кино
+http://178.248.80.165/239.211.211.144/stream.m3u8
+#EXTINF:-1,Киносвидание
+https://nsk9.peers.tv/streaming/kinoklub/16/gvh1w/playlist.m3u8
+
+
+#EXTINF:-1,Телевидение России смена IP
+http://ok-tv.org/
+#EXTINF:-1,ТВ1000 Русское кино
+https://sr1.24tv.org:30443/hls/tv1000rus/chunks.m3u8?nimblesessionid=653522&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjAgNjoxMzowMyBQTSZoYXNoX3ZhbHVlPVdoamVjMVNQTXUrc1orbmYvMXJreFE9PSZ2YWxpZG1pbnV0ZXM9NjA=
+#EXTINF:-1,ТВ1000
+http://50.7.220.130:8081/tv1000/index.m3u8?wmsAuthSign=839d743f42c1b4404d5bc2fbfbed0566-1589081731-381i07i3i711
+#EXTINF:-1,TV1000 Action
+http://50.7.220.130:8081/tv1000action/index.m3u8?wmsAuthSign=ccbc9dd556ba5693df966ac4001c6863-1589082088-381i07i3i711
+#EXTINF:-1,TV1000 Русское кино
+http://50.7.220.130:8081/tv1000rus/index.m3u8?wmsAuthSign=ff07cfceb589406066466f549e18287d-1589082306-381i07i3i711
+#EXTINF:-1,SONY SCI-FI
+http://50.7.220.130:8081/sony_sci_fi/index.m3u8?wmsAuthSign=f68c29f855e7adf71db8d4ef334f4a06-1589082547-381i07i3i711
+#EXTINF:-1,Sony Turbo
+http://50.7.220.130:8081/sony_turbo/tracks-1,2/index.m3u8?wmsAuthSign=a5d44846c2bb2a42ae268c6b6b2ba96c-1589082635-381i07i3i711
+#EXTINF:-1,Sony TV
+http://50.7.220.130:8081/set/tracks-1,2/index.m3u8?wmsAuthSign=23dbc7b20309670a556473c9b9e4185c-1589082774-381i07i3i711
+#EXTINF:-1,VIP Comedy HD
+http://50.7.220.130:8081/1000comedy/index.m3u8?wmsAuthSign=d5737080d3c5d629bb5d6077417fdbff-1589082998-381i07i3i711
+#EXTINF:-1,VIP Megahit HD
+http://50.7.220.130:8081/1000megahit/index.m3u8?wmsAuthSign=090550b816a3e144e5728e82704b5f30-1589083163-381i07i3i711
+#EXTINF:-1,VIP Premiere HD
+http://50.7.220.130:8081/1000premium/index.m3u8?wmsAuthSign=48297342645f978e86de10fc646aac32-1589083253-381i07i3i711
+#EXTINF:-1,НТВ
+http://50.7.220.130:8081/ntv/index.m3u8?wmsAuthSign=5ca3c658525247bb09cf4d9bd3bd818f-1589085942-381i07i3i711
+#EXTINF:-1,НТВ Сериал
+http://50.7.220.130:8081/ntv_serial/index.m3u8?wmsAuthSign=9f708e7139acb2b53b3f45a1908c4d30-1589083566-381i07i3i711
+#EXTINF:-1,НТВ Хит
+http://50.7.220.130:8081/ntv_xit/index.m3u8?wmsAuthSign=0c23d03a02fb7af939345247658b88d0-1589083666-381i07i3i711
+#EXTINF:-1,НТВ Мир
+http://50.7.220.130:8081/ntv_mir/index.m3u8?wmsAuthSign=79fd535ca8cc80ed5bfb672262031b19-1589083921-381i07i3i711
+#EXTINF:-1,Мир сериала
+http://50.7.220.130:8081/mirseriala/index.m3u8?wmsAuthSign=8d08eea50a7385ad964b5a78e6886a37-1589084813-381i07i3i711
+#EXTINF:-1,MEDIA HIT
+http://50.7.220.130:8081/amediahit/tracks-1,2/index.m3u8?wmsAuthSign=f9722129881b2ea756d44bc4d6336c9b-1589084921-381i07i3i711
+#EXTINF:-1,Комедия
+http://50.7.220.130:8081/ryskomedi/index.m3u8?wmsAuthSign=9295d5016a2fca337c1a4901e6f980e7-1589085066-381i07i3i711
+#EXTINF:-1,КиноПремиум HD
+http://178.248.80.165/239.211.200.28/stream.m3u8
+#EXTINF:-1,Дом кино Премиум
+http://50.7.220.130:8081/dom_prem/index.m3u8?wmsAuthSign=7664e32dd7e2b72735d23110b90e88b7-1589085411-381i07i3i711
+#EXTINF:-1,CNN
+http://50.7.220.130:8081/cnn/index.m3u8?wmsAuthSign=e7d1706d5e93ad1e1b42d7e47a69697d-1589085649-381i07i3i711
+#EXTINF:-1,Первый канал
+http://50.7.220.130:8081/perkanal/index.m3u8?wmsAuthSign=44c2be759a11556293938ffc88f100d2-1589086047-381i07i3i711
+#EXTINF:-1,Россия 1
+http://50.7.220.130:8081/ros_1/index.m3u8?wmsAuthSign=572abf50570277982d300cff8058447a-1589086125-381i07i3i711
+#EXTINF:-1,СТС
+http://50.7.220.130:8081/sts/index.m3u8?wmsAuthSign=de49ebf3806dcbb0a3ba7ef299c59311-1589086246-381i07i3i711
+#EXTINF:-1,РЕН ТВ
+http://50.7.220.130:8081/ren/index.m3u8?wmsAuthSign=f7389a84c95201d366a26f2bfaae5fd2-1589086309-381i07i3i711
+#EXTINF:-1,Disney Channel
+http://50.7.220.130:8081/disney/index.m3u8?wmsAuthSign=85a4e8bf6518647211092a0cc4405016-1589086392-381i07i3i711
+#EXTINF:-1,Супер
+http://50.7.220.130:8081/super/index.m3u8?wmsAuthSign=767866596ad4eaf333308e604bca49b3-1589086469-381i07i3i711
+#EXTINF:-1,Paramount Comedy
+http://50.7.220.130:8081/paramount/index.m3u8?wmsAuthSign=c643ea178c81f27cded2d184a45ca251-1589086564-381i07i3i711
+#EXTINF:-1,ТНТ4
+http://50.7.220.130:8081/tnt_com/index.m3u8?wmsAuthSign=e26b51d3f5fea24e37fb51516f521acf-1589086708-381i07i3i711
+#EXTINF:-1,Че ТВ
+http://50.7.220.130:8081/che/index.m3u8?wmsAuthSign=4a74f97a89ecbdef03815fc8d2c5469e-1589086845-381i07i3i711
+#EXTINF:-1,Россия 24 
+https://youtu.be/0GFpmE3Kmvo

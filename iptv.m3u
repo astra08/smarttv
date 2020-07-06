@@ -820,6 +820,7 @@ https://v2.catcast.tv/content/38136/index.m3u8
 
 #EXTINF:-1,Vivid Red
 http://50.7.220.130:8081/vivid_red/index.m3u8?wmsAuthSign=5927bd20384e8e825d289d75a501691c-1594054589-632i02i191i881
+
 #EXTINF:-1,FAP TV Compilation
 http://50.7.220.130:8081/fap_compilation/index.m3u8?wmsAuthSign=bd72b5e8e1c8037e828ddc7052c13bfc-1594054709-632i02i191i881
 #EXTINF:-1,FAP TV 2

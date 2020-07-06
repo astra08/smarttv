@@ -843,10 +843,11 @@ http://50.7.220.130:8081/fap_lesb/index.m3u8?wmsAuthSign=4928cdc626e66d9fb5c4d0c
 http://50.7.220.130:8081/private_hd/index.m3u8?wmsAuthSign=e1767330b3e79f3cebebdb0fab23421c-1594056554-632i02i191i881
 #EXTINF:-1,Hustler HD 
 http://50.7.220.130:8081/hustlerhd/index.m3u8?wmsAuthSign=d339ecab3283a7a0e3f558b74a5758ea-1594056674-632i02i191i881
-#EXTINF:-1,Hustler TV 
-http://50.7.220.130:8081/bluehustler/index.m3u8?wmsAuthSign=477f8873327e299fe7df8b13cf5ec49b-1588120133-532i02i191i881 
 #EXTINF:-1,Blue Hustler
 http://50.7.220.130:8081/bluehustler/index.m3u8?wmsAuthSign=62ce7d434f52fb3d17a36bdeaecba48c-1594056800-632i02i191i881
+#EXTINF:-1,Hustler TV 
+http://50.7.220.130:8081/bluehustler/index.m3u8?wmsAuthSign=477f8873327e299fe7df8b13cf5ec49b-1588120133-532i02i191i881 
+
 #EXTINF:-1,Brazzers TV Europe
 http://50.7.220.130:8081/brazzers_eu/index.m3u8?wmsAuthSign=880bb5097ecb781a2fab65d70201e492-1594056506-632i02i191i881
 #EXTINF:-1,Dorcel TV

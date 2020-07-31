@@ -820,16 +820,17 @@ https://v2.catcast.tv/content/38136/index.m3u8
 
 #EXTINF:-1,Vivid Red oxax
 http://50.7.161.20:8081/7/index.m3u8?wmsAuthSign=1596202334p632i82i191i881S076b3fd819970acf45ed59e4c449949c
-
 #EXTINF:-1,FAP TV Compilation hochu
-http://50.7.220.130:8081/fap_compilation/index.m3u8?wmsAuthSign=37057a4f01770d55bdf941a768f2529c-1595419363-632i02i191i881
+http://50.7.161.20:8081/34/index.m3u8?wmsAuthSign=1596207297p632i82i191i881S77c1b0216627d33c5bf04edc801d1c8c
 #EXTINF:-1,FAP TV 2 oxax
-http://50.7.161.20:8081/26/index.m3u8?wmsAuthSign=1595419586p632i02i191i881Sb715d15eff8ac98060a04e387c3537f4
+http://50.7.161.20:8081/26/index.m3u8?wmsAuthSign=1596207199p632i82i191i881S7384bf7f5949a552020c2fd4c1d2b886
 #EXTINF:-1,FAP TV 3 hochu
-http://50.7.220.130:8081/faptv3/index.m3u8?wmsAuthSign=d81fbd7e586dc5d3ff5fa6a398551cda-1596202730-56i611i84i991
+http://50.7.161.20:8081/27/index.m3u8?wmsAuthSign=1596203175p632i82i191i881Sdcd3fee0b9c345f2174bfefaca8ff8f1
+
 
 #EXTINF:-1,FAP TV 4 oxax
-http://50.7.161.20:8081/28/index.m3u8?wmsAuthSign=1595419815p632i02i191i881S6867e27b88f9197c43d10b44ce6db29b
+http://50.7.161.20:8081/28/index.m3u8?wmsAuthSign=1596207368p632i82i191i881S56004775d4f05ca7e31be9ac75a706fb
+
 #EXTINF:-1,FAP TV Teens hochu
 http://50.7.220.130:8081/fap_teens/index.m3u8?wmsAuthSign=ab5853b6df1487dc574b8fdee04c71e6-1595419844-632i02i191i881
 #EXTINF:-1,FAP TV Parody oxax
@@ -841,7 +842,7 @@ http://50.7.161.20:8081/38/index.m3u8?wmsAuthSign=1595420338p632i02i191i881S6414
 #EXTINF:-1,FAP TV Lesbian  hochu 
 http://50.7.220.130:8081/fap_lesb/index.m3u8?wmsAuthSign=8ee81335955784acd83257b55a4961f2-1595420366-632i02i191i881
 #EXTINF:-1,Private TV oxax
-http://50.7.161.20:8081/11/index.m3u8?wmsAuthSign=1595420522p632i02i191i881Sbd31ecaa9468444a30ec22d518f12509
+http://50.7.161.20:8081/11/index.m3u8?wmsAuthSign=1596207451p632i82i191i881S6a7ac712dbeaf8efa68906bc4e231896
 #EXTINF:-1,Hustler HD hochu 
 http://50.7.220.130:8081/bluehustler/index.m3u8?wmsAuthSign=cdcba91057e5a37a896c22422992d8d6-1595420550-632i02i191i881
 #EXTINF:-1,Blue Hustler oxax
@@ -849,8 +850,9 @@ http://50.7.161.20:8081/54/index.m3u8?wmsAuthSign=1595420713p632i02i191i881S0512
 #EXTINF:-1,Hustler TV 
 http://50.7.220.130:8081/bluehustler/index.m3u8?wmsAuthSign=477f8873327e299fe7df8b13cf5ec49b-1588120133-532i02i191i881 
 #EXTINF:-1,Brazzers TV Europe hochu
-http://50.7.220.130:8081/brazzers_eu/index.m3u8?wmsAuthSign=de5f34b27b720999c2c86a880ba10165-1595420746-632i02i191i881
+http://50.7.220.130:8081/brazzers_eu/index.m3u8?wmsAuthSign=36f8824ea933ab9d184b0cafbacdc35a-1596196670-632i82i191i881
 #EXTINF:-1,Dorcel TV oxax
+http://50.7.161.20:8081/21/tracks-1,2/index.m3u8?wmsAuthSign=1596207529p632i82i191i881S024ab54cc9084291df6a1ed92e6bb86c
 http://50.7.161.20:8081/21/tracks-1,2/index.m3u8?wmsAuthSign=1595420919p632i02i191i881Sadd841becf586844edebeb71868c1c03
 #EXTINF:-1,Redlight HD hochu
 http://50.7.220.130:8081/redlight/index.m3u8?wmsAuthSign=59997b0133190334c75ed36948b3330a-1595420942-632i02i191i881

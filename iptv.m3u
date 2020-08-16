@@ -819,45 +819,41 @@ https://autopilot.catcast.tv/content/38153/index.m3u8
 https://v2.catcast.tv/content/38136/index.m3u8
 
 #EXTINF:-1,Vivid Red oxax
-http://50.7.161.20:8081/7/index.m3u8?wmsAuthSign=1596202334p632i82i191i881S076b3fd819970acf45ed59e4c449949c
+http://50.7.220.130:8081/vivid_red/index.m3u8?wmsAuthSign=7a4657c0cbacb5f3e14cce417e65b930-1597595465-632i82i191i881
 #EXTINF:-1,FAP TV Compilation hochu
-http://50.7.161.20:8081/34/index.m3u8?wmsAuthSign=1596207297p632i82i191i881S77c1b0216627d33c5bf04edc801d1c8c
+http://50.7.220.130:8081/fap_compilation/index.m3u8?wmsAuthSign=87981d5f9fbf7cf96815dc225a418116-1597595549-632i82i191i881
 #EXTINF:-1,FAP TV 2 oxax
-http://50.7.161.20:8081/26/index.m3u8?wmsAuthSign=1596207199p632i82i191i881S7384bf7f5949a552020c2fd4c1d2b886
+http://50.7.220.130:8081/faptv2/index.m3u8?wmsAuthSign=fa62afcebec402dde0017dc840657ac8-1597595641-632i82i191i881
 #EXTINF:-1,FAP TV 3 hochu
-http://50.7.161.20:8081/27/index.m3u8?wmsAuthSign=1596203175p632i82i191i881Sdcd3fee0b9c345f2174bfefaca8ff8f1
-
-
+http://50.7.220.130:8081/faptv3/index.m3u8?wmsAuthSign=ea02f102d227a0791e9922b3d4f409f5-1597595705-632i82i191i881
 #EXTINF:-1,FAP TV 4 oxax
-http://50.7.161.20:8081/28/index.m3u8?wmsAuthSign=1596207368p632i82i191i881S56004775d4f05ca7e31be9ac75a706fb
-
+http://50.7.220.130:8081/faptv4/index.m3u8?wmsAuthSign=a69b654eab8d66d1c1446f0095e426e4-1597595779-632i82i191i881
 #EXTINF:-1,FAP TV Teens hochu
-http://50.7.220.130:8081/fap_teens/index.m3u8?wmsAuthSign=ab5853b6df1487dc574b8fdee04c71e6-1595419844-632i02i191i881
+http://50.7.220.130:8081/fap_teens/index.m3u8?wmsAuthSign=8468fae92003bfbedaa6205111c8b61b-1597595864-632i82i191i881
 #EXTINF:-1,FAP TV Parody oxax
-http://50.7.161.20:8081/32/index.m3u8?wmsAuthSign=1595420031p632i02i191i881S52feca3a6882492002560678e53a7323
+http://50.7.220.130:8081/fap_parody/index.m3u8?wmsAuthSign=1d67ff502e1a4bf61e0a79c662e21f72-1597595944-632i82i191i881
 #EXTINF:-1,FAP TV Anal hochu
-http://50.7.220.130:8081/fap_an/index.m3u8?wmsAuthSign=a4e76eb5560ecd09a4796d4cd34ef81f-1595420035-632i02i191i881
+http://50.7.220.130:8081/fap_an/index.m3u8?wmsAuthSign=95cdafe893456739c64a081c2cec0bde-1597596019-632i82i191i881
 #EXTINF:-1,FAP TV BBW oxax
 http://50.7.161.20:8081/38/index.m3u8?wmsAuthSign=1595420338p632i02i191i881S6414755f9feca362d454ae1d58e38bac
 #EXTINF:-1,FAP TV Lesbian  hochu 
-http://50.7.220.130:8081/fap_lesb/index.m3u8?wmsAuthSign=8ee81335955784acd83257b55a4961f2-1595420366-632i02i191i881
+http://50.7.220.130:8081/fap_lesb/index.m3u8?wmsAuthSign=c7b3cd2e35fb2819d451bf925d999636-1597596156-632i82i191i881
 #EXTINF:-1,Private TV oxax
-http://50.7.161.20:8081/11/index.m3u8?wmsAuthSign=1596207451p632i82i191i881S6a7ac712dbeaf8efa68906bc4e231896
+http://50.7.220.130:8081/private_hd/index.m3u8?wmsAuthSign=227b3e942cd542fe96fd988631624089-1597596221-632i82i191i881
 #EXTINF:-1,Hustler HD hochu 
-http://50.7.220.130:8081/bluehustler/index.m3u8?wmsAuthSign=cdcba91057e5a37a896c22422992d8d6-1595420550-632i02i191i881
+http://50.7.220.130:8081/hustlerhd/index.m3u8?wmsAuthSign=0dcb3725c9347cde7cdb5a1945e61b2f-1597596281-632i82i191i881
 #EXTINF:-1,Blue Hustler oxax
-http://50.7.161.20:8081/54/index.m3u8?wmsAuthSign=1595420713p632i02i191i881S05122df5d3fea5e6a55d764697f343df
+http://50.7.220.130:8081/bluehustler/index.m3u8?wmsAuthSign=a8002432501001f8d8ba424b84754c60-1597596348-632i82i191i881
 #EXTINF:-1,Hustler TV 
 http://50.7.220.130:8081/bluehustler/index.m3u8?wmsAuthSign=477f8873327e299fe7df8b13cf5ec49b-1588120133-532i02i191i881 
 #EXTINF:-1,Brazzers TV Europe hochu
-http://50.7.220.130:8081/brazzers_eu/index.m3u8?wmsAuthSign=36f8824ea933ab9d184b0cafbacdc35a-1596196670-632i82i191i881
+http://50.7.220.130:8081/brazzers_eu/index.m3u8?wmsAuthSign=4998ee1ab68c0fdef0295f2bb2bc177f-1597596418-632i82i191i881
 #EXTINF:-1,Dorcel TV oxax
-http://50.7.161.20:8081/21/tracks-1,2/index.m3u8?wmsAuthSign=1596207529p632i82i191i881S024ab54cc9084291df6a1ed92e6bb86c
-http://50.7.161.20:8081/21/tracks-1,2/index.m3u8?wmsAuthSign=1595420919p632i02i191i881Sadd841becf586844edebeb71868c1c03
+http://50.7.220.130:8081/dorcel/tracks-1,2/index.m3u8?wmsAuthSign=cda3313cd6bb29edf539d0e7aed5c2bb-1597596497-632i82i191i881
 #EXTINF:-1,Redlight HD hochu
-http://50.7.220.130:8081/redlight/index.m3u8?wmsAuthSign=59997b0133190334c75ed36948b3330a-1595420942-632i02i191i881
+http://50.7.220.130:8081/redlight/index.m3u8?wmsAuthSign=4d9ff6723f8658973920f6f1c7a2d1c1-1597596572-632i82i191i881
 #EXTINF:-1,PENTHOUSE Gold HD 1 oxax
-http://50.7.161.20:8081/39/index.m3u8?wmsAuthSign=1595421132p632i02i191i881Sf3d6620fe9eaae65efbd65cddd7b8137
+http://50.7.220.130:8081/penthouse2/index.m3u8?wmsAuthSign=9ff48181108a8fea50ec29f02129ca70-1597596673-632i82i191i881
 
 #EXTINF:-1,dusk-tv
 http://50.7.220.130:8081/dusk/index.m3u8?wmsAuthSign=b2bae8103113193a68fa5fdd129802eb-1594057615-632i02i191i881

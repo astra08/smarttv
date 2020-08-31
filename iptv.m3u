@@ -822,7 +822,7 @@ https://v2.catcast.tv/content/38136/index.m3u8
 http://50.7.220.130:8081/vivid_red/index.m3u8?wmsAuthSign=f10493db5b7236d5a13b796aa143d3c1-1598845461-632i82i191i881
 
 #EXTINF:-1,FAP TV Compilation hochu
-http://50.7.220.130:8081/fap_compilation/index.m3u8?wmsAuthSign=3be156c5a0d2e111fd80aefe93ad41b1-1598776142-632i82i191i881
+http://50.7.220.130:8081/fap_compilation/index.m3u8?wmsAuthSign=dcd124f8a01272a38905887ef25f85a2-1598850326-632i82i191i881
 #EXTINF:-1,FAP TV 2 oxax
 http://50.7.220.130:8081/faptv2/index.m3u8?wmsAuthSign=349c3826d29b01f4a5d11a1605fdf72f-1598775776-632i82i191i881
 #EXTINF:-1,FAP TV 3 hochu

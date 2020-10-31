@@ -1,70 +1,70 @@
 #EXTM3U
 #EXTINF:-1,http://ardinvest.com/tv/iptv.m3u
-#EXTINF:-1,Первый канал
+#EXTINF:-1,Первый канал ardinvest
 http://192.168.100.211:8001/perviy-kanal
-#EXTINF:-1,Россия 1
+#EXTINF:-1,Россия 1 ardinvest
 http://192.168.100.211:8001/rossia-1
-#EXTINF:-1,Матч!
+#EXTINF:-1,Матч ardinvest
 http://192.168.100.211:8001/match
-#EXTINF:-1,НТВ
+#EXTINF:-1,НТВ ardinvest
 http://192.168.100.211:8001/ntv
-#EXTINF:-1,tvg-id="Пятый канал" tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/120/134.gif, Петербург-5 канал
+#EXTINF:-1,Пятый канал ardinvest
 http://192.168.100.211:8001/piter5
-#EXTINF:-1,tvg-id="Культура", Россия Культура
+#EXTINF:-1,Культура ardinvest
 http://192.168.100.211:8001/rossia-k
-#EXTINF:-1,Россия 24
+#EXTINF:-1,Россия 24 ardinvest
 http://192.168.100.211:8001/rossia-24
-#EXTINF:-1,Карусель
+#EXTINF:-1,Карусель ardinvest
 http://192.168.100.211:8001/karusel
-#EXTINF:-1,ОТР
+#EXTINF:-1,ОТР ardinvest
 http://192.168.100.211:8001/otp
-#EXTINF:-1,ТВЦ
+#EXTINF:-1,ТВЦ ardinvest
 http://192.168.100.211:8001/tvc
-#EXTINF:-1,РЕН ТВ
+#EXTINF:-1,РЕН ТВ ardinvest
 http://192.168.100.211:8001/ren
-#EXTINF:-1,tvg-id="Спас_ТВ", Спас
+#EXTINF:-1,Спас ardinvest
 http://192.168.100.211:8001/spas
-#EXTINF:-1,СТС
+#EXTINF:-1,СТС ardinvest
 http://192.168.100.211:8001/sts
-#EXTINF:-1,Домашний
+#EXTINF:-1,Домашний ardinvest
 http://192.168.100.211:8001/domashniy
-#EXTINF:-1,ТВ-3
+#EXTINF:-1,ТВ-3 ardinvest
 http://192.168.100.211:8001/tv3
-#EXTINF:-1,Пятница
+#EXTINF:-1,Пятница ardinvest
 http://192.168.100.211:8001/pyatnica
-#EXTINF:-1,Звезда
+#EXTINF:-1,Звезда ardinvest
 http://192.168.100.211:8001/zvezda
-#EXTINF:-1,МИР
+#EXTINF:-1,МИР ardinvest
 http://192.168.100.211:8001/mir
-#EXTINF:-1,ТНТ
+#EXTINF:-1,ТНТ ardinvest
 http://192.168.100.211:8001/tnt
-#EXTINF:-1,Муз-ТВ
+#EXTINF:-1,Муз-ТВ ardinvest
 http://192.168.100.211:8001/muz-tv
-#EXTINF:-1,tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/120/231.png, Крым 24
+#EXTINF:-1,Крым 24 ardinvest
 http://192.168.100.211:8001/crimea24
-#EXTINF:-1,tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/120/228.png, Крым1
+#EXTINF:-1,Крым 1 ardinvest
 http://192.168.100.211:8001/crimea1
-#EXTINF:-1,tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/120/230.jpg, Диалоги о рыбалке
+#EXTINF:-1,Диалоги о рыбалке ardinvest
 http://192.168.100.211:8001/dialogiorybalke
-#EXTINF:-1,tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/120/227.jpg, Миллет
+#EXTINF:-1,Миллет ardinvest
 http://192.168.100.211:8001/millet
-#EXTINF:-1,Первый канал HD
+#EXTINF:-1,Первый ardinvest
 http://192.168.100.211:8001/perviy-kanal-hd
-#EXTINF:-1,Россия 1 HD
+#EXTINF:-1,Россия 1 HD ardinvest
 http://192.168.100.211:8001/rossiya-hd
-#EXTINF:-1,tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/120/265.png, ТРК 555 (Алушта)
+#EXTINF:-1,Алушта ardinvest
 http://trk555.tv:8888/live
-#EXTINF:-1,tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/120/196.png, ИТВ
+#EXTINF:-1,ИТВ ardinvest
 http://195.5.108.14:1935/live/itv1/playlist.m3u8
-#EXTINF:-1,Че
+#EXTINF:-1,Че ardinvest
 http://192.168.100.211:8001/che
-#EXTINF:-1,tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/320/225.png, ShopShow
+#EXTINF:-1,ShopShow ardinvest
 http://192.168.100.211:8001/shopshow
-#EXTINF:-1,tvg-id="ЛДПР ТВ" tvg-logo=https://iptvx.one/icn/ldpr-tv.png, ЛДПР
+#EXTINF:-1,ЛДПР ardinvest
 http://192.168.100.211:8001/ldpr
-#EXTINF:-1,Ювелирочка
+#EXTINF:-1,Ювелирочка ardinvest
 http://192.168.100.211:8001/uvelirochka
-#EXTINF:-1,tvg-id="Москва-24", Москва 24
+#EXTINF:-1,Москва 24 ardinvest
 http://192.168.100.211:8001/moskva24
 
 

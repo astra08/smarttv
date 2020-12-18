@@ -789,8 +789,7 @@ https://hls-solntv.cdnvideo.ru/solntv/solntv.sdp/playlist.m3u8
 https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565199329/2cc8a3d506291285a3896e8b871b3e90/playlist.m3u8
 #EXTINF:-1,ТБН
 http://62.32.67.187:1935/WEB_TBN/TBN.stream/playlist.m3u8
-#EXTINF:-1,ТВ 3
-http://178.217.72.66/225.201.2.26/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,ТВ Серпухов
 https://live-otvmedia.cdnvideo.ru/otvmedia/otvmedia/playlist.m3u8
 #EXTINF:-1,ТНТ4
@@ -804,8 +803,7 @@ http://live-saha.cdnvideo.ru/saha/yak24/playlist.m3u8
 http://178.217.72.66/225.201.2.28/tracks-v1a1/mono.m3u8
 #EXTINF:-1,kuho24
 http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
-#EXTINF:-1,ИТВ (Крым)
-http://195.5.108.14:1935/live/itv1/playlist.m3u8
+
 #EXTINF:-1,Кинозал 1 (Марс-ТВ) 
 https://v2.catcast.tv/content/37033/index.m3u8
 #EXTINF:-1,Кинозал 2 (Сатурн-ТВ) 

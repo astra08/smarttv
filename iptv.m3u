@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,ПОДОЛЬСК
+https://carbon.hdbro.biz/72a259897defaa74236fe6a4377fa891:2021010123/movies/0d898c02d41bd7c5869eb1f4ff583c08bef8561a/360.mp4
 
 #EXTINF:-1,Первый 1 ardinvest
 http://192.168.100.211:8001/perviy-kanal

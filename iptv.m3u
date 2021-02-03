@@ -1,44 +1,44 @@
 #EXTM3U
 
-#EXTINF:-1, Первый канал
+#EXTINF:-1,Первый канал
 http://192.168.100.211:8001/perviy-kanal
-#EXTINF:-1, Россия 1
+#EXTINF:-1,Россия 1
 http://192.168.100.211:8001/rossia-1
-#EXTINF:-1, Матч!
+#EXTINF:-1,Матч!
 http://192.168.100.211:8001/match
-#EXTINF:-1, НТВ
+#EXTINF:-1,НТВ
 http://192.168.100.211:8001/ntv
-#EXTINF:-1 tvg-id="Пятый канал" tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/120/134.gif, Петербург-5 канал
+#EXTINF:-1,tvg-id="Пятый канал" tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/120/134.gif, Петербург-5 канал
 http://192.168.100.211:8001/piter5
-#EXTINF:-1 tvg-id="Культура", Россия Культура
+#EXTINF:-1,tvg-id="Культура", Россия Культура
 http://192.168.100.211:8001/rossia-k
-#EXTINF:-1, Россия 24 
+#EXTINF:-1,Россия 24 
 http://192.168.100.211:8001/rossia-24
-#EXTINF:-1, Карусель
+#EXTINF:-1,Карусель
 http://192.168.100.211:8001/karusel
-#EXTINF:-1, ОТР
+#EXTINF:-1,ОТР
 http://192.168.100.211:8001/otp
-#EXTINF:-1, ТВЦ
+#EXTINF:-1,ТВЦ
 http://192.168.100.211:8001/tvc
-#EXTINF:-1, РЕН ТВ
+#EXTINF:-1,РЕН ТВ
 http://192.168.100.211:8001/ren
-#EXTINF:-1 tvg-id="Спас_ТВ", Спас
+#EXTINF:-1,tvg-id="Спас_ТВ", Спас
 http://192.168.100.211:8001/spas
-#EXTINF:-1, СТС
+#EXTINF:-1,СТС
 http://192.168.100.211:8001/sts
-#EXTINF:-1, Домашний
+#EXTINF:-1,Домашний
 http://192.168.100.211:8001/domashniy
-#EXTINF:-1, ТВ-3
+#EXTINF:-1,ТВ-3
 http://192.168.100.211:8001/tv3
-#EXTINF:-1, Пятница
+#EXTINF:-1,Пятница
 http://192.168.100.211:8001/pyatnica
-#EXTINF:-1, Звезда
+#EXTINF:-1,Звезда
 http://192.168.100.211:8001/zvezda
-#EXTINF:-1, МИР
+#EXTINF:-1,МИР
 http://192.168.100.211:8001/mir
-#EXTINF:-1, ТНТ
+#EXTINF:-1,ТНТ
 http://192.168.100.211:8001/tnt
-#EXTINF:-1, Муз-ТВ
+#EXTINF:-1,Муз-ТВ
 http://192.168.100.211:8001/muz-tv
 #EXTINF:-1 tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/120/231.png, Крым 24
 http://192.168.100.211:8001/crimea24

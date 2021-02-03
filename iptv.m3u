@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1, Первый канал
+#EXTINF:-1, Первый канал ardinvest
 http://192.168.100.215:8001/perviy-kanal
-#EXTINF:-1, Россия 1
+#EXTINF:-1, Россия 1 ardinvest
 http://192.168.100.215:8001/rossia-1
-#EXTINF:-1, Матч!
+#EXTINF:-1, Матч! ardinvest
 http://192.168.100.215:8001/match
-#EXTINF:-1, НТВ
+#EXTINF:-1, НТВ ardinvest
 http://192.168.100.215:8001/ntv
 #EXTINF:-1 tvg-id="Пятый канал" tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/120/134.gif, Петербург-5 канал
 http://192.168.100.215:8001/piter5

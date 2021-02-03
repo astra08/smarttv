@@ -1,8 +1,7 @@
 #EXTM3U
 
 
-#EXTM3U url-tvg="https://teleguide.info/download/new3/xmltv.xml.gz" deinterlace=1 cache=1000
-#EXTINF:-1,http://ardinvest.com/tv/iptv.m3u
+
 #EXTINF:-1, Первый канал
 http://192.168.100.211:8001/perviy-kanal
 #EXTINF:-1, Россия 1

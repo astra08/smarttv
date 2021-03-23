@@ -251,34 +251,12 @@ http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_ROSSIAK/variant.m
 http://89.106.234.4:80/Kinosvidanie_hd_34_35.m3u8
 #EXTINF:-1,ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
-
-#EXTINF:-1,МИР premium
-http://89.106.234.4:80/mir_premium_34_35.m3u8
-#EXTINF:-1,МИР Premium
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1,Мир
 http://uiptv.do.am/1ufc/113500247/playlist.m3u8
-#EXTINF:-1,Мир
-http://89.106.234.4:80/Mir_34_35.m3u8
-#EXTINF:-1,Мир HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1,Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1,Мир
-#EXTVLCOPT:http-user-agent=smartlabs
-http://ott-cdn.ucom.am/s39/04.m3u8
-#EXTINF:-1,Мир 24
-http://uiptv.do.am/1ufc/112234126/playlist.m3u8
-#EXTINF:-1,Мир 24
-http://89.106.234.4:80/Mir24_34_35.m3u8
-#EXTINF:-1,Мир HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1,Мир international
-http://sc.id-tv.kz/Mir.m3u8
-#EXTINF:-1,Мир сериала
-http://178.217.72.66/225.201.2.219/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1,Мужское кино
 http://178.217.72.66/225.201.2.182/tracks-v1a1/mono.m3u8
 #EXTINF:-1,НСТ

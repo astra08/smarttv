@@ -74,10 +74,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1,Россия 24 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1,Волгоград 24
-http://serv24.vintera.tv:8081/volga24/volgograd24/playlist.m3u8
-#EXTINF:0,ТВ Центр
-http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 #EXTINF:-1,Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Мир (+4)
@@ -88,18 +84,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1,Мир Белогорья
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1,НТВ HD
-http://50.7.212.18/NTV_HD/video.m3u8?token=test
-#EXTINF:-1,НТВ Мир
-http://50.7.212.18/NTV_Mir/index.m3u8?token=test
-#EXTINF:-1,НТВ Сериал
-http://50.7.212.18/ntvserial/index.m3u8?token=test
-#EXTINF:-1,ТНТ HD
-http://50.7.212.18/TNTHD/video.m3u8?token=test
-#EXTINF:-1,РЕН ТВ HD
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1,Accent TV
-http://video.a-tv.md/hls/accent.m3u8
 #EXTINF:-1,Губерния Самарская
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
 #EXTINF:-1,mtb
@@ -110,18 +94,11 @@ http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 http://streaming.astrakhan.ru/astrakhan24/index.m3u8
 #EXTINF:-1,8 Канал
 http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
-#EXTINF:-1,CGTN Русский
-http://live.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1,Калейдоскоп ТВ 
-http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1,Известия ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1,Известия ТВ FHD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1,8 Канал (Беларусь)
-http://91.215.176.238:8000/8channel
 #EXTINF:-1,8 канал (Витебск) HD
 http://95.46.208.8:24433/art
+
 #EXTINF:-1,БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1,Беларусь 4

@@ -173,8 +173,6 @@ http://stream.atr.ua/atr/live/index.m3u8
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1,Ocean TV
 http://91.192.168.242:9091
-#EXTINF:-1,fashiontv.com ПОЛУНОЧНЫЕ СЕКРЕТЫ
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?
 #EXTINF:-1,Кавказ 24
 http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
 #EXTINF:-1,Миллет
@@ -255,16 +253,6 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
 http://uiptv.do.am/1ufc/113500247/playlist.m3u8
 #EXTINF:-1,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-
-
-#EXTINF:-1,Мужское кино
-http://178.217.72.66/225.201.2.182/tracks-v1a1/mono.m3u8
-#EXTINF:-1,НСТ
-http://178.217.72.66/225.201.2.200/tracks-v1a1/mono.m3u8
-#EXTINF:-1,НТН
-http://54.36.109.228/19200/mono.m3u8
-#EXTINF:-1,Новый Мир
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 #EXTINF:-1,Оплoт 2 HD
 http://ott.inmart.tv:8081/17/index.m3u8
 #EXTINF:-1,Оплoт HD
@@ -275,6 +263,8 @@ http://ott.inmart.tv:8081/19/index.m3u8
 http://ott.inmart.tv:8081/35/index.m3u8
 #EXTINF:-1,Первый республиканский
 http://ott.inmart.tv:8081/18/index.m3u8
+#EXTINF:-1,fashiontv.com ПОЛУНОЧНЫЕ СЕКРЕТЫ
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?
 
 #EXTINF:-1,Наше любимое кино
 http://178.217.72.66/225.201.2.204/tracks-v1a1/mono.m3u8

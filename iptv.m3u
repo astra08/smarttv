@@ -2,11 +2,13 @@
 
 
 #EXTINF:-1, Первый канал ardinvest
-http://192.168.100.215:8001/perviy-kanal
+http://192.168.100.222:8008/pervy/pVtENjWcUA.m3u8
 #EXTINF:-1, Россия 1 ardinvest
-http://192.168.100.215:8001/rossia-1
+http://192.168.100.222:8008/rossia1/pFA9MjTF5q.m3u8
 #EXTINF:-1, Матч! ardinvest
-http://192.168.100.215:8001/match
+http://192.168.100.222:8008/match-tv/bqvNkxz8Ys.m3u8
+
+
 #EXTINF:-1, НТВ ardinvest
 http://192.168.100.215:8001/ntv
 #EXTINF:-1 tvg-id="Пятый канал" tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/120/134.gif, Петербург-5 канал ardinvest

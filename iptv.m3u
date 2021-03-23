@@ -263,8 +263,6 @@ http://ott.inmart.tv:8081/19/index.m3u8
 http://ott.inmart.tv:8081/35/index.m3u8
 #EXTINF:-1,Первый республиканский
 http://ott.inmart.tv:8081/18/index.m3u8
-#EXTINF:-1,fashiontv.com ПОЛУНОЧНЫЕ СЕКРЕТЫ
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?
 #EXTINF:-1,Новое ТВ
 http://89.106.234.4:80/New_Television_34_35.m3u8
 #EXTINF:-1,Продвижение
@@ -369,6 +367,14 @@ https://autopilot.catcast.tv/content/38153/index.m3u8
 #EXTINF:-1,Кинозал (Yosso ТВ)
 https://v2.catcast.tv/content/38136/index.m3u8
 
+#EXTINF:-1,fashiontv.com ПОЛУНОЧНЫЕ СЕКРЕТЫ
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?
+#EXTINF:-1,fashion ftv_paris
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8?
+#EXTINF:-1,Jasmin
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w280050507.m3u8
+#EXTINF:-1,Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
 #EXTINF:-1,Vivid Red oxax
 http://50.7.172.58:8081/7/index.m3u8?wmsAuthSign=1600100890p632i82i191i881Se4ade4f3b2aab1a87b64bebda01c7627
 #EXTINF:-1,FAP TV Compilation hochu

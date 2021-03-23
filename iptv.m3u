@@ -287,6 +287,8 @@ https://live-otvmedia.cdnvideo.ru/otvmedia/otvmedia/playlist.m3u8
 http://89.106.234.4:80/tnt4_34_35.m3u8
 #EXTINF:-1,Кинозал 17 (VHS 90s) 
 https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1,Кинозал 23 (akudji) 
+https://hls.goodgame.ru/hls/5346.m3u8
 
 #EXTINF:-1,Кинозал 1
 https://v2.catcast.tv/content/37033/index.m3u8
@@ -330,8 +332,6 @@ https://v2.catcast.tv/content/36168/index.m3u8
 http://timeshift.arpinet.am/228/tracks-v1a1/index.m3u8
 #EXTINF:-1,Кинозал 22 (Страшное BCHD)
 http://195.9.195.3:8080/hls/158135.m3u8
-#EXTINF:-1,Кинозал 23 (akudji) 
-https://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,Кинозал 24 (Киносезон 1)
 https://5656.ga/ch1.m3u8
 #EXTINF:-1,Кинозал 25 (Киносезон 2)

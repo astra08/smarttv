@@ -1,39 +1,38 @@
 #EXTM3U
 
-
-#EXTINF:-1, Первый канал ardinvest
+#EXTINF:-1,Первый канал ardinvest
 http://192.168.100.222:8008/pervy/pVtENjWcUA.m3u8
-#EXTINF:-1, Россия 1 ardinvest
+#EXTINF:-1,Россия 1 ardinvest
 http://192.168.100.222:8008/rossia1/pFA9MjTF5q.m3u8
-#EXTINF:-1, Матч! ardinvest
+#EXTINF:-1,Матч! ardinvest
 http://192.168.100.222:8008/match-tv/bqvNkxz8Ys.m3u8
-#EXTINF:-1, НТВ ardinvest
+#EXTINF:-1,НТВ ardinvest
 http://192.168.100.222:8008/ntv/A53Tfecfkg.m3u8
-#EXTINF:-1 tvg-id="Пятый канал" tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/120/134.gif, Петербург-5 канал ardinvest
+#EXTINF:-1,Петербург-5 канал ardinvest
 http://192.168.100.222:8008/5kanal-ru/E8hUrJSwLf.m3u8
-#EXTINF:-1 tvg-id="Культура", Россия Культура ardinvest
+#EXTINF:-1,Россия Культура ardinvest
 http://192.168.100.222:8008/kultura/6vZDQeLHb7.m3u8
-#EXTINF:-1, Россия 24 ardinvest
+#EXTINF:-1,Россия 24 ardinvest
 http://192.168.100.222:8008/rossia-24/nBByX9WuKD.m3u8
-#EXTINF:-1, Карусель ardinvest
+#EXTINF:-1,Карусель ardinvest
 http://192.168.100.222:8008/karusel/j5SJxvR69V.m3u8
-#EXTINF:-1, ОТР ardinvest
+#EXTINF:-1,ОТР ardinvest
 http://192.168.100.222:8008/otr/uFhvP9KkzU.m3u8
-#EXTINF:-1 tvg-id="ТВ Центр", ТВЦ ardinvest
+#EXTINF:-1,ТВЦ ardinvest
 http://192.168.100.222:8008/tvcentr/hpqJMkXjXu.m3u8
-#EXTINF:-1, РЕН ТВ ardinvest
+#EXTINF:-1,РЕН ТВ ardinvest
 http://192.168.100.222:8008/rentv/UHrrShgJm9.m3u8
-#EXTINF:-1 tvg-id="Спас_ТВ", Спас ardinvest
+#EXTINF:-1,Спас ardinvest
 http://192.168.100.222:8008/spas/uKtpp66U6C.m3u8
-#EXTINF:-1, СТС ardinvest
+#EXTINF:-1,СТС ardinvest
 http://192.168.100.222:8008/sts/Yxja5uUxpg.m3u8
-#EXTINF:-1, Домашний ardinvest
+#EXTINF:-1,Домашний ardinvest
 http://192.168.100.222:8008/domashny/3XwaKC5su8.m3u8
-#EXTINF:-1, ТВ-3 ardinvest
+#EXTINF:-1,ТВ-3 ardinvest
 http://192.168.100.222:8008/tv3-ru/Urn4AYWF7T.m3u8
-#EXTINF:-1, Пятница ardinvest
+#EXTINF:-1,Пятница ardinvest
 http://192.168.100.222:8008/piatnica/VjcyNPZnrm.m3u8
-#EXTINF:-1, Звезда ardinvest
+#EXTINF:-1,Звезда ardinvest
 http://192.168.100.222:8008/zvezda/sJCuEr4942.m3u8
 #EXTINF:-1,МИР ardinvest
 http://192.168.100.222:8008/mir/BuBPMMkXTY.m3u8
@@ -45,31 +44,28 @@ http://192.168.100.222:8008/muztv/RWwC6keYPW.m3u8
 http://192.168.100.222:8008/krym24-hd/kgzuTL7SuH.m3u8
 #EXTINF:-1,Крым1 ardinvest
 http://192.168.100.222:8008/pervy-krymsky/s23qXqwN5c.m3u8
-
-#EXTINF:-1 tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/120/230.jpg, Диалоги о рыбалке ardinvest
-http://192.168.100.215:8001/dialogiorybalke
-#EXTINF:-1 tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/120/227.jpg, Миллет ardinvest
-http://192.168.100.215:8001/millet
-#EXTINF:-1, Первый канал HD ardinvest
-http://192.168.100.215:8001/perviy-kanal-hd
-#EXTINF:-1, Россия 1 HD ardinvest
-http://192.168.100.215:8001/rossiya-hd
-#EXTINF:-1 tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/120/265.png, ТРК 555 (Алушта) ardinvest
-http://trk555.tv:8888/live
-#EXTINF:-1 tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/120/196.png, ИТВ ardinvest
-http://iptv.media-ix.com:11375/itv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Че ardinvest
-http://192.168.100.215:8001/che
-#EXTINF:-1 tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/320/225.png, ShopShow ardinvest
-http://192.168.100.215:8001/shopshow
-#EXTINF:-1 tvg-id="ЛДПР ТВ" tvg-logo=https://iptvx.one/icn/ldpr-tv.png, ЛДПР ardinvest
-http://192.168.100.215:8001/ldpr
-#EXTINF:-1, Ювелирочка ardinvest
-http://192.168.100.215:8001/uvelirochka
-#EXTINF:-1 tvg-id="Москва-24", Москва 24 ardinvest
-http://192.168.100.215:8001/moskva24
-
-
+#EXTINF:-1,Диалоги о рыбалке ardinvest
+http://192.168.100.222:8008/rybolov/TUrqctAC5h.m3u8
+#EXTINF:-1 t,Миллет ardinvest
+http://192.168.100.222:8008/millet/JuEVPbBgv8.m3u8
+#EXTINF:-1,Первый канал HD ardinvest
+http://192.168.100.222:8008/pervy-hd/KkQkCEHCjn.m3u8
+#EXTINF:-1,Россия 1 HD ardinvest
+http://192.168.100.222:8008/rossia1-hd/YjC4axFDhz.m3u8
+#EXTINF:-1,ТРК 555 (Алушта) ardinvest
+http://192.168.100.222:8008/trk-555/aR7E4EYKCV.m3u8
+#EXTINF:-1,ИТВ ardinvest
+http://192.168.100.222:8008/itv/dtBPMabzn3.m3u8
+#EXTINF:-1,Че ardinvest
+http://192.168.100.222:8008/che/Udz5SsGb4y.m3u8
+#EXTINF:-1,ShopShow ardinvest
+http://192.168.100.222:8008/shop-n-show/Jb5tJtwYPw.m3u8
+#EXTINF:-1,ЛДПР ardinvest
+http://192.168.100.222:8008/ldpr-tv/7YKdStPU5Q.m3u8
+#EXTINF:-1,Ювелирочка ardinvest
+http://192.168.100.222:8008/yuvelirochka/LbCN7zTsRR.m3u8
+#EXTINF:-1,Москва 24 ardinvest
+http://192.168.100.222:8008/moskva-24/JZcgyGKWaM.m3u8
 
 
 #EXTINF:-1,Известия

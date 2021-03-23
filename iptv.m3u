@@ -369,6 +369,8 @@ https://v2.catcast.tv/content/38136/index.m3u8
 
 #EXTINF:-1,fashiontv.com ПОЛУНОЧНЫЕ СЕКРЕТЫ
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?
+#EXTINF:-1,fashion ПАРИЖ
+https://publica.cloudycdn.services/cl/dba1df9c-0167-4c5f-b6db-b2073996bcbe/1920x1080_4422136_0.m3u8?
 #EXTINF:-1,fashion ftv_paris
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8?
 #EXTINF:-1,Jasmin

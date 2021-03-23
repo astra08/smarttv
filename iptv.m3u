@@ -177,55 +177,29 @@ http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 http://91.192.168.242:9091
 #EXTINF:-1,fashiontv.com ПОЛУНОЧНЫЕ СЕКРЕТЫ
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?
-
-#EXTINF:-1,Russian Music Box
-http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
-#EXTINF:-1,КРТ
-http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4
-#EXTINF:-1,КТК
-https://sc.id-tv.kz/KTK_38_39.m3u8
 #EXTINF:-1,Кавказ 24
 http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
-#EXTINF:-1,Киев ТВ
-http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8?codec=mpeg4
-#EXTINF:-1,Макси/НАШ
-http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4
 #EXTINF:-1,Миллет
 http://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:-1,Мир 24
-https://sc.id-tv.kz/Mir24_38_39.m3u8
-#EXTINF:-1,Мир Белогорья
-http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1,Москва 24
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Наше ТВ Витебск [BY]
 http://95.46.208.8:26259/nashe
-#EXTINF:-1,Новый Мир
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 #EXTINF:-1,Первый Музыкальный RU BY
 http://rtmp.one.by:2200
-#EXTINF:-1,Рада ТВ
-http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8?codec=mpeg4
 #EXTINF:-1,СТВ (Беларусь)
 http://212.98.171.116/HLS/ctvby/playlist.m3u8
 #EXTINF:-1,СТВ Казахстан
 https://sc.id-tv.kz/STV_38_39.m3u8
-#EXTINF:-1,Санкт Петербург
-http://stream2.topspb.tv:1935/dev/smil:reserve.smil/playlist.m3u8
-#EXTINF:-1,ТВЦ
-http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
 #EXTINF:-1,ТДК 42
 https://sc.id-tv.kz/TDK-42_38_39.m3u8
-#EXTINF:-1,Россия 1 HD
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1,Россия 1 (Вайнах)
 http://live.chechensoft.ru:1935/vainahtv/vaynahtv/playlist.m3u8
 #EXTINF:-1,Первый канал
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
-#EXTINF:-1,Дума ТВ HD
-http://serv30.vintera.tv:8081/parlament/parlament_stream/playlist.m3u8
 #EXTINF:-1,Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+
 #EXTINF:-1,Оплот HD
 http://185.114.136.25/oplot-tv
 #EXTINF:-1,Говорит Москва

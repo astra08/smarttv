@@ -23,30 +23,29 @@ http://192.168.100.222:8008/otr/uFhvP9KkzU.m3u8
 http://192.168.100.222:8008/tvcentr/hpqJMkXjXu.m3u8
 #EXTINF:-1, РЕН ТВ ardinvest
 http://192.168.100.222:8008/rentv/UHrrShgJm9.m3u8
-
-
 #EXTINF:-1 tvg-id="Спас_ТВ", Спас ardinvest
-http://192.168.100.215:8001/spas
+http://192.168.100.222:8008/spas/uKtpp66U6C.m3u8
 #EXTINF:-1, СТС ardinvest
-http://192.168.100.215:8001/sts
+http://192.168.100.222:8008/sts/Yxja5uUxpg.m3u8
 #EXTINF:-1, Домашний ardinvest
-http://192.168.100.215:8001/domashniy
+http://192.168.100.222:8008/domashny/3XwaKC5su8.m3u8
 #EXTINF:-1, ТВ-3 ardinvest
-http://192.168.100.215:8001/tv3
+http://192.168.100.222:8008/tv3-ru/Urn4AYWF7T.m3u8
 #EXTINF:-1, Пятница ardinvest
-http://192.168.100.215:8001/pyatnica
+http://192.168.100.222:8008/piatnica/VjcyNPZnrm.m3u8
 #EXTINF:-1, Звезда ardinvest
-http://192.168.100.215:8001/zvezda
-#EXTINF:-1, МИР ardinvest
-http://192.168.100.215:8001/mir
-#EXTINF:-1, ТНТ ardinvest
-http://192.168.100.215:8001/tnt
-#EXTINF:-1, Муз-ТВ ardinvest
-http://192.168.100.215:8001/muz-tv
-#EXTINF:-1 tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/120/231.png, Крым 24 ardinvest
-http://192.168.100.215:8001/crimea24
-#EXTINF:-1 tvg-id="Первый Крымский" tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/120/228.png, Крым1 ardinvest
-http://192.168.100.215:8001/crimea1
+http://192.168.100.222:8008/zvezda/sJCuEr4942.m3u8
+#EXTINF:-1,МИР ardinvest
+http://192.168.100.222:8008/mir/BuBPMMkXTY.m3u8
+#EXTINF:-1,ТНТ ardinvest
+http://192.168.100.222:8008/tnt/XCMWbzPY9g.m3u8
+#EXTINF:-1,Муз-ТВ ardinvest
+http://192.168.100.222:8008/muztv/RWwC6keYPW.m3u8
+#EXTINF:-1,Крым 24 ardinvest
+http://192.168.100.222:8008/krym24-hd/kgzuTL7SuH.m3u8
+#EXTINF:-1,Крым1 ardinvest
+http://192.168.100.222:8008/pervy-krymsky/s23qXqwN5c.m3u8
+
 #EXTINF:-1 tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/120/230.jpg, Диалоги о рыбалке ardinvest
 http://192.168.100.215:8001/dialogiorybalke
 #EXTINF:-1 tvg-logo=http://stalker.ardinvest.net:88/stalker_portal/misc/logos/120/227.jpg, Миллет ardinvest

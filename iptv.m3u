@@ -203,9 +203,6 @@ http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
 http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
 #EXTINF:-1,Вместе РФ HD
 http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,ПЯТНИЦА! HD
-http://85.112.114.11:8086/udp/233.170.170.112:58631
 #EXTINF:-1,РТР Россия
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,A2
@@ -214,36 +211,18 @@ http://sc.id-tv.kz/A2_36_37.m3u8
 http://sc.id-tv.kz:80/amedia_hit_hd_38_39.m3u8
 #EXTINF:-1,A2_38_39
 https://sc.id-tv.kz/A2_38_39.m3u8
-#EXTINF:-1,HD КИНО
-https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
-#EXTINF:-1,VIP Premiere
-http://78.157.230.19/streaming/tv1000_premium_hd/364/copy/playlist.m3u8
-#EXTINF:-1,VIP Megahit HD
-http://188.35.9.5:10020/stolen/403x/hot.dll
-#EXTINF:-1,Классика Кино
-http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 #EXTINF:-1,НТВ
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
 #EXTINF:-1,Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1,Shot TV
 http://persik.by/stream/0264/420211/10454.m3u8
-#EXTINF:-1,KINO 24
-http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
-#EXTINF:-1,Bollywood HD
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
-#EXTINF:-1,ULTO tv
-http://ultotv.ru:8888/live/uhd/playlist.m3u8
 #EXTINF:-1,Univer TV HD
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1,Сочи 24 HD
 http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
-#EXTINF:-1,Москва 24
-http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Тюменское Время
 http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
-#EXTINF:-1,НТВ Сериал
-http://185.29.255.170:8005/play/a01z
 #EXTINF:-1,Домашний (+4)
 http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8?version=2
 #EXTINF:-1,Мир (+4)
@@ -268,94 +247,10 @@ http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/v
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2
 #EXTINF:-1,Россия К (+4)
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_ROSSIAK/variant.m3u8?version=2
-#EXTINF:-1,A1
-http://178.217.72.66/225.201.2.65/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Amedia Hit
-http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
-#EXTINF:-1,Amedia premium HD
-http://178.217.72.66/225.201.2.67/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bollywood HD
-http://89.106.234.4:80/bollywood_hd_34_35.m3u8
-#EXTINF:-1,Fox Live Russia
-http://178.217.72.66/225.201.2.203/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Hollywood
-http://178.217.72.66/225.201.2.76/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Hollywood HD
-http://178.217.72.66/225.201.2.85/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Sci-Fi
-http://178.217.72.66/225.201.2.212/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Turbo
-http://178.217.72.66/225.201.2.213/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV XXI
-http://178.217.72.66/225.201.2.68/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV1000 Action
-#EXTVLCOPT:http-user-agent=smartlabs
-http://ott-cdn.ucom.am/s91/04.m3u8
-#EXTINF:-1,ViP Megahit HD
-http://188.35.9.11:2016
-#EXTINF:-1,ViP Premiere HD
-http://188.35.9.15:2013
-#EXTINF:-1,А HBO
-#EXTVLCOPT:http-user-agent=smartlabs
-http://ott-cdn.ucom.am/s64/04.m3u8
-#EXTINF:-1,В гостях у сказки
-http://178.217.72.66/225.201.2.83/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Время
-http://178.217.72.66/225.201.2.201/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Дом кино
-http://178.217.72.66/225.201.2.161/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Дом кино премиум HD
-http://178.217.72.66/225.201.2.112/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Домашний
-http://178.217.72.66/225.201.2.42/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Дорама HD
-http://89.106.234.4:80/dorama_hd_34_35.m3u8
-#EXTINF:-1,Еврокино
-http://178.217.72.66/225.201.2.198/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Евроновости
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1,Жара TV
-http://178.217.72.66/225.201.2.110/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Известия
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1,Иллюзион +
-http://178.217.72.66/225.201.2.138/tracks-v1a1/mono.m3u8
-#EXTINF:-1,КВН
-http://178.217.72.66/225.201.2.126/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Канал 1
-https://5656.ga/ch1.m3u8
-#EXTINF:-1,Канал 2
-https://5656.ga/ch2.m3u8
-#EXTINF:-1,Канал 3
-https://5656.ga/ch3.m3u8
-#EXTINF:-1,Канал 4
-https://5656.ga/ch4.m3u8
-#EXTINF:-1,Канал 5
-https://5656.ga/ch5.m3u8
-#EXTINF:-1,Канал 6
-https://5656.ga/ch6.m3u8
-#EXTINF:-1,Кино UHD
-http://188.35.9.26:16050/udp/238.0.16.1:69000
-#EXTINF:-1,Кино ТВ
-http://178.217.72.66/225.201.2.223/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозал 7
-https://v3.catcast.me/content/37033/index.m3u8
-#EXTINF:-1,Кинокомедия
-http://178.217.72.66/225.201.2.177/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Киномарс 17
-http://v3.catcast.me/content/37033/index.m3u8
-#EXTINF:-1,Киномикс
-http://178.217.72.66/225.201.2.60/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Киномикс HD
-http://89.106.234.4:80/Kinomix_hd_34_35.m3u8
-#EXTINF:-1,Кинопремиум HD
-http://188.35.9.15:2017
-#EXTINF:-1,Киносвидание
-http://178.217.72.66/225.201.2.55/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Киносвидание HD
 http://89.106.234.4:80/Kinosvidanie_hd_34_35.m3u8
-#EXTINF:-1,Киносемья
-http://178.217.72.66/225.201.2.54/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1,Киносемья HD
 http://89.106.234.4:80/Kinosemiya_hd_34_35.m3u8
 #EXTINF:-1,Киносерия

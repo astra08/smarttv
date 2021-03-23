@@ -289,6 +289,10 @@ http://89.106.234.4:80/tnt4_34_35.m3u8
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1,Кинозал 23 (akudji) 
 https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,Кинозал 36 (Видеосалон VHS)
+https://hls.goodgame.ru/hls/175764.m3u8
+#EXTINF:-1,Кинозал 38 (Movie Classic)
+https://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u8
 
 #EXTINF:-1,Кинозал 1
 https://v2.catcast.tv/content/37033/index.m3u8
@@ -356,12 +360,8 @@ https://v2.catcast.tv/content/38153/index.m3u8
 https://v2.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1,Кинозал 35 (Музыка 2)
 https://v2.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1,Кинозал 36 (Видеосалон VHS)
-https://hls.goodgame.ru/hls/175764.m3u8
 #EXTINF:-1,Кинозал 37 (SeleCaoTV)
 https://hls.goodgame.ru/hls/163253.m3u8
-#EXTINF:-1,Кинозал 38 (Movie Classic)
-https://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1,Кинозал MIX KINO 
 https://hls.goodgame.ru/hls/176184.m3u8
 #EXTINF:-1,Кинозал MIX KINO 2

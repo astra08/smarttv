@@ -265,26 +265,15 @@ http://ott.inmart.tv:8081/35/index.m3u8
 http://ott.inmart.tv:8081/18/index.m3u8
 #EXTINF:-1,fashiontv.com ПОЛУНОЧНЫЕ СЕКРЕТЫ
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?
-
-#EXTINF:-1,Наше любимое кино
-http://178.217.72.66/225.201.2.204/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Новое ТВ
 http://89.106.234.4:80/New_Television_34_35.m3u8
-#EXTINF:-1,Ностальгия
-http://178.217.72.66/225.201.2.17/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Остросюжетное HD
-http://188.35.9.15:2015
-#EXTINF:-1,Первый
-http://178.217.72.66/225.201.2.57/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Первый канал Евразия
-http://89.106.234.4:80/1KanalEvraziya_34_35.m3u8
-
 #EXTINF:-1,Продвижение
 http://178.217.72.66/225.201.2.214/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Пятница
 http://uiptv.do.am/1ufc/103815382/playlist.m3u8
 #EXTINF:-1,Победа
 https://pkvc-hls.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b1128000_slru.m3u8
+
 
 #EXTINF:-1,Родное кино
 http://178.217.72.66/225.201.2.56/tracks-v1a1/mono.m3u8

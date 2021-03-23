@@ -249,24 +249,9 @@ http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_ROSSIAK/variant.m3u8?version=2
 #EXTINF:-1,Киносвидание HD
 http://89.106.234.4:80/Kinosvidanie_hd_34_35.m3u8
-
-
-#EXTINF:-1,Киносемья HD
-http://89.106.234.4:80/Kinosemiya_hd_34_35.m3u8
-#EXTINF:-1,Киносерия
-http://178.217.72.66/225.201.2.181/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинохит
-http://178.217.72.66/225.201.2.44/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинохит HD
-http://89.106.234.4:80/Kinohit_hd_34_35.m3u8
-#EXTINF:-1,Классика кино HD
-http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-#EXTINF:-1,Красная линия ТВ
-http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
-#EXTINF:-1,Кто есть кто
-http://178.217.72.66/225.201.2.59/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+
 #EXTINF:-1,МИР premium
 http://89.106.234.4:80/mir_premium_34_35.m3u8
 #EXTINF:-1,МИР Premium

@@ -98,41 +98,16 @@ http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1,8 канал (Витебск) HD
 http://95.46.208.8:24433/art
-
 #EXTINF:-1,БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1,Беларусь 4
 http://95.46.208.8:26258/belarus4
 #EXTINF:-1,Беларусь 24
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
-#EXTINF:-1,1+1
-http://185.189.184.7:8888/1plus1/index.m3u8?token=test
-#EXTINF:-1,1+1 HD
-http://185.189.184.8:8888/1plus1hd/index.m3u8?token=test
-#EXTINF:-1,2+2
-http://185.189.184.7:8888/2plus2/index.m3u8?token=test
-#EXTINF:-1, Інтер
-http://185.189.184.8:8888/Inter/index.m3u8?token=test
-#EXTINF:-1, К1
-http://185.189.184.8:8888/K1/index.m3u8?token=test
-#EXTINF:-1, Новый канал
-http://185.189.184.8:8888/Noviy_Kanal/index.m3u8?token=test
-#EXTINF:-1, СТБ
-http://185.189.184.8:8888/STB/index.m3u8?token=test
-#EXTINF:-1,Ентер Фільм
-http://185.189.184.7:8888/EnterFilm/index.m3u8?token=test
 #EXTINF:-1, К1
 http://109.68.40.67/life/k1_3/index.m3u8
-#EXTINF:0,НТН
-http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
-#EXTINF:-1,Интер
-http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:0,Перший незалежний
-http://95.67.12.149:9004
 #EXTINF:-1,Прямый
 http://95.67.21.100/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1,Сонце
-http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
 #EXTINF:-1,112 Украина HD
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:-1,Дагестан
@@ -141,70 +116,15 @@ https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
 #EXTINF:-1,Моя Удмуртия
 https://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
-#EXTINF:-1,Остросюжетное HD
-http://188.35.9.11:2015
 #EXTINF:-1,ULTO
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
-#EXTINF:-1,Фантастика HD
-http://50.7.212.18/FANTASTIKA_HD/video.m3u8?token=test
-#EXTINF:-1,Страх HD
-http://50.7.212.18/strah_hd/video.m3u8?token=test
-#EXTINF:-1,Победа
-http://50.7.212.18/Pobeda/video.m3u8?token=test
-#EXTINF:-1,Ретро
-http://50.7.212.18/Retro/index.m3u8?token=test
-#EXTINF:-1,VIP Megahit HD
-http://188.35.9.11:2016
-#EXTINF:-1,ViP Premiere HD
-http://188.35.9.15:2013
-#EXTINF:-1,ViP Comedy
-http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8
-#EXTINF:-1,ViP Megahit
-http://streamer.sktv.peers.tv/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8
-#EXTINF:-1,ViP Premiere
-http://streamer.sktv.peers.tv/streaming/tv1000_premium_hd/364/copy/playlist.m3u8
-#EXTINF:-1, TV1000
-http://185.189.184.8:8888/TV1000/index.m3u8?token=test
-#EXTINF:-1, TV1000Action
-http://185.189.184.8:8888/TV1000Action/index.m3u8?token=test
-#EXTINF:-1, TV1000ComedyHD
-http://185.189.184.8:8888/TV1000ComedyHD/index.m3u8?token=test
-#EXTINF:-1,TV1000 HD
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/tv1000.m3u8
-#EXTINF:-1,TV1000 Русское Кино HD
-http://88.216.80.254/tv1000_russkoe_kino/index.m3u8?token=test
 #EXTINF:-1,Красная линия 
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:-1,Кинозал KVN-HD
-http://hls.goodgame.ru:8080/hls/172148.m3u8
-#EXTINF:-1, Sony
-http://185.189.184.8:8888/Sony/index.m3u8?token=test
-#EXTINF:-1, SonySciFi
-http://185.189.184.8:8888/SonySciFi/index.m3u8?token=test
-#EXTINF:-1, SonyTurbo
-http://185.189.184.8:8888/SonyTurbo/index.m3u8?token=test
-#EXTINF:-1, ParamountChannelHD
-http://185.189.184.8:8888/ParamountChannelHD/index.m3u8?token=test
-#EXTINF:-1,Дом Кино Премиум HD
-http://188.35.9.26:12030/udp/160l
-#EXTINF:-1,HD КИНО
-https://hls.goodgame.ru/hls/12949_720.m3u8
-#EXTINF:-1,КиноПремиум HD
-http://188.35.9.11:2017
-#EXTINF:-1,Наше Любимое Кино
-http://88.216.80.254/nashe_kino/index.m3u8?token=test
 #EXTINF:-1,Киносвидание HD
 http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
-#EXTINF:-1,Киносемья HD
-http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
-#EXTINF:-1,Настоящее страшное ТВ
-http://78.157.230.19/streaming/nstv/364/gpu_tvrecw/playlist.m3u8
-#EXTINF:-1,Кинокомедия
-http://78.157.230.19/streaming/comedytv/364/gpu_tvrecw/playlist.m3u8
-#EXTINF:-1,Наше Новое Кино
-http://78.157.230.19/streaming/nashe_novoe_kino/364/gpu_tvrecw/playlist.m3u8
 #EXTINF:-1,Индийское кино
 http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
+
 #EXTINF:-1,Мужское кино
 http://188.113.190.12/316/video.m3u8
 #EXTINF:-1,Мужское кино HD

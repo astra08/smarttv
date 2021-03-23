@@ -147,13 +147,13 @@ http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTINF:-1,Красная линия ТВ
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1,Вместе РФ HD
+http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1,ЧП Инфо
+http://109.68.40.67/life/magnolia_2/index.m3u8
 
-#EXTINF:-1,Мир HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1,TV1000
-http://188.35.9.5:10020/stolen/484c/hot.dll
-#EXTINF:-1,Русский Роман HD
-http://188.35.9.5:10007/stolen/127k/parasite.install
+
+
 #EXTINF:-1,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Известия ТВ HD

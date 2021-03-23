@@ -145,8 +145,6 @@ http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Красная линия ТВ
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
-#EXTINF:-1,Вместе РФ HD
-http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
 #EXTINF:-1,ЧП Инфо
 http://109.68.40.67/life/magnolia_2/index.m3u8
 #EXTINF:-1,Bambarbia TV HD
@@ -199,13 +197,13 @@ http://live.chechensoft.ru:1935/vainahtv/vaynahtv/playlist.m3u8
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
 #EXTINF:-1,Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-
-#EXTINF:-1,Оплот HD
-http://185.114.136.25/oplot-tv
 #EXTINF:-1,Говорит Москва
 http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
 #EXTINF:-1,Вместе РФ HD
+http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1,Вместе РФ HD
 http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
+
 #EXTINF:-1,ПЯТНИЦА! HD
 http://85.112.114.11:8086/udp/233.170.170.112:58631
 #EXTINF:-1,РТР Россия

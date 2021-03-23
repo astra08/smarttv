@@ -273,46 +273,22 @@ http://178.217.72.66/225.201.2.214/tracks-v1a1/mono.m3u8
 http://uiptv.do.am/1ufc/103815382/playlist.m3u8
 #EXTINF:-1,Победа
 https://pkvc-hls.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b1128000_slru.m3u8
-
-
-#EXTINF:-1,Родное кино
-http://178.217.72.66/225.201.2.56/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Россия 24
-http://178.217.72.66/225.201.2.25/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Россия 1 HD
 http://uiptv.do.am/1ufc/000000002/playlist.m3u8
-#EXTINF:-1,Русский Иллюзион
-http://178.217.72.66/225.201.2.194/tracks-v1a1/mono.m3u8
-#EXTINF:-1,СТВ
-http://212.98.171.116/HLS/ctvby/playlist.m3u8
-#EXTINF:-1,СТС International
-http://89.106.234.4:80/STS_34_35.m3u8
-#EXTINF:-1,Санкт-Петербург
-http://178.217.72.66/225.201.2.29/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Смайлик ТВ HD
 http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
 #EXTINF:-1,Солн ТВ
 https://hls-solntv.cdnvideo.ru/solntv/solntv.sdp/playlist.m3u8
-#EXTINF:-1,Супер (tele.gs/IPTVIPTV1)
-https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565199329/2cc8a3d506291285a3896e8b871b3e90/playlist.m3u8
 #EXTINF:-1,ТБН
 http://62.32.67.187:1935/WEB_TBN/TBN.stream/playlist.m3u8
-
 #EXTINF:-1,ТВ Серпухов
 https://live-otvmedia.cdnvideo.ru/otvmedia/otvmedia/playlist.m3u8
 #EXTINF:-1,ТНТ4
 http://89.106.234.4:80/tnt4_34_35.m3u8
-#EXTINF:-1,Че!
-http://178.217.72.66/225.201.2.39/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Кинозал 17 (VHS 90s) 
+https://v2.catcast.tv/content/37925/index.m3u8
 
-#EXTINF:-1,Якутия 24
-http://live-saha.cdnvideo.ru/saha/yak24/playlist.m3u8
-#EXTINF:-1,Paramount Channel
-http://178.217.72.66/225.201.2.28/tracks-v1a1/mono.m3u8
-#EXTINF:-1,kuho24
-http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
-
-#EXTINF:-1,Кинозал 1 (Марс-ТВ) 
+#EXTINF:-1,Кинозал 1
 https://v2.catcast.tv/content/37033/index.m3u8
 #EXTINF:-1,Кинозал 2 (Сатурн-ТВ) 
 https://v2.catcast.tv/content/38118/index.m3u8
@@ -344,8 +320,6 @@ http://clients.apsny.camera/tv_gal_tv_hd_online/tracks-v1a1/mono.m3u8
 https://v2.catcast.tv/content/37913/index.m3u8
 #EXTINF:-1,Кинозал 16 (Сити Эдем киноклассика) 
 https://v2.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1,Кинозал 17 (VHS 90s) 
-https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1,Кинозал 18 (VHS EVGENIY) 
 https://v2.catcast.tv/content/36251/index.m3u8
 #EXTINF:-1,Кинозал 19 (Ужасы EVGENIY)

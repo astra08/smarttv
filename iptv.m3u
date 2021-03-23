@@ -124,29 +124,12 @@ https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 #EXTINF:-1,Индийское кино
 http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
-
-#EXTINF:-1,Мужское кино
-http://188.113.190.12/316/video.m3u8
-#EXTINF:-1,Мужское кино HD
-http://188.35.9.11:2022
-#EXTINF:-1,Звезда
-http://79.135.71.195:8014
 #EXTINF:-1,Amedia Hit HD
 http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
-#EXTINF:-1,Bollywood HD
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
-#EXTINF:-1,HD КИНО
-https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u8
-#EXTINF:-1,Кино UHD
-http://188.35.9.18:16050/udp/238.0.16.1:69000
-#EXTINF:-1,Kino 24
-http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
 #EXTINF:-1,Любимый HD
 http://92.245.103.126:1935/live/live.stream/playlist.m3u8
 #EXTINF:-1,СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
-#EXTINF:-1,TVM Channel
-http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
 #EXTINF:-1,Кинозал (Гал ТВ)
 http://clients.apsny.camera/tv_gal_tv_hd_online/tracks-v1a1/mono.m3u8
 #EXTINF:-1,FAN HD
@@ -156,62 +139,10 @@ https://hls.goodgame.ru/manifest/157239_master.m3u8
 http://hls.goodgame.ru/hls/175764.m3u8
 #EXTINF:-1,Кинозал-VHS 90s
 http://v2.catcast.me/content/37925/index.m3u8
-#EXTINF:-1,Кинозал-ДЕЖАВЮ
-http://v2.catcast.me/content/37913/index.m3u8
-#EXTINF:-1,Кинозал-FILM TV HD
-http://195.9.195.3:8080/manifest/165462_master.m3u8
-#EXTINF:-1,Кинозал Cinema HORROR HD
-http://hls.goodgame.ru/hls/158135.m3u8
-#EXTINF:-1,Кинозал Боевик ТВ HD
-http://v2.catcast.me/content/37493/index.m3u8
-#EXTINF:-1,Кинозал-Сити Эдем Play TV
-http://v2.catcast.me/content/34100/index.m3u8
-#EXTINF:-1,Кинозал-Сити Эдем КиноКлассика
-http://v2.catcast.me/content/34185/index.m3u8
-#EXTINF:-1,Кинозал-Marvel TV
-http://v1.catcast.me/contentv2/35525/index.m3u8
-#EXTINF:-1,Кинозал-Фантастика HD
-https://v2.catcast.me/content/37388/index.m3u8
-#EXTINF:-1,Кинозал-Индийские фильмы
-http://v2.catcast.me/content/37353/index.m3u8
-#EXTINF:-1,Кинозал-AKUDJI TV HD
-http://stream1.cybergame.tv:8080/live/akudjio.m3u8
-#EXTINF:-1,Кинозал-КИНО HD 2(МОЖи)
-http://hls.goodgame.ru/hls/32491.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u8
-#EXTINF:-1,Кинопоказ HD
-http://188.35.9.11:2021
-#EXTINF:-1,Kino Watch
-https://or-be-01.mycdn.video/watch/hit/index.m3u8?token=NJAZAMYQLP
-#EXTINF:-1,Kino Watch (Резерв)
-https://or-be-01.mycdn.video/watch/hit/index.m3u8?token=SVG4MFQOEW
-#EXTINF:-1,Кинозаказ 1
-https://v2.catcast.me/content/36277/index.m3u8
-#EXTINF:-1,Кинозал 1 (Марс-ТВ) 
-https://autopilot.catcast.me/content/37033/index.m3u8
-#EXTINF:-1,Кинозал 2 (pznstreams) 720
-https://hls.goodgame.ru/hls/12949_720.m3u8
-#EXTINF:0,Кинозал 3 (pznstreams) 1080
-http://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:-1,Кинозал 4 (ULTO) 
-http://ultotv.ru:8888/live/uhd/playlist.m3u8
-#EXTINF:-1,Кинозал 5 (STR TV) 
-https://hls.goodgame.ru/hls/130048.m3u8
-#EXTINF:-1,Кинозал 6 (EVGEN VHS)
-http://v2.catcast.me/content/36251/index.m3u8
-#EXTINF:-1,Кинозал 7 (Evgen СССР) 
-https://v2.catcast.me/content/36506/index.m3u8
-#EXTINF:-1,Кинозал 8 (DIESELBOY)
-https://hls.goodgame.ru/hls/42599.m3u8
 #EXTINF:-1,Кинозал 9 (Боль)
 https://hls.goodgame.ru/hls/73474.m3u8
-#EXTINF:-1,Кинозал 10 (EVGEN Serial)
-http://v2.catcast.me/content/36168/index.m3u8
-#EXTINF:-1,Кинозал 11 (Film TV)
-http://195.9.195.3:8080/hls/165462.m3u8
-#EXTINF:-1,Кинозал 12 (БОЕВИК TV)
-http://v2.catcast.me/content/37493/index.m3u8
-#EXTINF:-1,Кинозал 13 (Zzigfreed)
-http://v2.catcast.me/content/37713/index.m3u8
+
+
 #EXTINF:-1,Канал 1
 https://5656.ga/ch1.m3u8
 #EXTINF:-1,Канал 2

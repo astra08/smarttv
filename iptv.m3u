@@ -283,19 +283,6 @@ http://62.32.67.187:1935/WEB_TBN/TBN.stream/playlist.m3u8
 https://live-otvmedia.cdnvideo.ru/otvmedia/otvmedia/playlist.m3u8
 #EXTINF:-1,ТНТ4
 http://89.106.234.4:80/tnt4_34_35.m3u8
-#EXTINF:-1,Кинозал 17 (VHS 90s) 
-https://v2.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1,Кинозал 23 (akudji) 
-https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1,Кинозал 36 (Видеосалон VHS)
-https://hls.goodgame.ru/hls/175764.m3u8
-#EXTINF:-1,Кинозал 37 (SeleCaoTV)
-https://hls.goodgame.ru/hls/163253.m3u8
-#EXTINF:-1,Кинозал 38 (Movie Classic)
-https://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1,Твое ТВ HD
-http://stream-norst.cf:8080/tvoetv/index.m3u8
-
 #EXTINF:-1,Первый канал
 http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
 #EXTINF:0,Первый канал
@@ -721,7 +708,18 @@ http://live02-cdn.tv.ti.ru:80/dtv/id371_NBN_SG--Zagorodnaya_zhizn/01/plst.m3u8
 https://sc.id-tv.kz/IDFashion.m3u8
 #EXTINF:-1,Fashion TV (ForkPlayer)
 http://live02-cdn.tv.ti.ru:80/dtv/id713_NBN_SG--fashiontv/03/plst.m3u8
-
+#EXTINF:-1,Кинозал 17 (VHS 90s) 
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1,Кинозал 23 (akudji) 
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,Кинозал 36 (Видеосалон VHS)
+https://hls.goodgame.ru/hls/175764.m3u8
+#EXTINF:-1,Кинозал 37 (SeleCaoTV)
+https://hls.goodgame.ru/hls/163253.m3u8
+#EXTINF:-1,Кинозал 38 (Movie Classic)
+https://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1,Твое ТВ HD
+http://stream-norst.cf:8080/tvoetv/index.m3u8
 
 
 

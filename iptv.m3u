@@ -955,7 +955,7 @@ https://youtu.be/0GFpmE3Kmvo
 
 
 
-#EXTINF:-1,ггггггггггггггг
+#EXTINF:-1,ytutjgifjgfjgig888686jt
 
 
 
@@ -972,8 +972,6 @@ https://sc.id-tv.kz/Atameken.m3u8
 https://sc.id-tv.kz/IDFashion.m3u8
 #EXTINF:-1,Ел Арна
 https://sc.id-tv.kz/ElArna.m3u8
-#EXTINF:-1,КТК
-https://sc.id-tv.kz/KTK.m3u8
 #EXTINF:-1,Новое ТВ
 https://sc.id-tv.kz/New_Television_38_39.m3u8
 #EXTINF:-1,Новое телевидение
@@ -984,8 +982,7 @@ https://sc.id-tv.kz/STV.m3u8
 http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 #EXTINF:-1,Хабар 24
 https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
-#EXTINF:-1,Хабар 24
-https://sc.id-tv.kz/Khabar.m3u8
+
 #EXTINF:-1,Халык Арна
 https://sc.id-tv.kz/HalykArna.m3u8
 #EXTINF:0,Кавказ 24
@@ -1002,17 +999,9 @@ https://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
 http://livebeta.publika.md/LIVE/P/6810.m3u8
 #EXTINF:-1,Deutsche Welle
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
+
 #EXTINF:-1,Ultra REX FullHD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
-#EXTINF:-1,Ultra HD cinema
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
-#EXTINF:-1,Ultra HD Cinema FulHD
-#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
-#EXTINF:-1,Kino UHD 4K
-http://dmitry-tv.my1.ru/his/zabava/04/CH_KINOUHD_HLSUHD.m3u8?version=2&offset=-3600|user-agent=mx
-#EXTINF:-1,Serial UHD 4K
-http://dmitry-tv.my1.ru/his/zabava/04/CH_SERIALUHD_HLSUHD.m3u8?version=2&offset=-3600|user-agent=mx
 #EXTINF:-1,Ultra HD Cinema
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1,Кино UHD

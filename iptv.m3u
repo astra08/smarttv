@@ -470,6 +470,40 @@ http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
 #EXTINF:-1,TV 5
 http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
+#EXTINF:-1,UA TV HD
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1,UA:Перший HD
+http://uapershiy-hls2.cosmonova.net.ua/hls/uapershiy_ua_hi/index.m3u8
+#EXTINF:-1,Чернівецький Промінь HD
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1,Донбас Online HD
+http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
+#EXTINF:-1,UKR Live HD
+http://95.67.12.149:9005
+#EXTINF:-1,Здоровье
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
+#EXTINF:-1,Прямый
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1,Рудана FHD
+https://live.rudana.com.ua/hls/stream_FHD.m3u8
+#EXTINF:-1,Обоз ТВ
+https://player.obozrevatel.com/live1/stream.m3u8
+#EXTINF:-1,Объектив 59
+https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
+#EXTINF:-1,Первый Городской (Одесса)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1,Правда ТУТ
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,Правда ТУТ HD
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,ТIС (Одесса)
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8
+#EXTINF:-1,Балта ТВ
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1,ВТВ-Плюс
+#EXTVLCOPT:network-caching=1000
+http://iptv.rubintele.com:8552/play/a007
+
 
 #EXTINF:-1,Кинозал 1
 https://v2.catcast.tv/content/37033/index.m3u8
@@ -921,50 +955,13 @@ https://youtu.be/0GFpmE3Kmvo
 
 
 
-#EXTINF:-1ггггггггггггггг
+#EXTINF:-1,ггггггггггггггг
 
 
 
 
-#EXTINF:-1,UA TV HD
-http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1,UA:Перший HD
-http://uapershiy-hls2.cosmonova.net.ua/hls/uapershiy_ua_hi/index.m3u8
-#EXTINF:-1,Чернівецький Промінь HD
-http://langate.tv/promin/live_720/index.m3u8
-#EXTINF:-1,34 Канал
-http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
-#EXTINF:-1,Донбас Online HD
-http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
-#EXTINF:-1,UKR Live HD
-http://95.67.12.149:9005
-#EXTINF:-1,Здоровье
-http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
-#EXTINF:-1,Прямый
-http://95.67.21.100/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1,Рудана FHD
-https://live.rudana.com.ua/hls/stream_FHD.m3u8
-#EXTINF:-1,Обоз ТВ
-https://player.obozrevatel.com/live1/stream.m3u8
-#EXTINF:-1,Объектив 59
-https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
-#EXTINF:-1,Первый Городской (Одесса)
-http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
-#EXTINF:-1,Правда ТУТ
-http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1,Правда ТУТ HD
-http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1,ТIС (Одесса)
-http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8
-#EXTINF:-1,Балта ТВ
-http://194.50.51.34/playlist.m3u8
-#EXTINF:-1,ВТВ-Плюс
-#EXTVLCOPT:network-caching=1000
-http://iptv.rubintele.com:8552/play/a007
-#EXTINF:-1,31 канал
-https://sc.id-tv.kz/31Kanal.m3u8
-#EXTINF:-1,7 канал (KZ)
-https://sc.id-tv.kz/7_kanal_38_39.m3u8
+
+
 #EXTINF:-1,Almaty TV
 https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 #EXTINF:-1,Astana TV

@@ -289,6 +289,8 @@ https://v2.catcast.tv/content/37925/index.m3u8
 https://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,Кинозал 36 (Видеосалон VHS)
 https://hls.goodgame.ru/hls/175764.m3u8
+#EXTINF:-1,Кинозал 37 (SeleCaoTV)
+https://hls.goodgame.ru/hls/163253.m3u8
 #EXTINF:-1,Кинозал 38 (Movie Classic)
 https://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u8
 
@@ -358,8 +360,6 @@ https://v2.catcast.tv/content/38153/index.m3u8
 https://v2.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1,Кинозал 35 (Музыка 2)
 https://v2.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1,Кинозал 37 (SeleCaoTV)
-https://hls.goodgame.ru/hls/163253.m3u8
 #EXTINF:-1,Кинозал MIX KINO 
 https://hls.goodgame.ru/hls/176184.m3u8
 #EXTINF:-1,Кинозал MIX KINO 2
@@ -387,13 +387,10 @@ http://50.7.172.58:8081/26/index.m3u8?wmsAuthSign=1600100231p632i82i191i881Sb181
 http://50.7.172.58:8081/27/index.m3u8?wmsAuthSign=1600101001p632i82i191i881S98977262c9f98b1f40e110f1174390af
 #EXTINF:-1,FAP TV 4 oxax
 http://50.7.172.58:8081/28/index.m3u8?wmsAuthSign=1600101059p632i82i191i881S4900037d7b30c6520e8e78231c5820bb
-
 #EXTINF:-1,FAP TV Teens hochu
 http://50.7.172.58:8081/36/index.m3u8?wmsAuthSign=1600101160p632i82i191i881S6ed707cbb980939908955e29a5b4efc8
-
 #EXTINF:-1,FAP TV Parody oxax
 http://50.7.172.58:8081/32/index.m3u8?wmsAuthSign=1600101101p632i82i191i881Sacfc1c69685d7597178e64c6f0d402b4
-
 #EXTINF:-1,FAP TV Anal hochu
 http://50.7.220.130:8081/fap_an/index.m3u8?wmsAuthSign=5fb24e7b21f68b9dddd1326006ad6b55-1598776656-632i82i191i881
 #EXTINF:-1,FAP TV BBW oxax
@@ -610,6 +607,10 @@ https://dl.dropbox.com/s/2jlgreugitfn7q3/iptv6.mp4
 #EXTINF:-1,ban HD
 http://live.redtraffic.xyz/bangbros.m3u8
 
+
+
+
+
 #EXTINF:-1,Телевидение России Без смены IP
 http://tv-fresh.org/
 #EXTINF:-1,Россия 1
@@ -734,8 +735,9 @@ https://youtu.be/0GFpmE3Kmvo
 
 
 
-#EXTINF:-1,Первый канал "Евразия"
-https://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
+
+
+
 #EXTINF:-1,Первый канал
 http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
 #EXTINF:0,Первый канал
@@ -802,8 +804,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,РЕН ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Рен ТВ HD
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1,Рен ТВ International
 http://sc.id-tv.kz/RenTV_36_37.m3u8
 #EXTINF:-1,Пятый канал
@@ -854,8 +854,6 @@ http://streaming.astrakhan.ru/astrakhan24/index.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1,Известия ТВ FHD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1,Новороссия HD
-http://185.114.136.25:80/novorossia-tv
 #EXTINF:-1,Первый республиканский
 http://ott.inmart.tv:8081/18/index.m3u8
 #EXTINF:-1,Оплoт HD
@@ -902,8 +900,6 @@ http://51.195.44.53:8081/tv/tet/playlist.m3u8
 http://163.172.71.147:8080/stb/mpegts
 #EXTINF:-1,Новий канал
 http://51.195.44.53:8081/tv/novii-kanal/chunks.m3u8
-#EXTINF:-1,Inter
-http://188.35.9.11:11031/z
 #EXTINF:-1,К1
 http://109.68.40.67/life/k1_3/index.m3u8
 #EXTINF:-1,Орбіта ТВ
@@ -918,6 +914,17 @@ http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
 #EXTINF:-1,TV 5
 http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
+
+
+
+
+
+
+ггггггггггггггг
+
+
+
+
 #EXTINF:-1,UA TV HD
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1,UA:Перший HD

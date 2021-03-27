@@ -617,6 +617,49 @@ http://51.68.140.190:8081/tv/nostalgiya/playlist.m3u8
 http://212.79.122.24:7002/travel
 #EXTINF:-1,VHS KINO
 https://autopilot.catcast.tv/content/38798/index.m3u8
+#EXTINF:-1,ВидеокассетА
+https://autopilot.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1,SKY2000 HD
+http://siza.site/iptvteam?format=flv
+#EXTINF:-1,ХИТ HD
+https://hls.myvideocontent.ru/hls/vipcinemahd/index.m3u8
+#EXTINF:-1,BACKUSTV HD
+https://s2.catcast.tv/content/39837/index.m3u8
+#EXTINF:-1,BACKUSTV Страшное HD
+https://s2.catcast.tv/content/39864/index.m3u8
+#EXTINF:-1,Лен ТВ24
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+#EXTINF:-1,TV PRO
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:-1,КинокласикА
+https://v2.catcast.tv/content/38793/index.m3u8
+#EXTINF:-1,Мосфильм Золотая Коллекция
+http://109.200.130.124:7007/play/a018
+#EXTINF:-1,Мосфильм Золотая Колекция HD 
+http://31.128.159.41:8080/mosfilm/index.m3u8
+#EXTINF:-1,Наше Любимое Кино
+http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
+#EXTINF:-1,Кинопоказ
+https://s3.idata.uz/dars9/index.m3u8
+#EXTINF:-1,Кинопоказ
+http://185.74.7.220:8080/kinopokaz/tracks-v1a1/index.m3u8
+#EXTINF:-1,ХИТ1 HD
+https://hls.myvideocontent.ru/hls/vipcinemahd/index.m3u8
+#EXTINF:-1,РЕТРО
+http://5.129.0.223:81/udp/239.1.21.23:1234
+#EXTINF:-1,Кино 1
+https://v2.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1,Еврокино
+http://94.230.240.12:8080/eurokino/index.m3u8
+#EXTINF:-1,Blue Crabs TV
+https://hls.goodgame.ru/hls/100586.m3u8
+#EXTINF:-1,seriesTV
+http://cdnhls.goodgame.ru/hls/183108.m3u8
+#EXTINF:-1,Firedrom HD
+http://cdnhls.goodgame.ru/hls/180204.m3u8
+#EXTINF:-1,PZN FHD
+http://cdnhls.goodgame.ru/hls/180960.m3u8
+
 
 
 #EXTINF:-1,Кинозал 1
@@ -1114,54 +1157,10 @@ http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
 
 
 
-#EXTINF:-1,Shot
-http://31.210.208.168:8080/shottv/index.m3u8
-#EXTINF:-1,ВидеокассетА
-https://autopilot.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1,SKY2000 HD
-http://siza.site/iptvteam?format=flv
-#EXTINF:-1,ХИТ HD
-https://hls.myvideocontent.ru/hls/vipcinemahd/index.m3u8
-#EXTINF:-1,BACKUSTV HD
-https://s2.catcast.tv/content/39837/index.m3u8
-#EXTINF:-1,BACKUSTV Страшное HD
-https://s2.catcast.tv/content/39864/index.m3u8
-#EXTINF:-1,Лен ТВ24
-http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
-#EXTINF:-1,TV PRO
-http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-#EXTINF:-1,КинокласикА
-https://v2.catcast.tv/content/38793/index.m3u8
-#EXTINF:-1,Мосфильм Золотая Коллекция
-http://109.200.130.124:7007/play/a018
-#EXTINF:-1,Мосфильм Золотая Колекция HD 
-http://31.128.159.41:8080/mosfilm/index.m3u8
-#EXTINF:-1,Наше Любимое Кино
-http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
-#EXTINF:-1,Кинопоказ
-https://s3.idata.uz/dars9/index.m3u8
-#EXTINF:-1,Кинопоказ
-http://185.74.7.220:8080/kinopokaz/tracks-v1a1/index.m3u8
-#EXTINF:-1,ХИТ1 HD
-https://hls.myvideocontent.ru/hls/vipcinemahd/index.m3u8
-#EXTINF:-1,РЕТРО
-http://5.129.0.223:81/udp/239.1.21.23:1234
-#EXTINF:-1,Кино 1
-https://v2.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1,Еврокино
-http://94.230.240.12:8080/eurokino/index.m3u8
-#EXTINF:-1,Zigfreed
-http://zigfreed.ru:8080/Z!/index.m3u8
-#EXTINF:-1,Blue Crabs TV
-https://hls.goodgame.ru/hls/100586.m3u8
-#EXTINF:-1,seriesTV
-http://cdnhls.goodgame.ru/hls/183108.m3u8
-#EXTINF:-1,Firedrom HD
-http://cdnhls.goodgame.ru/hls/180204.m3u8
-#EXTINF:-1,PZN FHD
-http://cdnhls.goodgame.ru/hls/180960.m3u8
-#EXTINF:-1,ФАНТАСТИКА HD
-http://cdnhls.goodgame.ru/hls/181070.m3u8
+
+
+
+
 #EXTINF:-1,Ассорти HD
 http://cdnhls.goodgame.ru/hls/178574.m3u8
 #EXTINF:-1,ВидеокассетА

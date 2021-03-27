@@ -659,6 +659,60 @@ http://cdnhls.goodgame.ru/hls/183108.m3u8
 http://cdnhls.goodgame.ru/hls/180204.m3u8
 #EXTINF:-1,PZN FHD
 http://cdnhls.goodgame.ru/hls/180960.m3u8
+#EXTINF:-1,Ассорти HD
+http://cdnhls.goodgame.ru/hls/178574.m3u8
+#EXTINF:-1,ВидеокассетА
+https://autopilot.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1,SC TV FHD
+http://cdnhls.goodgame.ru/hls/61358.m3u8
+#EXTINF:-1,STR HD
+http://cdnhls.goodgame.ru/hls/182277.m3u8
+#EXTINF:-1,Filiza Studios HD
+https://cdnhls.goodgame.ru/hls/166446.m3u8
+#EXTINF:-1,TrAsh HD
+http://cdn.nexttvnet.ru/hlsl/1/TrashHD/index.m3u8
+#EXTINF:-1,Flux HD
+http://92.63.101.249:80/flux/index.m3u8?token=site
+#EXTINF:-1,FilMax
+http://cdnhls.goodgame.ru/hls/163253.m3u8
+#EXTINF:-1,Прем'єра
+https://v2.catcast.tv/content/38792/index.m3u8
+#EXTINF:-1,Мосфильм Золотая Коллекция HD
+http://bitrix.powernet.com.ru/mosfilm/mpegts
+#EXTINF:-1,Millenium TV HD
+http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
+#EXTINF:-1,Millenium TV
+http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
+#EXTINF:-1,Aladdin HD
+https://autopilot.catcast.tv/content/34251/index.m3u8
+#EXTINF:-1,Fentezy HD
+http://autopilot.catcast.tv/content/38144/index.m3u8
+#EXTINF:-1,Фантастика Sci-Fi
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1,СССР ТВ
+https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1,Ужастик
+https://autopilot.catcast.tv/content/38896/index.m3u8
+#EXTINF:-1,ПРЕМЬЕРА
+https://autopilot.catcast.tv/content/39161/index.m3u8
+#EXTINF:-1,Первый СССР
+http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
+#EXTINF:-1,Кинозал (Гал ТВ)
+http://clients.apsny.camera/tv_gal_tv_hd_online/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FAN HD
+#EXTVLCOPT:http-user-agent=smartlabs
+https://hls.goodgame.ru/manifest/157239_master.m3u8
+#EXTINF:-1,Akudji HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,Кинозал-VHS 90s
+http://v2.catcast.me/content/37925/index.m3u8
+#EXTINF:-1,Кинозал-Музыка кино HD
+http://v2.catcast.me/content/37739/index.m3u8
+#EXTINF:-1,Discovery
+http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
+#EXTINF:-1,Discovery Science
+http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 
 
 
@@ -1156,137 +1210,6 @@ http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
 
 
 
-
-
-
-
-
-#EXTINF:-1,Ассорти HD
-http://cdnhls.goodgame.ru/hls/178574.m3u8
-#EXTINF:-1,ВидеокассетА
-https://autopilot.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1,SC TV FHD
-http://cdnhls.goodgame.ru/hls/61358.m3u8
-#EXTINF:-1,STR HD
-http://cdnhls.goodgame.ru/hls/182277.m3u8
-#EXTINF:-1,Filiza Studios HD
-https://cdnhls.goodgame.ru/hls/166446.m3u8
-#EXTINF:-1,TrAsh HD
-http://cdn.nexttvnet.ru/hlsl/1/TrashHD/index.m3u8
-#EXTINF:-1,Flux HD
-http://92.63.101.249:80/flux/index.m3u8?token=site
-#EXTINF:-1,FilMax
-http://cdnhls.goodgame.ru/hls/163253.m3u8
-#EXTINF:-1,Прем'єра
-https://v2.catcast.tv/content/38792/index.m3u8
-#EXTINF:-1,Мосфильм Золотая Коллекция HD
-http://bitrix.powernet.com.ru/mosfilm/mpegts
-#EXTINF:-1,Камеди HD
-http://213.183.48.63:8181/channel/n5b3e3cfd/index.m3u8
-#EXTINF:-1,Kino Jam HD
-http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/7260/index.m3u8
-#EXTINF:-1,Kino Jam 2 HD
-http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/7261/index.m3u8
-#EXTINF:-1,Millenium TV HD
-http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
-#EXTINF:-1,Millenium TV
-http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
-#EXTINF:-1,TOP: Великолепный Век
-http://topchantv.net:3456/promoTOP/promoTOP/6
-#EXTINF:-1,TOP: 80's
-http://topchantv.net:3456/promoTOP/promoTOP/277
-#EXTINF:-1,TOP: BUDO HD
-http://topchantv.net:3456/promoTOP/promoTOP/428
-#EXTINF:-1,TOP: CINEMA HD
-http://topchantv.net:3456/promoTOP/promoTOP/1611
-#EXTINF:-1,TOP: USSR
-http://topchantv.net:3456/promoTOP/promoTOP/6641
-#EXTINF:-1,TOP: MIX
-http://topchantv.net:3456/promoTOP/promoTOP/12597
-#EXTINF:-1,Aladdin HD
-https://autopilot.catcast.tv/content/34251/index.m3u8
-#EXTINF:-1,Fentezy HD
-http://autopilot.catcast.tv/content/38144/index.m3u8
-#EXTINF:-1,Фантастика Sci-Fi
-https://autopilot.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1,СССР ТВ
-https://autopilot.catcast.tv/content/38821/index.m3u8
-#EXTINF:-1,Ужастик
-https://autopilot.catcast.tv/content/38896/index.m3u8
-#EXTINF:-1,ПРЕМЬЕРА
-https://autopilot.catcast.tv/content/39161/index.m3u8
-#EXTINF:-1,Первый СССР
-http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
-#EXTINF:-1,Кинозал (Гал ТВ)
-http://clients.apsny.camera/tv_gal_tv_hd_online/tracks-v1a1/mono.m3u8
-#EXTINF:-1,FAN HD
-#EXTVLCOPT:http-user-agent=smartlabs
-https://hls.goodgame.ru/manifest/157239_master.m3u8
-#EXTINF:-1,Akudji HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1,Кинозал-VHS 90s
-http://v2.catcast.me/content/37925/index.m3u8
-#EXTINF:-1,Кинозал-Музыка кино HD
-http://v2.catcast.me/content/37739/index.m3u8
-#EXTINF:-1,КинозаЛ
-https://hls.goodgame.ru/hls/73474.m3u8
-#EXTINF:-1,Film TV
-http://filmtv.zapto.org:8050/hls/stream/index.m3u8
-#EXTINF:-1,Канал 1
-https://5656.ga/ch1.m3u8
-#EXTINF:-1,Канал 2
-https://5656.ga/ch2.m3u8
-#EXTINF:-1,Канал 3
-https://5656.ga/ch3.m3u8
-#EXTINF:-1,Канал 4
-https://5656.ga/ch4.m3u8
-#EXTINF:-1,Канал 5
-https://5656.ga/ch5.m3u8
-#EXTINF:-1,Канал 6
-https://5656.ga/ch6.m3u8
-#EXTINF:-1,Канал 7
-https://5656.ga/ch7.m3u8
-#EXTINF:-1,Канал 8
-https://5656.ga/ch8.m3u8
-#EXTINF:-1,Канал 9
-https://5656.ga/ch9.m3u8
-#EXTINF:-1,Канал 10
-https://5656.ga/ch10.m3u8
-#EXTINF:-1,Канал 11
-https://5656.ga/ch11.m3u8
-#EXTINF:-1,Канал 12
-https://5656.ga/ch12.m3u8
-#EXTINF:-1,Канал 13
-https://5656.ga/ch13.m3u8
-#EXTINF:-1,Канал 14
-https://5656.ga/ch14.m3u8
-#EXTINF:-1,Канал 15
-https://5656.ga/ch15.m3u8
-#EXTINF:-1,Канал 16
-https://5656.ga/ch16.m3u8
-#EXTINF:-1,Канал 17
-https://5656.ga/ch17.m3u8
-#EXTINF:-1,Канал 18
-https://5656.ga/ch18.m3u8
-#EXTINF:-1,U!Premium ATV
-http://ott-cdn.ucom.am/s83/index.m3u8
-#EXTINF:0,Armenia Comedy ATV
-http://ott-cdn.ucom.am/s32/index.m3u8
-#EXTINF:0,Cineman ATV 
-http://ott-cdn.ucom.am/s66/04.m3u8 
-#EXTINF:0,Filmzone ATV 
-http://ott-cdn.ucom.am/s48/04.m3u8 
-#EXTINF:0,Kinoman ATV 
-http://ott-cdn.ucom.am/s94/04.m3u8
-#EXTINF:-1,Haykino ATV
-http://ott-cdn.ucom.am/s22/index.m3u8
-#EXTINF:-1,НТМ HD
-http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1,Discovery
-http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
-#EXTINF:-1,Discovery Science
-http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 #EXTINF:-1,National Geographic
 http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
 #EXTINF:-1,National Geographic HD

@@ -721,6 +721,12 @@ https://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3
 #EXTINF:-1,Твое ТВ HD
 http://stream-norst.cf:8080/tvoetv/index.m3u8
 
+#EXTINF:-1,Свое ТВ iptv.team
+https://live.stv24.tv/svoetv/MQ_video.m3u8
+#EXTINF:-1,Лен ТВ 24 iptv.team
+https://lvms01.inmedis.ru:4443/videowhisper/ngrp:47channel_live_broadcast.stream_all/chunklist_w755557432_b6413312.m3u8
+#EXTINF:-1,Luxury World HD Live iptv.team
+https://nano.teleservice.su/hls/luxury.m3u8
 
 
 #EXTINF:-1,Кинозал 1

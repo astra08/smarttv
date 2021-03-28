@@ -729,6 +729,7 @@ https://lvms01.inmedis.ru:4443/videowhisper/ngrp:47channel_live_broadcast.stream
 https://nano.teleservice.su/hls/luxury.m3u8
 
 
+
 #EXTINF:-1,Кинозал 1
 https://v2.catcast.tv/content/37033/index.m3u8
 #EXTINF:-1,Кинозал 2 (Сатурн-ТВ) 

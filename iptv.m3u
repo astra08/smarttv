@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,SI-00998
+https://potassium.cdn.videob.cc/movies/99024201c7b2de4acc7e8ff66a55e5c4ea8db363/ac25ae9ed8e682705e56a389182cb739:2021122000:e1c93a38a7/hls.m3u8
+
 #EXTINF:-1,Первый канал ardinvest
 http://192.168.100.222:8008/pervy/pVtENjWcUA.m3u8
 #EXTINF:-1,Россия 1 ardinvest

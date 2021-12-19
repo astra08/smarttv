@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,SI-00998
-https://potassium.cdn.videob.cc/movies/99024201c7b2de4acc7e8ff66a55e5c4ea8db363/ac25ae9ed8e682705e56a389182cb739:2021122000:e1c93a38a7/hls.m3u8
-
 #EXTINF:-1,Первый канал ardinvest
 http://192.168.100.222:8008/pervy/pVtENjWcUA.m3u8
 #EXTINF:-1,Россия 1 ardinvest
@@ -69,6 +66,8 @@ http://192.168.100.222:8008/ldpr-tv/7YKdStPU5Q.m3u8
 http://192.168.100.222:8008/yuvelirochka/LbCN7zTsRR.m3u8
 #EXTINF:-1,Москва 24 ardinvest
 http://192.168.100.222:8008/moskva-24/JZcgyGKWaM.m3u8
+#EXTINF:-1,SI-FI
+http://50.7.231.220:8081/145/index.m3u8?wmsAuthSign=1629574255p632i82i191i881S2fbc13c4719c66bfcc186e72a38cc5eb
 #EXTINF:-1 ,ULTO FHD
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
 #EXTINF:-1 ,VIP Comedy FHD

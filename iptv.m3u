@@ -68,23 +68,45 @@ http://192.168.100.222:8008/yuvelirochka/LbCN7zTsRR.m3u8
 http://192.168.100.222:8008/moskva-24/JZcgyGKWaM.m3u8
 
 
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,Sony Channel
+
+
+#EXTINF:-1,Кинохит vip.ontivi.net
+http://50.7.231.220:8081/200/index.m3u8?wmsAuthSign=1644173077p632i82i191i881Sfcb8f0f3609864dd83d611741d7cb579
+#EXTINF:-1,Мужское кино vip.ontivi.net
+http://50.7.161.20:8081/593/index.m3u8?wmsAuthSign=1644173362p632i82i191i881Sc83c361f3532a569bc06555f21177000
+#EXTINF:-1,Родное кино vip.ontivi.net
+http://50.7.231.220:8081/179/index.m3u8?wmsAuthSign=1644172793p632i82i191i881S4f60048357bed0d8a031e6cf9aba8392
+#EXTINF:-1,Киносемья vip.ontivi.net
+http://50.7.161.20:8081/531/index.m3u8?wmsAuthSign=1644172686p632i82i191i881S0e774166e09d5c47e86ed560bf3a807c
+#EXTINF:-1,Кинокомедия vip.ontivi.net
+http://50.7.231.220:8081/129/index.m3u8?wmsAuthSign=1644172598p632i82i191i881S9f018d9310b8c1b835b8f15aec0906fc
+#EXTINF:-1,НСТ vip.ontivi.net
+http://50.7.231.220:8081/127/index.m3u8?wmsAuthSign=1644172468p632i82i191i881S9aeb8ada04a0d0f3f519da0f1915a77c
+#EXTINF:-1,СоюзМультфильм vip.ontivi.net
+http://50.7.161.20:8081/511/index.m3u8?wmsAuthSign=1644172213p632i82i191i881S3767ebfc99daea261cfefd50c29b55a8
+#EXTINF:-1,Disney vip.ontivi.net
+http://50.7.231.220:8081/154/index.m3u8?wmsAuthSign=1644171967p632i82i191i881S2ee30f51f2eea5ffad35a27b63bceab0
+#EXTINF:-1,В гостях у сказки vip.ontivi.net
+http://50.7.161.20:8081/550/index.m3u8?wmsAuthSign=1644171602p632i82i191i881Se9fc2448d8b7070c8cc8a16044c48447
+#EXTINF:-1,Ералаш vip.ontivi.net
+http://50.7.161.20:8081/512/index.m3u8?wmsAuthSign=1644171799p632i82i191i881Sbb77e28361b1f3cad53f0b75a839c1e0
+#EXTINF:-1,Победа vip.ontivi.net
+http://50.7.231.220:8081/218/index.m3u8?wmsAuthSign=1644171360p632i82i191i881S19496690bf0365fe36a17b4c48e76a74
+#EXTINF:-1, Кино ТВ vip.ontivi.net
+http://50.7.161.20:8081/504/index.m3u8?wmsAuthSign=1644171005p632i82i191i881Sd5c53770944dac50e523daefe37b32f5
+#EXTINF:-1,Sony Channel vip.ontivi.net
 http://50.7.161.20:8081/576/index.m3u8?wmsAuthSign=1644170789p632i82i191i881S017fff58d514022d009b723a14e6db6c
-#EXTINF:-1,Sony Turbo
+#EXTINF:-1,Sony Turbo vip.ontivi.net
 http://50.7.161.20:8081/577/tracks-1,2/index.m3u8?wmsAuthSign=1644170664p632i82i191i881S26fdb79961b86e662bc1aa7478b16eb7
-#EXTINF:-1,Sony Sci-Fi
+#EXTINF:-1,Sony Sci-Fi vip.ontivi.net
 http://50.7.231.220:8081/145/index.m3u8?wmsAuthSign=1644170474p632i82i191i881S8e36041af92c6aa264f9fb4eea5db582
 #EXTINF:-1,SI-FI
 http://50.7.231.220:8081/145/index.m3u8?wmsAuthSign=1629574255p632i82i191i881S2fbc13c4719c66bfcc186e72a38cc5eb
-#EXTINF:-1,TV1000
+#EXTINF:-1,TV1000 vip.ontivi.net
 http://50.7.231.220:8081/137/index.m3u8?wmsAuthSign=1644169037p632i82i191i881S53be6abdc7eefc84a012e65ea0f654d0
-#EXTINF:-1,TV1000 Русское Кино
+#EXTINF:-1,TV1000 Русское Кино vip.ontivi.net
 http://50.7.231.220:8081/139/index.m3u8?wmsAuthSign=1644169995p632i82i191i881S84d409b7e5c222b3d778300164a95894
-#EXTINF:-1,TV1000 Action
+#EXTINF:-1,TV1000 Action vip.ontivi.net
 http://50.7.231.220:8081/138/index.m3u8?wmsAuthSign=1644170292p632i82i191i881Sae83ca436939810486366c0399e344e0
 
 
